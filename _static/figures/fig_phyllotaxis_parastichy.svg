@@ -1,0 +1,304 @@
+<svg class="euclid-graphic" viewBox="0 0 730 272" role="img" aria-label="Cylindrical and apical Fibonacci phyllotaxis parastichy lattices" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .euclid-graphic {
+      font-family: Georgia, 'Times New Roman', serif;
+      --fg: #18181b;
+      --fg-muted: #52525b;
+      --grid: #a1a1aa;
+      --panel-bg: #fafaf9;
+      --accent-blue: #1d4ed8;
+      --accent-amber: #b45309;
+      --accent-green: #15803d;
+      --accent-crimson: #b91c1c;
+      --fill-soft: rgba(29, 78, 216, 0.08);
+      --fill-gold: rgba(180, 83, 9, 0.11);
+      --fill-green: rgba(21, 128, 61, 0.09);
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --fg: #f4f4f5;
+        --fg-muted: #a1a1aa;
+        --grid: #52525b;
+        --panel-bg: #18181b;
+        --accent-blue: #60a5fa;
+        --accent-amber: #fbbf24;
+        --accent-green: #4ade80;
+        --accent-crimson: #f87171;
+        --fill-soft: rgba(96, 165, 250, 0.13);
+        --fill-gold: rgba(251, 191, 36, 0.15);
+        --fill-green: rgba(74, 222, 128, 0.13);
+      }
+    }
+    .geom-line {
+      stroke: var(--fg);
+      stroke-width: 1.7;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-aux {
+      stroke: var(--fg-muted);
+      stroke-width: 1.1;
+      stroke-dasharray: 4 3;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-grid {
+      stroke: var(--grid);
+      stroke-width: 0.9;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-blue {
+      stroke: var(--accent-blue);
+      stroke-width: 2.0;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-amber {
+      stroke: var(--accent-amber);
+      stroke-width: 2.1;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-green {
+      stroke: var(--accent-green);
+      stroke-width: 1.9;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-crimson {
+      stroke: var(--accent-crimson);
+      stroke-width: 1.9;
+      stroke-dasharray: 5 3;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-fill-soft { fill: var(--fill-soft); stroke: none; }
+    .geom-fill-gold { fill: var(--fill-gold); stroke: none; }
+    .geom-fill-green { fill: var(--fill-green); stroke: none; }
+    .geom-pt { fill: var(--fg); stroke: none; }
+    .geom-pt-amber { fill: var(--accent-amber); stroke: none; }
+    .geom-pt-blue { fill: var(--accent-blue); stroke: none; }
+    .geom-label {
+      fill: var(--fg);
+      font-size: 13px;
+      font-style: italic;
+    }
+    .geom-note {
+      fill: var(--fg-muted);
+      font-size: 11.5px;
+      font-style: normal;
+    }
+    .geom-title {
+      fill: var(--fg);
+      font-size: 13.5px;
+      font-weight: bold;
+      font-style: normal;
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-2 -6 4 12" markerWidth="4" markerHeight="12" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-4 -6 8 12" markerWidth="8" markerHeight="12" orient="auto">
+      <line x1="-2" y1="-4.5" x2="-2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="2" y1="-4.5" x2="2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" markerWidth="12" markerHeight="12" orient="auto">
+      <line x1="-3.5" y1="-4.5" x2="-3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="3.5" y1="-4.5" x2="3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+  </defs>
+  <text class="geom-title" x="185.00" y="26.00" text-anchor="middle">A. Cylindrical Bravais–Tait Lattice (Fig. 325)</text>
+  <text class="geom-title" x="548.00" y="26.00" text-anchor="middle">B. Apical Capitulum: (8, 13) Parastichies</text>
+  <path class="geom-fill-soft" d="M 55.00 56.00 L 315.00 56.00 L 315.00 228.00 L 55.00 228.00 Z"/>
+  <path class="geom-line" d="M 55.00 228.00 L 185.00 228.00 L 315.00 228.00"/>
+  <path class="geom-grid" d="M 55.00 56.00 L 185.00 56.00 L 315.00 56.00"/>
+  <path class="geom-aux" d="M 55.00 228.00 L 55.00 142.00 L 55.00 56.00"/>
+  <path class="geom-aux" d="M 315.00 228.00 L 315.00 142.00 L 315.00 56.00"/>
+  <path class="geom-amber" d="M 55.00 221.96 L 62.24 191.79 L 69.49 161.61"/>
+  <path class="geom-blue" d="M 154.31 214.42 L 142.59 195.56 L 130.87 176.70"/>
+  <path class="geom-amber" d="M 154.31 214.42 L 161.56 184.25 L 168.80 154.07"/>
+  <path class="geom-blue" d="M 253.62 206.88 L 241.90 188.02 L 230.18 169.16"/>
+  <path class="geom-amber" d="M 253.62 206.88 L 260.87 176.70 L 268.11 146.53"/>
+  <path class="geom-blue" d="M 92.93 199.33 L 81.21 180.47 L 69.49 161.61"/>
+  <path class="geom-amber" d="M 92.93 199.33 L 100.18 169.16 L 107.42 138.98"/>
+  <path class="geom-blue" d="M 192.24 191.79 L 180.52 172.93 L 168.80 154.07"/>
+  <path class="geom-amber" d="M 192.24 191.79 L 199.49 161.61 L 206.73 131.44"/>
+  <path class="geom-blue" d="M 291.56 184.25 L 279.83 165.39 L 268.11 146.53"/>
+  <path class="geom-amber" d="M 291.56 184.25 L 298.80 154.07 L 306.05 123.89"/>
+  <path class="geom-blue" d="M 130.87 176.70 L 119.14 157.84 L 107.42 138.98"/>
+  <path class="geom-amber" d="M 130.87 176.70 L 138.11 146.53 L 145.36 116.35"/>
+  <path class="geom-blue" d="M 230.18 169.16 L 218.46 150.30 L 206.73 131.44"/>
+  <path class="geom-amber" d="M 230.18 169.16 L 237.42 138.98 L 244.67 108.81"/>
+  <path class="geom-amber" d="M 69.49 161.61 L 76.73 131.44 L 83.98 101.26"/>
+  <path class="geom-blue" d="M 168.80 154.07 L 157.08 135.21 L 145.36 116.35"/>
+  <path class="geom-amber" d="M 168.80 154.07 L 176.05 123.89 L 183.29 93.72"/>
+  <path class="geom-blue" d="M 268.11 146.53 L 256.39 127.67 L 244.67 108.81"/>
+  <path class="geom-amber" d="M 268.11 146.53 L 275.36 116.35 L 282.60 86.18"/>
+  <path class="geom-blue" d="M 107.42 138.98 L 95.70 120.12 L 83.98 101.26"/>
+  <path class="geom-amber" d="M 107.42 138.98 L 114.67 108.81 L 121.91 78.63"/>
+  <path class="geom-blue" d="M 206.73 131.44 L 195.01 112.58 L 183.29 93.72"/>
+  <path class="geom-amber" d="M 206.73 131.44 L 213.98 101.26 L 221.22 71.09"/>
+  <path class="geom-blue" d="M 306.05 123.89 L 294.32 105.04 L 282.60 86.18"/>
+  <path class="geom-blue" d="M 145.36 116.35 L 133.63 97.49 L 121.91 78.63"/>
+  <path class="geom-blue" d="M 244.67 108.81 L 232.95 89.95 L 221.22 71.09"/>
+  <path class="geom-blue" d="M 83.98 101.26 L 72.26 82.40 L 60.53 63.54"/>
+  <circle class="geom-pt" data-ref="leaf_0" cx="55.00" cy="221.96" r="3.00"/>
+  <text class="geom-note" x="64.00" y="224.96" text-anchor="start">0</text>
+  <circle class="geom-pt" data-ref="leaf_1" cx="154.31" cy="214.42" r="3.00"/>
+  <text class="geom-note" x="163.31" y="217.42" text-anchor="start">1</text>
+  <circle class="geom-pt" data-ref="leaf_2" cx="253.62" cy="206.88" r="3.00"/>
+  <text class="geom-note" x="262.62" y="209.88" text-anchor="start">2</text>
+  <circle class="geom-pt" data-ref="leaf_3" cx="92.93" cy="199.33" r="3.00"/>
+  <text class="geom-note" x="101.93" y="202.33" text-anchor="start">3</text>
+  <circle class="geom-pt" data-ref="leaf_4" cx="192.24" cy="191.79" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_5" cx="291.56" cy="184.25" r="3.00"/>
+  <text class="geom-note" x="300.56" y="187.25" text-anchor="start">5</text>
+  <circle class="geom-pt" data-ref="leaf_6" cx="130.87" cy="176.70" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_7" cx="230.18" cy="169.16" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_8" cx="69.49" cy="161.61" r="3.00"/>
+  <text class="geom-note" x="78.49" y="164.61" text-anchor="start">8</text>
+  <circle class="geom-pt" data-ref="leaf_9" cx="168.80" cy="154.07" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_10" cx="268.11" cy="146.53" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_11" cx="107.42" cy="138.98" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_12" cx="206.73" cy="131.44" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_13" cx="306.05" cy="123.89" r="3.00"/>
+  <text class="geom-note" x="315.05" y="126.89" text-anchor="start">13</text>
+  <circle class="geom-pt" data-ref="leaf_14" cx="145.36" cy="116.35" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_15" cx="244.67" cy="108.81" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_16" cx="83.98" cy="101.26" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_17" cx="183.29" cy="93.72" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_18" cx="282.60" cy="86.18" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_19" cx="121.91" cy="78.63" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_20" cx="221.22" cy="71.09" r="3.00"/>
+  <circle class="geom-pt" data-ref="leaf_21" cx="60.53" cy="63.54" r="3.00"/>
+  <text class="geom-note" x="185.00" y="254.00" text-anchor="middle">Divergence Δθ = 360°/φ² ≈ 137°30′28″</text>
+  <path class="geom-blue" d="M 541.07 135.65 L 521.93 131.24 L 509.28 140.40 L 503.22 156.28 L 505.31 175.06 L 515.94 192.94 L 534.19 206.33 L 557.81 212.29 L 583.58 208.91 L 607.75 195.67 L 626.51 173.52 L 636.64 144.80 L 635.92 113.00"/>
+  <path class="geom-blue" d="M 549.16 155.24 L 560.60 168.92 L 576.27 170.13 L 591.51 162.10 L 602.62 146.53 L 606.75 125.90 L 602.19 103.51 L 588.60 83.04 L 567.10 68.06 L 540.15 61.52 L 511.17 65.26 L 484.18 79.72 L 463.15 103.80"/>
+  <path class="geom-blue" d="M 557.91 129.08 L 557.33 112.25 L 546.11 101.07 L 529.14 96.94 L 510.24 101.18 L 493.16 113.86 L 481.39 133.70 L 477.64 158.19 L 483.49 183.93 L 499.10 207.08 L 523.17 223.96 L 553.02 231.53"/>
+  <path class="geom-blue" d="M 529.49 145.27 L 519.83 158.33 L 521.07 174.28 L 531.17 188.80 L 548.28 198.40 L 569.67 200.46 L 591.94 193.62 L 611.35 177.89 L 624.46 154.76 L 628.55 126.94 L 622.12 98.08 L 605.09 72.22"/>
+  <path class="geom-blue" d="M 565.73 153.28 L 581.10 149.28 L 590.69 136.26 L 592.81 118.45 L 586.42 99.65 L 571.78 83.60 L 550.49 73.61 L 525.35 72.17 L 499.89 80.50 L 477.97 98.41 L 463.18 124.22 L 458.28 154.96"/>
+  <path class="geom-blue" d="M 542.02 119.76 L 527.77 113.23 L 511.81 116.82 L 498.21 128.88 L 490.30 147.35 L 490.39 169.30 L 499.51 191.20 L 517.28 209.34 L 541.89 220.41 L 570.33 221.96 L 598.83 212.82 L 623.31 193.32"/>
+  <path class="geom-blue" d="M 536.54 164.07 L 543.32 178.10 L 557.89 185.98 L 576.31 186.02 L 594.76 177.49 L 609.58 160.99 L 617.62 138.44 L 616.68 112.86 L 605.88 87.93 L 585.78 67.48 L 558.42 54.94 L 527.02 52.81"/>
+  <path class="geom-blue" d="M 572.97 132.88 L 576.75 117.77 L 570.90 102.04 L 557.01 89.59 L 537.36 83.51 L 515.07 85.81 L 493.77 97.19 L 477.11 116.89 L 468.24 142.78 L 469.31 171.61 L 481.13 199.48 L 502.99 222.35"/>
+  <path class="geom-amber" d="M 541.07 135.65 L 527.77 113.23 L 529.14 96.94 L 537.36 83.51 L 550.49 73.61 L 567.10 68.06 L 585.78 67.48 L 605.09 72.22"/>
+  <path class="geom-amber" d="M 549.16 155.24 L 543.32 178.10 L 531.17 188.80 L 515.94 192.94 L 499.51 191.20 L 483.49 183.93 L 469.31 171.61 L 458.28 154.96"/>
+  <path class="geom-amber" d="M 557.91 129.08 L 576.75 117.77 L 592.81 118.45 L 606.75 125.90 L 617.62 138.44 L 624.46 154.76 L 626.51 173.52 L 623.31 193.32"/>
+  <path class="geom-amber" d="M 529.49 145.27 L 509.28 140.40 L 498.21 128.88 L 493.16 113.86 L 493.77 97.19 L 499.89 80.50 L 511.17 65.26 L 527.02 52.81"/>
+  <path class="geom-amber" d="M 565.73 153.28 L 576.27 170.13 L 576.31 186.02 L 569.67 200.46 L 557.81 212.29 L 541.89 220.41 L 523.17 223.96 L 502.99 222.35"/>
+  <path class="geom-amber" d="M 542.02 119.76 L 546.11 101.07 L 557.01 89.59 L 571.78 83.60 L 588.60 83.04 L 605.88 87.93 L 622.12 98.08 L 635.92 113.00"/>
+  <path class="geom-amber" d="M 536.54 164.07 L 521.07 174.28 L 505.31 175.06 L 490.39 169.30 L 477.64 158.19 L 468.24 142.78 L 463.18 124.22 L 463.15 103.80"/>
+  <path class="geom-amber" d="M 572.97 132.88 L 590.69 136.26 L 602.62 146.53 L 609.58 160.99 L 611.35 177.89 L 607.75 195.67 L 598.83 212.82"/>
+  <path class="geom-amber" d="M 521.93 131.24 L 511.81 116.82 L 510.24 101.18 L 515.07 85.81 L 525.35 72.17 L 540.15 61.52 L 558.42 54.94"/>
+  <path class="geom-amber" d="M 560.60 168.92 L 557.89 185.98 L 548.28 198.40 L 534.19 206.33 L 517.28 209.34 L 499.10 207.08 L 481.13 199.48"/>
+  <path class="geom-amber" d="M 557.33 112.25 L 570.90 102.04 L 586.42 99.65 L 602.19 103.51 L 616.68 112.86 L 628.55 126.94 L 636.64 144.80"/>
+  <path class="geom-amber" d="M 519.83 158.33 L 503.22 156.28 L 490.30 147.35 L 481.39 133.70 L 477.11 116.89 L 477.97 98.41 L 484.18 79.72"/>
+  <path class="geom-amber" d="M 581.10 149.28 L 591.51 162.10 L 594.76 177.49 L 591.94 193.62 L 583.58 208.91 L 570.33 221.96 L 553.02 231.53"/>
+  <circle class="geom-pt" cx="541.07" cy="135.65" r="2.30"/>
+  <circle class="geom-pt" cx="549.16" cy="155.24" r="2.30"/>
+  <circle class="geom-pt" cx="557.91" cy="129.08" r="2.30"/>
+  <circle class="geom-pt" cx="529.49" cy="145.27" r="2.30"/>
+  <circle class="geom-pt" cx="565.73" cy="153.28" r="2.30"/>
+  <circle class="geom-pt" cx="542.02" cy="119.76" r="2.30"/>
+  <circle class="geom-pt" cx="536.54" cy="164.07" r="2.30"/>
+  <circle class="geom-pt" cx="572.97" cy="132.88" r="2.30"/>
+  <circle class="geom-pt" cx="521.93" cy="131.24" r="2.30"/>
+  <circle class="geom-pt" cx="560.60" cy="168.92" r="2.30"/>
+  <circle class="geom-pt" cx="557.33" cy="112.25" r="2.30"/>
+  <circle class="geom-pt" cx="519.83" cy="158.33" r="2.30"/>
+  <circle class="geom-pt" cx="581.10" cy="149.28" r="2.30"/>
+  <circle class="geom-pt" cx="527.77" cy="113.23" r="2.30"/>
+  <circle class="geom-pt" cx="543.32" cy="178.10" r="2.30"/>
+  <circle class="geom-pt" cx="576.75" cy="117.77" r="2.30"/>
+  <circle class="geom-pt" cx="509.28" cy="140.40" r="2.30"/>
+  <circle class="geom-pt" cx="576.27" cy="170.13" r="2.30"/>
+  <circle class="geom-pt" cx="546.11" cy="101.07" r="2.30"/>
+  <circle class="geom-pt" cx="521.07" cy="174.28" r="2.30"/>
+  <circle class="geom-pt" cx="590.69" cy="136.26" r="2.30"/>
+  <circle class="geom-pt" cx="511.81" cy="116.82" r="2.30"/>
+  <circle class="geom-pt" cx="557.89" cy="185.98" r="2.30"/>
+  <circle class="geom-pt" cx="570.90" cy="102.04" r="2.30"/>
+  <circle class="geom-pt" cx="503.22" cy="156.28" r="2.30"/>
+  <circle class="geom-pt" cx="591.51" cy="162.10" r="2.30"/>
+  <circle class="geom-pt" cx="529.14" cy="96.94" r="2.30"/>
+  <circle class="geom-pt" cx="531.17" cy="188.80" r="2.30"/>
+  <circle class="geom-pt" cx="592.81" cy="118.45" r="2.30"/>
+  <circle class="geom-pt" cx="498.21" cy="128.88" r="2.30"/>
+  <circle class="geom-pt" cx="576.31" cy="186.02" r="2.30"/>
+  <circle class="geom-pt" cx="557.01" cy="89.59" r="2.30"/>
+  <circle class="geom-pt" cx="505.31" cy="175.06" r="2.30"/>
+  <circle class="geom-pt" cx="602.62" cy="146.53" r="2.30"/>
+  <circle class="geom-pt" cx="510.24" cy="101.18" r="2.30"/>
+  <circle class="geom-pt" cx="548.28" cy="198.40" r="2.30"/>
+  <circle class="geom-pt" cx="586.42" cy="99.65" r="2.30"/>
+  <circle class="geom-pt" cx="490.30" cy="147.35" r="2.30"/>
+  <circle class="geom-pt" cx="594.76" cy="177.49" r="2.30"/>
+  <circle class="geom-pt" cx="537.36" cy="83.51" r="2.30"/>
+  <circle class="geom-pt" cx="515.94" cy="192.94" r="2.30"/>
+  <circle class="geom-pt" cx="606.75" cy="125.90" r="2.30"/>
+  <circle class="geom-pt" cx="493.16" cy="113.86" r="2.30"/>
+  <circle class="geom-pt" cx="569.67" cy="200.46" r="2.30"/>
+  <circle class="geom-pt" cx="571.78" cy="83.60" r="2.30"/>
+  <circle class="geom-pt" cx="490.39" cy="169.30" r="2.30"/>
+  <circle class="geom-pt" cx="609.58" cy="160.99" r="2.30"/>
+  <circle class="geom-pt" cx="515.07" cy="85.81" r="2.30"/>
+  <circle class="geom-pt" cx="534.19" cy="206.33" r="2.30"/>
+  <circle class="geom-pt" cx="602.19" cy="103.51" r="2.30"/>
+  <circle class="geom-pt" cx="481.39" cy="133.70" r="2.30"/>
+  <circle class="geom-pt" cx="591.94" cy="193.62" r="2.30"/>
+  <circle class="geom-pt" cx="550.49" cy="73.61" r="2.30"/>
+  <circle class="geom-pt" cx="499.51" cy="191.20" r="2.30"/>
+  <circle class="geom-pt" cx="617.62" cy="138.44" r="2.30"/>
+  <circle class="geom-pt" cx="493.77" cy="97.19" r="2.30"/>
+  <circle class="geom-pt" cx="557.81" cy="212.29" r="2.30"/>
+  <circle class="geom-pt" cx="588.60" cy="83.04" r="2.30"/>
+  <circle class="geom-pt" cx="477.64" cy="158.19" r="2.30"/>
+  <circle class="geom-pt" cx="611.35" cy="177.89" r="2.30"/>
+  <circle class="geom-pt" cx="525.35" cy="72.17" r="2.30"/>
+  <circle class="geom-pt" cx="517.28" cy="209.34" r="2.30"/>
+  <circle class="geom-pt" cx="616.68" cy="112.86" r="2.30"/>
+  <circle class="geom-pt" cx="477.11" cy="116.89" r="2.30"/>
+  <circle class="geom-pt" cx="583.58" cy="208.91" r="2.30"/>
+  <circle class="geom-pt" cx="567.10" cy="68.06" r="2.30"/>
+  <circle class="geom-pt" cx="483.49" cy="183.93" r="2.30"/>
+  <circle class="geom-pt" cx="624.46" cy="154.76" r="2.30"/>
+  <circle class="geom-pt" cx="499.89" cy="80.50" r="2.30"/>
+  <circle class="geom-pt" cx="541.89" cy="220.41" r="2.30"/>
+  <circle class="geom-pt" cx="605.88" cy="87.93" r="2.30"/>
+  <circle class="geom-pt" cx="468.24" cy="142.78" r="2.30"/>
+  <circle class="geom-pt" cx="607.75" cy="195.67" r="2.30"/>
+  <circle class="geom-pt" cx="540.15" cy="61.52" r="2.30"/>
+  <circle class="geom-pt" cx="499.10" cy="207.08" r="2.30"/>
+  <circle class="geom-pt" cx="628.55" cy="126.94" r="2.30"/>
+  <circle class="geom-pt" cx="477.97" cy="98.41" r="2.30"/>
+  <circle class="geom-pt" cx="570.33" cy="221.96" r="2.30"/>
+  <circle class="geom-pt" cx="585.78" cy="67.48" r="2.30"/>
+  <circle class="geom-pt" cx="469.31" cy="171.61" r="2.30"/>
+  <circle class="geom-pt" cx="626.51" cy="173.52" r="2.30"/>
+  <circle class="geom-pt" cx="511.17" cy="65.26" r="2.30"/>
+  <circle class="geom-pt" cx="523.17" cy="223.96" r="2.30"/>
+  <circle class="geom-pt" cx="622.12" cy="98.08" r="2.30"/>
+  <circle class="geom-pt" cx="463.18" cy="124.22" r="2.30"/>
+  <circle class="geom-pt" cx="598.83" cy="212.82" r="2.30"/>
+  <circle class="geom-pt" cx="558.42" cy="54.94" r="2.30"/>
+  <circle class="geom-pt" cx="481.13" cy="199.48" r="2.30"/>
+  <circle class="geom-pt" cx="636.64" cy="144.80" r="2.30"/>
+  <circle class="geom-pt" cx="484.18" cy="79.72" r="2.30"/>
+  <circle class="geom-pt" cx="553.02" cy="231.53" r="2.30"/>
+  <circle class="geom-pt" cx="605.09" cy="72.22" r="2.30"/>
+  <circle class="geom-pt" cx="458.28" cy="154.96" r="2.30"/>
+  <circle class="geom-pt" cx="623.31" cy="193.32" r="2.30"/>
+  <circle class="geom-pt" cx="527.02" cy="52.81" r="2.30"/>
+  <circle class="geom-pt" cx="502.99" cy="222.35" r="2.30"/>
+  <circle class="geom-pt" cx="635.92" cy="113.00" r="2.30"/>
+  <circle class="geom-pt" cx="463.15" cy="103.80" r="2.30"/>
+  <text class="geom-note" x="548.00" y="254.00" text-anchor="middle">Intersecting Fibonacci parastichy families (8, 13)</text>
+</svg>

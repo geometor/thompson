@@ -1,0 +1,33 @@
+geometor.thompson.cli
+=====================
+
+.. py:module:: geometor.thompson.cli
+
+.. autoapi-nested-parse::
+
+   Command-line interface for `geometor-thompson`.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.thompson.cli.build_parser
+   geometor.thompson.cli.main
+
+
+Module Contents
+---------------
+
+.. py:function:: build_parser() -> argparse.ArgumentParser
+
+   Build the `geometor-thompson` argument parser.
+
+
+.. py:function:: main(argv: list[str] | None = None) -> int
+
+   CLI entry point for `geometor-thompson`.
+
+

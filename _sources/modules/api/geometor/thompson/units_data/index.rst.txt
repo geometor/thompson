@@ -1,0 +1,72 @@
+geometor.thompson.units_data
+============================
+
+.. py:module:: geometor.thompson.units_data
+
+.. autoapi-nested-parse::
+
+   Structured unit definitions, Hambidge 1919–1920 primary texts, and scholarly apparatus tracks.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.thompson.units_data.UNITS
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.thompson.units_data.UnitSpec
+
+
+Module Contents
+---------------
+
+.. py:class:: UnitSpec
+
+   Complete specification for one 3-track synchronized unit in `docsrc/growth_and_form/`.
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: short_title
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: rubric
+      :type:  str
+
+
+   .. py:attribute:: chapters_1917
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: summary_body
+      :type:  str
+
+
+   .. py:attribute:: notes_body
+      :type:  str
+
+
+   .. py:attribute:: custom_en_body
+      :type:  str
+      :value: ''
+
+
+
+.. py:data:: UNITS
+   :type:  tuple[UnitSpec, ...]
+

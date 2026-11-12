@@ -1,0 +1,96 @@
+geometor.thompson.parser_1917
+=============================
+
+.. py:module:: geometor.thompson.parser_1917
+
+.. autoapi-nested-parse::
+
+   Deterministic parser for the 1917 Cambridge First Edition of On Growth and Form.
+
+   Transforms the Distributed Proofreaders / Project Gutenberg transcription (#55264) of
+   D'Arcy Wentworth Thompson's 1917 Cambridge University Press First Edition into clean,
+   zero-warning Sphinx reStructuredText with `.. folio::`, `.. picture::`, and clickable
+   1917 authorial endnotes.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.thompson.parser_1917.CHAPTER_STARTS_1917
+   geometor.thompson.parser_1917.PLATE_TRIGGERS
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.thompson.parser_1917.PlateSpec
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.thompson.parser_1917.parse_endnotes_1917
+   geometor.thompson.parser_1917.format_inline_1917
+   geometor.thompson.parser_1917.render_chapter_slice_1917
+   geometor.thompson.parser_1917.render_footnotes_section
+   geometor.thompson.parser_1917.load_thompson_1917_lines
+
+
+Module Contents
+---------------
+
+.. py:data:: CHAPTER_STARTS_1917
+   :type:  dict[str, tuple[int, int, str, str]]
+
+.. py:class:: PlateSpec
+
+   SVG plate injection metadata keyed to a 1917 figure number.
+
+
+   .. py:attribute:: svg_file
+      :type:  str
+
+
+   .. py:attribute:: alt
+      :type:  str
+
+
+   .. py:attribute:: caption
+      :type:  str
+
+
+.. py:data:: PLATE_TRIGGERS
+   :type:  dict[int, PlateSpec]
+
+.. py:function:: parse_endnotes_1917(lines: list[str]) -> dict[int, str]
+
+   Parse all `[N]` authorial endnotes from lines 25408–28888 of the 1917 Gutenberg source.
+
+
+.. py:function:: format_inline_1917(text: str, notes_map: dict[int, str], used_notes: list[int] | None = None, allow_footnotes: bool = True) -> str
+
+   Convert Gutenberg inline markup (`_italics_`, `^{sup}`, `_{sub}`, `{page}`, `[fn]`) to clean RST.
+
+
+.. py:function:: render_chapter_slice_1917(lines: list[str], chapter_key: str, notes_map: dict[int, str], used_notes: list[int], injected_plates: set[int]) -> str
+
+   Render a verbatim chapter slice of the 1917 Cambridge edition into Sphinx RST.
+
+
+.. py:function:: render_footnotes_section(used_notes: list[int], notes_map: dict[int, str]) -> str
+
+   Render the `Authorial Endnotes (1917)` block for all `[#fnN]_` cited in a unit.
+
+
+.. py:function:: load_thompson_1917_lines(repo_root: pathlib.Path) -> list[str]
+
+   Read lines of `gutenberg_55264_thompson_1917.txt`.
+
+

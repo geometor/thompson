@@ -1,0 +1,17 @@
+:date: 26.316-130000
+:author: phi ARCHITECT
+:type: log
+:categories: scriptorium, codex, morphology
+:tags: thompson, hambidge, gnomon, phyllotaxis, spiral, transformations
+
+Initial Digital Scriptorium Book Codex: On Growth and Form (1917) & Dynamic Symmetry (1920)
+===========================================================================================
+
+Established ``geometor.thompson`` as a 3-track synchronized Book Codex uniting **D'Arcy Wentworth Thompson's** *On Growth and Form* (Cambridge University Press, **First Edition, 1917**, xv + 793 pp., 17 chapters) with **Jay Hambidge's** *The Elements of Dynamic Symmetry* (Yale University Press, **1919–1920**).
+
+Highlights
+----------
+
+- **Verbatim 1917 First Edition & 300 DPI Folio Verification**: Preserved all 17 chapters, Prefatory Note, Scholastic-mechanical epigraphs, Epilogue, inline page milestones (``pp. 1–779``), and authorial endnotes from the 1917 Cambridge imprint, verified against 300 DPI archival scans (including identification of the p. 748 ``Fig. 474`` `[sic: Fig. 374]` compositor detail).
+- **Dynamic Symmetry Companion (Unit VII)**: Integrated scan-verified primary lessons from Hambidge's *The Diagonal* (Vol. I, 1919–1920) and *Dynamic Symmetry: The Greek Vase* (1920), bridging Euclid Book X commensurability in square to ``geometor/wildberger`` integer quadrances ($Q = 1\dots 5$) and ``geometor/divine`` golden gnomons.
+- **11 Calibrated ``.euclid-graphic`` SVG Plates**: Built deterministic geometric figures via ``scripts/build_figures.py`` covering Galileo scaling, Plateau $120^\circ$ ``X(13)`` junctions, Maraldi's $109^\circ 28' 16''$ honeycomb cap, Kelvin's tetrakaidecahedron, Hambidge root rectangles, whirling-square spirals, *Nautilus* septa, Fibonacci parastichies, Culmann–Meyer femur trajectories, and Cartesian-to-curvilinear coordinate transformations.

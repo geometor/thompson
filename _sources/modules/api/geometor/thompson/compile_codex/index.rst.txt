@@ -1,0 +1,27 @@
+geometor.thompson.compile_codex
+===============================
+
+.. py:module:: geometor.thompson.compile_codex
+
+.. autoapi-nested-parse::
+
+   Compile the 3-track synchronized Book Codex (`docsrc/growth_and_form/`) for `geometor-thompson`.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.thompson.compile_codex.compile_codex
+
+
+Module Contents
+---------------
+
+.. py:function:: compile_codex(repo_root: pathlib.Path | None = None) -> list[pathlib.Path]
+
+   Compile all 26 `:layout: book` RST files under `docsrc/growth_and_form/`.
+
+

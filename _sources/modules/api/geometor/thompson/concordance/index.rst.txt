@@ -1,0 +1,180 @@
+geometor.thompson.concordance
+=============================
+
+.. py:module:: geometor.thompson.concordance
+
+.. autoapi-nested-parse::
+
+   Structured loader, query engine, and SHA-256 validator for the Thompson–Hambidge Codex.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.thompson.concordance.DEFAULT_REPO_ROOT
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.thompson.concordance.SisterRef
+   geometor.thompson.concordance.ConcordanceEntry
+   geometor.thompson.concordance.ThompsonApparatus
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.thompson.concordance.apparatus_slug
+   geometor.thompson.concordance.load_apparatus
+   geometor.thompson.concordance.verify_sources_manifest
+
+
+Module Contents
+---------------
+
+.. py:data:: DEFAULT_REPO_ROOT
+
+.. py:function:: apparatus_slug(key: str) -> str
+
+   Compute the deterministic anchor slug matching `photon_platform.publish.roles.geometry`.
+
+
+.. py:class:: SisterRef
+
+   Cross-repository link from a Thompson/Hambidge locus to a GEOMETOR sister repository.
+
+
+   .. py:attribute:: repo
+      :type:  str
+
+
+   .. py:attribute:: locus
+      :type:  str
+
+
+   .. py:attribute:: relation
+      :type:  str
+
+
+   .. py:method:: from_dict(raw: dict[str, Any]) -> SisterRef
+      :classmethod:
+
+
+      Construct a `SisterRef` from a parsed JSON dictionary.
+
+
+
+.. py:class:: ConcordanceEntry
+
+   Single cross-repository entry in the Thompson–Hambidge–GEOMETOR concordance.
+
+
+   .. py:attribute:: id
+      :type:  str
+
+
+   .. py:attribute:: unit
+      :type:  str
+
+
+   .. py:attribute:: chapter
+      :type:  str
+
+
+   .. py:attribute:: pages_1917
+      :type:  str
+
+
+   .. py:attribute:: topic
+      :type:  str
+
+
+   .. py:attribute:: hambidge_parallels
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: sister_refs
+      :type:  tuple[SisterRef, ...]
+
+
+   .. py:attribute:: invariants
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: summary
+      :type:  str
+
+
+   .. py:method:: from_dict(raw: dict[str, Any]) -> ConcordanceEntry
+      :classmethod:
+
+
+      Construct a `ConcordanceEntry` from a parsed JSON dictionary.
+
+
+
+.. py:class:: ThompsonApparatus
+
+   Complete loaded scholarly apparatus for `geometor-thompson`.
+
+
+   .. py:attribute:: concordance_meta
+      :type:  dict[str, Any]
+
+
+   .. py:attribute:: entries
+      :type:  tuple[ConcordanceEntry, ...]
+
+
+   .. py:attribute:: persons
+      :type:  dict[str, dict[str, Any]]
+
+
+   .. py:attribute:: glossary
+      :type:  dict[str, dict[str, Any]]
+
+
+   .. py:attribute:: citations
+      :type:  dict[str, dict[str, Any]]
+
+
+   .. py:attribute:: sources_manifest
+      :type:  dict[str, Any]
+
+
+   .. py:method:: by_unit(unit_slug: str) -> list[ConcordanceEntry]
+
+      Return all concordance entries belonging to `unit_slug` (e.g. `'unit-3-equiangular-spiral'`).
+
+
+
+   .. py:method:: by_repo(repo_name: str) -> list[ConcordanceEntry]
+
+      Return concordance entries cross-referencing `repo_name` (e.g. `'euclid'`, `'wildberger'`).
+
+
+
+   .. py:method:: search(query: str) -> list[ConcordanceEntry]
+
+      Search concordance entries across topics, summaries, invariants, Hambidge parallels, and sister refs.
+
+
+
+.. py:function:: load_apparatus(repo_root: pathlib.Path | None = None) -> ThompsonApparatus
+
+   Load the structured JSON registries from `resources/growth_and_form/`.
+
+
+.. py:function:: verify_sources_manifest(repo_root: pathlib.Path | None = None) -> list[dict[str, Any]]
+
+   Verify SHA-256 digests and byte lengths for all tracked 1917/1920 primary sources.
+
+

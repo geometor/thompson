@@ -1,0 +1,183 @@
+<svg class="euclid-graphic" viewBox="0 0 730 258" role="img" aria-label="Thompson coordinate transformation affine shear Argyropelecus to Sternoptyx" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .euclid-graphic {
+      font-family: Georgia, 'Times New Roman', serif;
+      --fg: #18181b;
+      --fg-muted: #52525b;
+      --grid: #a1a1aa;
+      --panel-bg: #fafaf9;
+      --accent-blue: #1d4ed8;
+      --accent-amber: #b45309;
+      --accent-green: #15803d;
+      --accent-crimson: #b91c1c;
+      --fill-soft: rgba(29, 78, 216, 0.08);
+      --fill-gold: rgba(180, 83, 9, 0.11);
+      --fill-green: rgba(21, 128, 61, 0.09);
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --fg: #f4f4f5;
+        --fg-muted: #a1a1aa;
+        --grid: #52525b;
+        --panel-bg: #18181b;
+        --accent-blue: #60a5fa;
+        --accent-amber: #fbbf24;
+        --accent-green: #4ade80;
+        --accent-crimson: #f87171;
+        --fill-soft: rgba(96, 165, 250, 0.13);
+        --fill-gold: rgba(251, 191, 36, 0.15);
+        --fill-green: rgba(74, 222, 128, 0.13);
+      }
+    }
+    .geom-line {
+      stroke: var(--fg);
+      stroke-width: 1.7;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-aux {
+      stroke: var(--fg-muted);
+      stroke-width: 1.1;
+      stroke-dasharray: 4 3;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-grid {
+      stroke: var(--grid);
+      stroke-width: 0.9;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-blue {
+      stroke: var(--accent-blue);
+      stroke-width: 2.0;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-amber {
+      stroke: var(--accent-amber);
+      stroke-width: 2.1;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-green {
+      stroke: var(--accent-green);
+      stroke-width: 1.9;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-crimson {
+      stroke: var(--accent-crimson);
+      stroke-width: 1.9;
+      stroke-dasharray: 5 3;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-fill-soft { fill: var(--fill-soft); stroke: none; }
+    .geom-fill-gold { fill: var(--fill-gold); stroke: none; }
+    .geom-fill-green { fill: var(--fill-green); stroke: none; }
+    .geom-pt { fill: var(--fg); stroke: none; }
+    .geom-pt-amber { fill: var(--accent-amber); stroke: none; }
+    .geom-pt-blue { fill: var(--accent-blue); stroke: none; }
+    .geom-label {
+      fill: var(--fg);
+      font-size: 13px;
+      font-style: italic;
+    }
+    .geom-note {
+      fill: var(--fg-muted);
+      font-size: 11.5px;
+      font-style: normal;
+    }
+    .geom-title {
+      fill: var(--fg);
+      font-size: 13.5px;
+      font-weight: bold;
+      font-style: normal;
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-2 -6 4 12" markerWidth="4" markerHeight="12" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-4 -6 8 12" markerWidth="8" markerHeight="12" orient="auto">
+      <line x1="-2" y1="-4.5" x2="-2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="2" y1="-4.5" x2="2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" markerWidth="12" markerHeight="12" orient="auto">
+      <line x1="-3.5" y1="-4.5" x2="-3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="3.5" y1="-4.5" x2="3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+  </defs>
+  <text class="geom-title" x="175.00" y="26.00" text-anchor="middle">A. Argyropelecus Olfersi (90° Cartesian)</text>
+  <text class="geom-title" x="540.00" y="26.00" text-anchor="middle">B. Sternoptyx diaphana (70° Oblique Shear)</text>
+  <path class="geom-grid" d="M 82.00 52.00 L 82.00 127.00 L 82.00 202.00"/>
+  <text class="geom-note" x="82.00" y="46.00" text-anchor="middle">0</text>
+  <path class="geom-grid" d="M 112.00 52.00 L 112.00 127.00 L 112.00 202.00"/>
+  <text class="geom-note" x="112.00" y="46.00" text-anchor="middle">1</text>
+  <path class="geom-grid" d="M 142.00 52.00 L 142.00 127.00 L 142.00 202.00"/>
+  <text class="geom-note" x="142.00" y="46.00" text-anchor="middle">2</text>
+  <path class="geom-grid" d="M 172.00 52.00 L 172.00 127.00 L 172.00 202.00"/>
+  <text class="geom-note" x="172.00" y="46.00" text-anchor="middle">3</text>
+  <path class="geom-grid" d="M 202.00 52.00 L 202.00 127.00 L 202.00 202.00"/>
+  <text class="geom-note" x="202.00" y="46.00" text-anchor="middle">4</text>
+  <path class="geom-grid" d="M 232.00 52.00 L 232.00 127.00 L 232.00 202.00"/>
+  <text class="geom-note" x="232.00" y="46.00" text-anchor="middle">5</text>
+  <path class="geom-grid" d="M 262.00 52.00 L 262.00 127.00 L 262.00 202.00"/>
+  <text class="geom-note" x="262.00" y="46.00" text-anchor="middle">6</text>
+  <path class="geom-grid" d="M 82.00 52.00 L 172.00 52.00 L 262.00 52.00"/>
+  <text class="geom-note" x="70.00" y="56.00" text-anchor="middle">a</text>
+  <path class="geom-grid" d="M 82.00 82.00 L 172.00 82.00 L 262.00 82.00"/>
+  <text class="geom-note" x="70.00" y="86.00" text-anchor="middle">b</text>
+  <path class="geom-grid" d="M 82.00 112.00 L 172.00 112.00 L 262.00 112.00"/>
+  <text class="geom-note" x="70.00" y="116.00" text-anchor="middle">c</text>
+  <path class="geom-grid" d="M 82.00 142.00 L 172.00 142.00 L 262.00 142.00"/>
+  <text class="geom-note" x="70.00" y="146.00" text-anchor="middle">d</text>
+  <path class="geom-grid" d="M 82.00 172.00 L 172.00 172.00 L 262.00 172.00"/>
+  <text class="geom-note" x="70.00" y="176.00" text-anchor="middle">e</text>
+  <path class="geom-grid" d="M 82.00 202.00 L 172.00 202.00 L 262.00 202.00"/>
+  <text class="geom-note" x="70.00" y="206.00" text-anchor="middle">f</text>
+  <path class="geom-fill-soft" d="M 95.50 128.50 L 107.50 98.50 L 134.50 83.50 L 170.50 80.50 L 206.50 95.50 L 235.00 113.50 L 251.50 104.50 L 245.50 122.50 L 252.40 138.40 L 233.50 128.50 L 205.00 140.50 L 185.50 176.50 L 149.50 185.50 L 119.50 167.50 L 100.60 146.50 Z"/>
+  <path class="geom-blue" d="M 95.50 128.50 L 107.50 98.50 L 134.50 83.50 L 170.50 80.50 L 206.50 95.50 L 235.00 113.50 L 251.50 104.50 L 245.50 122.50 L 252.40 138.40 L 233.50 128.50 L 205.00 140.50 L 185.50 176.50 L 149.50 185.50 L 119.50 167.50 L 100.60 146.50 Z"/>
+  <path class="geom-amber" d="M 158.50 81.40 L 170.50 64.60 L 185.50 85.60"/>
+  <circle class="geom-pt-amber" data-ref="eye1" cx="122.50" cy="107.50" r="4.20"/>
+  <text class="geom-note" x="175.00" y="236.00" text-anchor="middle">x&#x27; = x,  y&#x27; = y  (ω = 90°)</text>
+  <path class="geom-grid" d="M 415.00 56.00 L 440.65 126.48 L 466.30 196.95"/>
+  <text class="geom-note" x="415.00" y="50.00" text-anchor="middle">0</text>
+  <path class="geom-grid" d="M 445.00 56.00 L 470.65 126.48 L 496.30 196.95"/>
+  <text class="geom-note" x="445.00" y="50.00" text-anchor="middle">1</text>
+  <path class="geom-grid" d="M 475.00 56.00 L 500.65 126.48 L 526.30 196.95"/>
+  <text class="geom-note" x="475.00" y="50.00" text-anchor="middle">2</text>
+  <path class="geom-grid" d="M 505.00 56.00 L 530.65 126.48 L 556.30 196.95"/>
+  <text class="geom-note" x="505.00" y="50.00" text-anchor="middle">3</text>
+  <path class="geom-grid" d="M 535.00 56.00 L 560.65 126.48 L 586.30 196.95"/>
+  <text class="geom-note" x="535.00" y="50.00" text-anchor="middle">4</text>
+  <path class="geom-grid" d="M 565.00 56.00 L 590.65 126.48 L 616.30 196.95"/>
+  <text class="geom-note" x="565.00" y="50.00" text-anchor="middle">5</text>
+  <path class="geom-grid" d="M 595.00 56.00 L 620.65 126.48 L 646.30 196.95"/>
+  <text class="geom-note" x="595.00" y="50.00" text-anchor="middle">6</text>
+  <path class="geom-grid" d="M 415.00 56.00 L 505.00 56.00 L 595.00 56.00"/>
+  <text class="geom-note" x="403.00" y="60.00" text-anchor="middle">a</text>
+  <path class="geom-grid" d="M 425.26 84.19 L 515.26 84.19 L 605.26 84.19"/>
+  <text class="geom-note" x="413.26" y="88.19" text-anchor="middle">b</text>
+  <path class="geom-grid" d="M 435.52 112.38 L 525.52 112.38 L 615.52 112.38"/>
+  <text class="geom-note" x="423.52" y="116.38" text-anchor="middle">c</text>
+  <path class="geom-grid" d="M 445.78 140.57 L 535.78 140.57 L 625.78 140.57"/>
+  <text class="geom-note" x="433.78" y="144.57" text-anchor="middle">d</text>
+  <path class="geom-grid" d="M 456.04 168.76 L 546.04 168.76 L 636.04 168.76"/>
+  <text class="geom-note" x="444.04" y="172.76" text-anchor="middle">e</text>
+  <path class="geom-grid" d="M 466.30 196.95 L 556.30 196.95 L 646.30 196.95"/>
+  <text class="geom-note" x="454.30" y="200.95" text-anchor="middle">f</text>
+  <path class="geom-fill-gold" d="M 454.66 127.89 L 456.40 99.70 L 478.27 85.60 L 513.25 82.78 L 554.38 96.88 L 589.03 113.79 L 602.46 105.33 L 602.61 122.25 L 614.95 137.19 L 592.66 127.89 L 568.27 139.16 L 561.08 172.99 L 528.16 181.45 L 492.00 164.53 L 465.92 144.80 Z"/>
+  <path class="geom-amber" d="M 454.66 127.89 L 456.40 99.70 L 478.27 85.60 L 513.25 82.78 L 554.38 96.88 L 589.03 113.79 L 602.46 105.33 L 602.61 122.25 L 614.95 137.19 L 592.66 127.89 L 568.27 139.16 L 561.08 172.99 L 528.16 181.45 L 492.00 164.53 L 465.92 144.80 Z"/>
+  <path class="geom-blue" d="M 501.56 83.63 L 507.81 67.84 L 529.99 87.57"/>
+  <circle class="geom-pt-blue" data-ref="eye2" cx="474.48" cy="108.15" r="4.20"/>
+  <text class="geom-note" x="540.00" y="236.00" text-anchor="middle">x&#x27; = x + y cos 70°,  y&#x27; = y sin 70°  (ω = 70°)</text>
+</svg>
