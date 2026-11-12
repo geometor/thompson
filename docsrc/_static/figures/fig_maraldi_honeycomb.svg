@@ -1,0 +1,163 @@
+<svg class="euclid-graphic" viewBox="0 0 730 275" role="img" aria-label="Maraldi honeycomb rhombic cap and 109 degree 28 minute rhombus" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .euclid-graphic {
+      font-family: Georgia, 'Times New Roman', serif;
+      --fg: #18181b;
+      --fg-muted: #52525b;
+      --grid: #a1a1aa;
+      --panel-bg: #fafaf9;
+      --accent-blue: #1d4ed8;
+      --accent-amber: #b45309;
+      --accent-green: #15803d;
+      --accent-crimson: #b91c1c;
+      --fill-soft: rgba(29, 78, 216, 0.08);
+      --fill-gold: rgba(180, 83, 9, 0.11);
+      --fill-green: rgba(21, 128, 61, 0.09);
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --fg: #f4f4f5;
+        --fg-muted: #a1a1aa;
+        --grid: #52525b;
+        --panel-bg: #18181b;
+        --accent-blue: #60a5fa;
+        --accent-amber: #fbbf24;
+        --accent-green: #4ade80;
+        --accent-crimson: #f87171;
+        --fill-soft: rgba(96, 165, 250, 0.13);
+        --fill-gold: rgba(251, 191, 36, 0.15);
+        --fill-green: rgba(74, 222, 128, 0.13);
+      }
+    }
+    .geom-line {
+      stroke: var(--fg);
+      stroke-width: 1.7;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-aux {
+      stroke: var(--fg-muted);
+      stroke-width: 1.1;
+      stroke-dasharray: 4 3;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-grid {
+      stroke: var(--grid);
+      stroke-width: 0.9;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-blue {
+      stroke: var(--accent-blue);
+      stroke-width: 2.0;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-amber {
+      stroke: var(--accent-amber);
+      stroke-width: 2.1;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-green {
+      stroke: var(--accent-green);
+      stroke-width: 1.9;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-crimson {
+      stroke: var(--accent-crimson);
+      stroke-width: 1.9;
+      stroke-dasharray: 5 3;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-fill-soft { fill: var(--fill-soft); stroke: none; }
+    .geom-fill-gold { fill: var(--fill-gold); stroke: none; }
+    .geom-fill-green { fill: var(--fill-green); stroke: none; }
+    .geom-pt { fill: var(--fg); stroke: none; }
+    .geom-pt-amber { fill: var(--accent-amber); stroke: none; }
+    .geom-pt-blue { fill: var(--accent-blue); stroke: none; }
+    .geom-label {
+      fill: var(--fg);
+      font-size: 13px;
+      font-style: italic;
+    }
+    .geom-note {
+      fill: var(--fg-muted);
+      font-size: 11.5px;
+      font-style: normal;
+    }
+    .geom-title {
+      fill: var(--fg);
+      font-size: 13.5px;
+      font-weight: bold;
+      font-style: normal;
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-2 -6 4 12" markerWidth="4" markerHeight="12" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-4 -6 8 12" markerWidth="8" markerHeight="12" orient="auto">
+      <line x1="-2" y1="-4.5" x2="-2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="2" y1="-4.5" x2="2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" markerWidth="12" markerHeight="12" orient="auto">
+      <line x1="-3.5" y1="-4.5" x2="-3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="3.5" y1="-4.5" x2="3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+  </defs>
+  <text class="geom-title" x="200.00" y="26.00" text-anchor="middle">A. Hexagonal Cell &amp; Trihedral Rhombic Cap</text>
+  <text class="geom-title" x="555.00" y="26.00" text-anchor="middle">B. Rhombus Face: cos θ = -1/3, s = 8/9</text>
+  <path class="geom-fill-gold" d="M 195.00 116.56 L 267.37 135.32 L 224.81 203.11 L 152.44 160.30 Z"/>
+  <path class="geom-fill-soft" d="M 195.00 116.56 L 152.44 160.30 L 122.63 193.96 L 165.19 126.18 Z"/>
+  <path class="geom-fill-green" d="M 195.00 116.56 L 165.19 126.18 L 237.56 168.98 L 267.37 135.32 Z"/>
+  <path class="geom-line" d="M 267.37 135.32 L 267.37 193.12 L 267.37 250.92"/>
+  <path class="geom-line" d="M 267.37 250.92 L 246.09 260.77 L 224.81 270.62"/>
+  <path class="geom-line" d="M 224.81 203.11 L 224.81 236.87 L 224.81 270.62"/>
+  <path class="geom-aux" d="M 224.81 270.62 L 188.63 273.26 L 152.44 275.90"/>
+  <path class="geom-aux" d="M 152.44 160.30 L 152.44 218.10 L 152.44 275.90"/>
+  <path class="geom-aux" d="M 152.44 275.90 L 137.53 268.69 L 122.63 261.48"/>
+  <path class="geom-aux" d="M 122.63 193.96 L 122.63 227.72 L 122.63 261.48"/>
+  <path class="geom-aux" d="M 122.63 261.48 L 143.91 251.63 L 165.19 241.78"/>
+  <path class="geom-line" d="M 165.19 126.18 L 165.19 183.98 L 165.19 241.78"/>
+  <path class="geom-line" d="M 165.19 241.78 L 201.37 239.14 L 237.56 236.50"/>
+  <path class="geom-line" d="M 237.56 168.98 L 237.56 202.74 L 237.56 236.50"/>
+  <path class="geom-line" d="M 237.56 236.50 L 252.47 243.71 L 267.37 250.92"/>
+  <path class="geom-line" d="M 267.37 135.32 L 246.09 169.21 L 224.81 203.11"/>
+  <path class="geom-line" d="M 224.81 203.11 L 188.63 181.71 L 152.44 160.30"/>
+  <path class="geom-line" d="M 152.44 160.30 L 137.53 177.13 L 122.63 193.96"/>
+  <path class="geom-line" d="M 122.63 193.96 L 143.91 160.07 L 165.19 126.18"/>
+  <path class="geom-line" d="M 165.19 126.18 L 201.37 147.58 L 237.56 168.98"/>
+  <path class="geom-line" d="M 237.56 168.98 L 252.47 152.15 L 267.37 135.32"/>
+  <path class="geom-amber" data-ref="ridge_0" d="M 195.00 116.56 L 231.19 125.94 L 267.37 135.32"/>
+  <path class="geom-amber" data-ref="ridge_2" d="M 195.00 116.56 L 173.72 138.43 L 152.44 160.30"/>
+  <path class="geom-amber" data-ref="ridge_4" d="M 195.00 116.56 L 180.09 121.37 L 165.19 126.18"/>
+  <circle class="geom-pt-amber" data-ref="V" cx="195.00" cy="116.56" r="3.80"/>
+  <text class="geom-label" data-ref="V" x="195.00" y="105.56" text-anchor="middle">V</text>
+  <text class="geom-note" x="195.00" y="260.00" text-anchor="middle">Three rhombi replace flat hexagonal roof</text>
+  <path class="geom-fill-gold" d="M 555.00 47.49 L 619.00 138.00 L 555.00 228.51 L 491.00 138.00 Z"/>
+  <path class="geom-line" data-ref="rh1" marker-mid="url(#geom-tick-1)" d="M 555.00 47.49 L 587.00 92.75 L 619.00 138.00"/>
+  <path class="geom-line" data-ref="rh2" marker-mid="url(#geom-tick-1)" d="M 619.00 138.00 L 587.00 183.25 L 555.00 228.51"/>
+  <path class="geom-line" data-ref="rh3" marker-mid="url(#geom-tick-1)" d="M 555.00 228.51 L 523.00 183.25 L 491.00 138.00"/>
+  <path class="geom-line" data-ref="rh4" marker-mid="url(#geom-tick-1)" d="M 491.00 138.00 L 523.00 92.75 L 555.00 47.49"/>
+  <path class="geom-blue" data-ref="diag_short" d="M 491.00 138.00 L 555.00 138.00 L 619.00 138.00"/>
+  <path class="geom-aux" data-ref="diag_long" d="M 555.00 47.49 L 555.00 138.00 L 555.00 228.51"/>
+  <circle class="geom-pt" cx="555.00" cy="47.49" r="3.20"/>
+  <circle class="geom-pt" cx="619.00" cy="138.00" r="3.20"/>
+  <circle class="geom-pt" cx="555.00" cy="228.51" r="3.20"/>
+  <circle class="geom-pt" cx="491.00" cy="138.00" r="3.20"/>
+  <text class="geom-label" x="477.00" y="142.00" text-anchor="middle">V</text>
+  <text class="geom-note" x="525.00" y="128.00" text-anchor="middle">109°28′</text>
+  <text class="geom-note" x="583.00" y="73.49" text-anchor="middle">70°32′</text>
+  <text class="geom-note" x="555.00" y="246.00" text-anchor="middle">Diagonal ratio 1 : √2  |  Rational spread s = 8/9</text>
+</svg>

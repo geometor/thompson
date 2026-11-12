@@ -1,0 +1,230 @@
+{
+  "aquinas": {
+    "name": "St. Thomas Aquinas",
+    "dates": "1225 – 1274",
+    "role": "Scholastic Philosopher & Theologian (Doctor Angelicus)",
+    "bio": "Quoted in Latin on the opening epigraph page of Thompson's 1917 On Growth and Form (De Potentia Dei, Q. iii, a. 11): since natural and bodily forms exist only in union with matter, the same natural agent that transmutes matter suffices to produce corporeal form without invoking extraneous supernatural principles."
+  },
+  "archimedes": {
+    "name": "Archimedes of Syracuse",
+    "dates": "c. 287 – c. 212 BC",
+    "role": "Ancient Greek Geometer, Physicist & Hydrostatician",
+    "bio": "Author of On Spirals, On the Equilibrium of Planes, and On Floating Bodies. Thompson contrasts the uniform arithmetic spiral of Archimedes (r = aθ) with the geometric equiangular spiral of Descartes and Bernoulli (r = ae^{kθ}) in Chapter XI, while invoking Archimedean hydrostatics throughout Chapters II–V."
+  },
+  "aristotle": {
+    "name": "Aristotle",
+    "dates": "384 – 322 BC",
+    "role": "Ancient Greek Philosopher & Founder of Comparative Biology",
+    "bio": "Author of Historia Animalium (translated into English by D'Arcy Thompson himself for the Oxford Aristotle in 1910), De Partibus Animalium, Physics, and Categories. Thompson unites Aristotle's morphological insight with physical necessity while recovering the Pythagorean–Aristotelian doctrine of the gnomon (Categories 15a30)."
+  },
+  "bernoulli-jakob": {
+    "name": "Jakob Bernoulli",
+    "dates": "1654 – 1705",
+    "role": "Swiss Mathematician (Author of Spira Mirabilis)",
+    "bio": "Celebrated the self-similarity of the logarithmic spiral under scaling, pedal projection, evolute, and caustics in Acta Eruditorum (1692), naming it Spira mirabilis and requesting the motto Eadem mutata resurgo ('Though changed, I arise the same') on his Basel tombstone—quoted by Thompson in Chapter XI."
+  },
+  "boscovich": {
+    "name": "Roger Joseph Boscovich (Ruđer Bošković)",
+    "dates": "1711 – 1787",
+    "role": "Ragusan Jesuit Mathematician, Physicist & Astronomer",
+    "bio": "Analyzed the discrepancy between Maraldi's empirical measurement and König's calculus value for the bee's rhombic cell (1760), showing that wax thickness and surface equilibrium account for variations around the theoretical tetrahedral angle 109° 28′ 16″."
+  },
+  "braun": {
+    "name": "Alexander Braun",
+    "dates": "1805 – 1877",
+    "role": "German Botanist & Co-Founder of Spiral Phyllotaxis",
+    "bio": "Published foundational studies on pine-cone scales (1831–1835), codifying with Karl Schimper the fractional divergence series 1/2, 1/3, 2/5, 3/8, 5/13, 8/21... examined critically by Thompson in Chapter XIV."
+  },
+  "bravais": {
+    "name": "Auguste Bravais",
+    "dates": "1811 – 1863",
+    "role": "French Physicist, Crystallographer & Botanist",
+    "bio": "With his brother Louis Bravais (1837), replaced rational Schimper–Braun fractions by a continuous cylindrical point-lattice with irrational golden divergence angle (137° 30′ 28″), anticipating both modern crystallography and Thompson's cylindrical parastichy analysis."
+  },
+  "church": {
+    "name": "Arthur Harry Church",
+    "dates": "1865 – 1937",
+    "role": "British Botanist & Morphological Illustrator (Oxford)",
+    "bio": "Author of On the Relation of Phyllotaxis to Mechanical Laws (1904), whose precision diagrams of intersecting orthogonal logarithmic spirals in sunflower capitula (34/55, 55/89, 89/144) directly inspired both Chapter XIV of Thompson (1917) and Lesson I of Jay Hambidge's Dynamic Symmetry (1919–1920)."
+  },
+  "culmann": {
+    "name": "Karl Culmann",
+    "dates": "1821 – 1881",
+    "role": "Swiss Structural Engineer & Pioneer of Graphic Statics",
+    "bio": "Professor at the ETH Zürich and author of Die graphische Statik (1866). Visiting Hermann von Meyer's anatomy dissecting room in 1866, Culmann recognized that the cancellous trabeculae inside the head of the human femur trace the exact orthogonal tension and compression trajectories of his Fairbairn crane (Chapter XVI, Fig. 335)."
+  },
+  "descartes": {
+    "name": "René Descartes",
+    "dates": "1596 – 1650",
+    "role": "French Philosopher & Creator of Analytic Geometry",
+    "bio": "First investigated the equiangular spiral in 1638 letters to Mersenne (Chapter XI) and founded the method of rectangular coordinates that Thompson generalizes into morphological deformation grids in Chapter XVII."
+  },
+  "durer": {
+    "name": "Albrecht Dürer",
+    "dates": "1471 – 1528",
+    "role": "German Renaissance Artist, Engraver & Geometer",
+    "bio": "Author of Vier Bücher von menschlicher Proportion (1528), whose rectilinear, oblique, and circular coordinate grids for deforming human heads and proportions are honored by Thompson in Chapter XVII as the direct Renaissance precursor of the Theory of Transformations."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BC",
+    "role": "Ancient Greek Geometer (Author of the Elements)",
+    "bio": "Provides the geometric bedrock of Thompson's and Hambidge's morphology: Book II Def. 2 (parallelogrammic gnomon), II.11 & VI.30 (extreme and mean ratio φ), IV.10 (the 36°–72°–72° golden triangle), VI Def. 1 (similitude), X Def. 2 (magnitudes commensurable in square—the literal source of Hambidge's 'Dynamic Symmetry'), and XIII (the five Platonic solids)."
+  },
+  "fidler": {
+    "name": "Thomas Claxton Fidler",
+    "dates": "1841 – 1917",
+    "role": "British Civil Engineer & Colleague of Thompson at Dundee",
+    "bio": "Professor of Engineering at University College, Dundee, and author of A Practical Treatise on Bridge-Construction (1887). Collaborated directly with Thompson on Chapter XVI, modeling quadruped and dinosaur backbones as balanced cantilever and Forth-Bridge truss systems."
+  },
+  "galileo": {
+    "name": "Galileo Galilei",
+    "dates": "1564 – 1642",
+    "role": "Italian Physicist, Astronomer & Founder of Scaling Mechanics",
+    "bio": "Demonstrated the Principle of Similitude (Square-Cube Law) in the First and Second Days of the Discorsi (1638): because bone cross-sectional strength grows as L² while body weight grows as L³, giants and terrestrial whales cannot preserve proportions under uniform magnification (Chapter II)."
+  },
+  "goethe": {
+    "name": "Johann Wolfgang von Goethe",
+    "dates": "1749 – 1832",
+    "role": "German Poet, Naturalist & Coiner of 'Morphologie'",
+    "bio": "Coined the term Morphologie and sought ideal archetypes (Urpflanze) underlying organic metamorphosis—a poetic intuition that Thompson translates into exact physical and coordinate laws."
+  },
+  "haeckel": {
+    "name": "Ernst Haeckel",
+    "dates": "1834 – 1919",
+    "role": "German Zoologist & Author of the Challenger Radiolaria Report",
+    "bio": "Catalogued over four thousand species of siliceous and acantharian Radiolaria from H.M.S. Challenger (1887), depicting octahedral, icosahedral, and dodecahedral skeletons which Thompson reinterprets in Chapter IX through Plateau soap-film froth geometry rather than Darwinian selection."
+  },
+  "hales": {
+    "name": "Stephen Hales",
+    "dates": "1677 – 1761",
+    "role": "English Physiologist, Clergyman & Pioneer of Quantitative Biology",
+    "bio": "Author of Vegetable Staticks (1727) and Haemastaticks (1733), honoured in the Prefatory Note epigraph of On Growth and Form for advocating the Creator's geometric governance by number, weight, and measure, and for punching equidistant ink-grids onto growing fig leaves (Chapter XVII)."
+  },
+  "hambidge": {
+    "name": "Jay Hambidge",
+    "dates": "1867 – 1924",
+    "role": "Canadian-American Artist, Scholar of Greek Design & Theorist of Dynamic Symmetry",
+    "bio": "Published The Diagonal (1919–1920) and Dynamic Symmetry: The Greek Vase (1920) through Yale University Press, uniting A. H. Church's botanical phyllotaxis and D'Arcy Thompson's gnomonic shell geometry with Euclid Book X ('commensurable in square') to reconstruct Greek root-rectangle (√2, √3, √5) and whirling-square (φ) proportion."
+  },
+  "hero": {
+    "name": "Hero of Alexandria",
+    "dates": "fl. c. AD 60",
+    "role": "Greco-Roman Mathematician & Engineer",
+    "bio": "Formulated the general morphological definition of the gnomon quoted by Thompson at the heart of Chapter XI (Definitiones 58): 'A gnomon is any figure which, being added to any figure whatsoever, leaves the resultant figure similar to the original.'"
+  },
+  "hofmeister": {
+    "name": "Wilhelm Hofmeister",
+    "dates": "1824 – 1877",
+    "role": "German Botanist",
+    "bio": "Proposed the mechanical rule (1868) that each new leaf primordium emerges at the shoot apex in the widest available gap between preceding primordia—endorsed by Thompson in Chapter XIV as a local physical explanation of Fibonacci phyllotaxis."
+  },
+  "kant": {
+    "name": "Immanuel Kant",
+    "dates": "1724 – 1804",
+    "role": "German Philosopher",
+    "bio": "Quoted by Thompson at the opening of Chapter I: 'in any special doctrine of nature there can be only so much proper science as there is mathematics therein' (Metaphysische Anfangsgründe der Naturwissenschaft, 1786)—the programmatic challenge answered by On Growth and Form."
+  },
+  "kelvin": {
+    "name": "William Thomson, Baron Kelvin",
+    "dates": "1824 – 1907",
+    "role": "British Mathematical Physicist",
+    "bio": "Solved the space-filling minimal-foam problem (1887) via the orthic tetrakaidecahedron (truncated octahedron of 8 hexagons and 6 squares with slightly curved edges meeting at 109° 28′ 16″), applied by Thompson in Chapters VII–VIII to parenchyma plant tissues."
+  },
+  "kepler": {
+    "name": "Johannes Kepler",
+    "dates": "1571 – 1630",
+    "role": "German Astronomer & Geometer",
+    "bio": "Discovered the space-filling rhombic dodecahedron via bee cells and pomegranate seeds in Strena seu De Nive Sexangula (1611), connected the Fibonacci recurrence to the divine proportion φ, and called the Pythagorean theorem and extreme-and-mean ratio the two treasures of geometry."
+  },
+  "koenig": {
+    "name": "Johann Samuel König",
+    "dates": "1712 – 1757",
+    "role": "German-Swiss Mathematician & Student of Johann Bernoulli",
+    "bio": "Solved Réaumur's calculus optimization problem for the minimum-wax rhombic base of the bee's cell (1739), obtaining 109° 26′ due to a subtle error in his logarithm table later corrected to 109° 28′ 16″ by Colin Maclaurin (Chapter VII)."
+  },
+  "leonardo": {
+    "name": "Leonardo da Vinci",
+    "dates": "1452 – 1519",
+    "role": "Italian Renaissance Polymath, Anatomist & Illustrator of De Divina Proportione",
+    "bio": "Drew the skeletal Platonic and Archimedean polyhedra for Luca Pacioli's De Divina Proportione (1509) and investigated botanical phyllotaxis, branching cross-sections, bird flight, and equine anatomy cited across Chapters II, XIV, and XVI."
+  },
+  "maclaurin": {
+    "name": "Colin Maclaurin",
+    "dates": "1698 – 1746",
+    "role": "Scottish Mathematician",
+    "bio": "Proved by pure synthetic Euclidean geometry in Philosophical Transactions (1743) that the surface-minimizing trihedral cap of the hexagonal honeycomb cell has rhombi whose obtuse angle satisfies tan(θ/2) = √2, i.e. cos θ = -1/3 or 109° 28′ 16″ (Chapter VII, Fig. 132)."
+  },
+  "maraldi": {
+    "name": "Giacomo Filippo Maraldi",
+    "dates": "1665 – 1729",
+    "role": "Franco-Italian Astronomer at the Paris Observatory",
+    "bio": "Observed bees in glass-walled hives at the Paris Observatory (1712) and measured the obtuse angle of the rhombic plates forming the pyramidal base of the honeycomb cell at approximately 109° 28′ (the Maraldi angle, exact rational spread s = 8/9)."
+  },
+  "meyer": {
+    "name": "Georg Hermann von Meyer",
+    "dates": "1815 – 1892",
+    "role": "German Anatomist at the University of Zürich",
+    "bio": "Published Die Architektur der Spongiosa (1867), demonstrating with Karl Culmann that cancellous bone lamellae align along orthogonal principal tension and compression curves rather than arbitrary anatomical lattices (Chapter XVI)."
+  },
+  "moseley": {
+    "name": "Henry Moseley",
+    "dates": "1801 – 1872",
+    "role": "English Mathematician, Clergyman & Naval Engineer",
+    "bio": "Published the pioneering mathematical monograph On the Geometrical Forms of Turbinated and Discoid Shells in Philosophical Transactions (1838), deriving the logarithmic spiral laws of gastropod, Nautilus, and opercular growth built upon throughout Chapter XI."
+  },
+  "newton": {
+    "name": "Sir Isaac Newton",
+    "dates": "1642 – 1727",
+    "role": "English Mathematician & Natural Philosopher",
+    "bio": "Quoted on the 1917 epigraph page from the Preface to the Principia (1687) expressing the hope that cohesive and repulsive forces governing regular natural figures might be deduced from mechanical principles, and cited in Chapter II on dynamical similitude (Principia Book II, Prop. 32)."
+  },
+  "pacioli": {
+    "name": "Fra Luca Pacioli",
+    "dates": "c. 1447 – 1517",
+    "role": "Italian Franciscan Mathematician (Author of De Divina Proportione)",
+    "bio": "Codified the divine proportion φ = (1 + √5)/2 and the Platonic solids in De Divina Proportione (1509), standing behind both Renaissance harmonic geometry and Thompson's skepticism toward mystical numerology in phyllotaxis."
+  },
+  "pappus": {
+    "name": "Pappus of Alexandria",
+    "dates": "fl. c. AD 320",
+    "role": "Late Antique Alexandrian Geometer (Author of the Synagoge)",
+    "bio": "Opened Book V of his Mathematical Collection (Synagoge) with the celebrated Preface on the sagacity of bees choosing the regular hexagon to tile the plane with maximum capacity for minimum wax perimeter, and developed projective cross-ratio geometry in Book VII underlying Thompson's transformations."
+  },
+  "plateau": {
+    "name": "Joseph Antoine Ferdinand Plateau",
+    "dates": "1801 – 1883",
+    "role": "Belgian Experimental Physicist",
+    "bio": "Despite total blindness after 1843, directed the monumental experiments summarized in Statique expérimentale et théorique des liquides (1873), establishing the constant-mean-curvature surfaces of revolution (sphere, cylinder, catenoid, unduloid, nodoid) and the 120° / 109° 28′ 16″ laws of soap-film equilibrium central to Chapters V–IX."
+  },
+  "reaumur": {
+    "name": "René-Antoine Ferchault de Réaumur",
+    "dates": "1683 – 1757",
+    "role": "French Entomologist, Physicist & Academician",
+    "bio": "Conjectured in Mémoires pour servir à l'histoire des insectes (1740) that the bee's pyramidal cell base minimizes wax surface area and posed the pure geometric extremum problem without disclosing Maraldi's angle to Johann Samuel König (Chapter VII)."
+  },
+  "schimper": {
+    "name": "Karl Friedrich Schimper",
+    "dates": "1803 – 1867",
+    "role": "German Botanist & Naturalist",
+    "bio": "Initiated the mathematical classification of spiral leaf-arrangement (phyllotaxis) around 1830, identifying the principal fractional series 1/2, 1/3, 2/5, 3/8, 5/13... analyzed in Chapter XIV."
+  },
+  "tait": {
+    "name": "Peter Guthrie Tait",
+    "dates": "1831 – 1901",
+    "role": "Scottish Mathematical Physicist (University of Edinburgh)",
+    "bio": "Teacher and lifelong mentor look-up for D'Arcy Thompson in Edinburgh; derived the algebraic relation whereby intersecting cylindrical parastichy numbers (m, n) yield the next higher order (m + n) in Proceedings of the Royal Society of Edinburgh (1872), reproduced directly in Chapter XIV (Fig. 325)."
+  },
+  "thompson": {
+    "name": "Sir D'Arcy Wentworth Thompson",
+    "dates": "1860 – 1948",
+    "role": "Scottish Biologist, Mathematician & Classical Scholar",
+    "bio": "Professor of Natural History at Dundee and St Andrews, translator of Aristotle's Historia Animalium (1910), author of A Glossary of Greek Birds (1895) and A Glossary of Greek Fishes (1947), and author of On Growth and Form (Cambridge, 1917)—the masterwork uniting classical Greek geometry, physical mechanics, and biological morphogenesis."
+  },
+  "turing": {
+    "name": "Alan Mathison Turing",
+    "dates": "1912 – 1954",
+    "role": "British Mathematician, Logician & Theoretical Biologist",
+    "bio": "Cited On Growth and Form as one of only six works in the bibliography of his 1952 paper 'The Chemical Basis of Morphogenesis', extending Thompson's physical-mathematical program into reaction-diffusion instabilities and Fibonacci phyllotaxis."
+  }
+}
