@@ -1,0 +1,190 @@
+<svg class="euclid-graphic" viewBox="0 0 730 275" role="img" aria-label="Plateau wire cube soap film and Kelvin tetrakaidecahedron" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .euclid-graphic {
+      font-family: Georgia, 'Times New Roman', serif;
+      --fg: #18181b;
+      --fg-muted: #52525b;
+      --grid: #a1a1aa;
+      --panel-bg: #fafaf9;
+      --accent-blue: #1d4ed8;
+      --accent-amber: #b45309;
+      --accent-green: #15803d;
+      --accent-crimson: #b91c1c;
+      --fill-soft: rgba(29, 78, 216, 0.08);
+      --fill-gold: rgba(180, 83, 9, 0.11);
+      --fill-green: rgba(21, 128, 61, 0.09);
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --fg: #f4f4f5;
+        --fg-muted: #a1a1aa;
+        --grid: #52525b;
+        --panel-bg: #18181b;
+        --accent-blue: #60a5fa;
+        --accent-amber: #fbbf24;
+        --accent-green: #4ade80;
+        --accent-crimson: #f87171;
+        --fill-soft: rgba(96, 165, 250, 0.13);
+        --fill-gold: rgba(251, 191, 36, 0.15);
+        --fill-green: rgba(74, 222, 128, 0.13);
+      }
+    }
+    .geom-line {
+      stroke: var(--fg);
+      stroke-width: 1.7;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-aux {
+      stroke: var(--fg-muted);
+      stroke-width: 1.1;
+      stroke-dasharray: 4 3;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-grid {
+      stroke: var(--grid);
+      stroke-width: 0.9;
+      fill: none;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-blue {
+      stroke: var(--accent-blue);
+      stroke-width: 2.0;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-amber {
+      stroke: var(--accent-amber);
+      stroke-width: 2.1;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-green {
+      stroke: var(--accent-green);
+      stroke-width: 1.9;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-crimson {
+      stroke: var(--accent-crimson);
+      stroke-width: 1.9;
+      stroke-dasharray: 5 3;
+      fill: none;
+      stroke-linecap: round;
+      vector-effect: non-scaling-stroke;
+    }
+    .geom-fill-soft { fill: var(--fill-soft); stroke: none; }
+    .geom-fill-gold { fill: var(--fill-gold); stroke: none; }
+    .geom-fill-green { fill: var(--fill-green); stroke: none; }
+    .geom-pt { fill: var(--fg); stroke: none; }
+    .geom-pt-amber { fill: var(--accent-amber); stroke: none; }
+    .geom-pt-blue { fill: var(--accent-blue); stroke: none; }
+    .geom-label {
+      fill: var(--fg);
+      font-size: 13px;
+      font-style: italic;
+    }
+    .geom-note {
+      fill: var(--fg-muted);
+      font-size: 11.5px;
+      font-style: normal;
+    }
+    .geom-title {
+      fill: var(--fg);
+      font-size: 13.5px;
+      font-weight: bold;
+      font-style: normal;
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-2 -6 4 12" markerWidth="4" markerHeight="12" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-4 -6 8 12" markerWidth="8" markerHeight="12" orient="auto">
+      <line x1="-2" y1="-4.5" x2="-2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="2" y1="-4.5" x2="2" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" markerWidth="12" markerHeight="12" orient="auto">
+      <line x1="-3.5" y1="-4.5" x2="-3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+      <line x1="3.5" y1="-4.5" x2="3.5" y2="4.5" stroke="context-stroke" stroke-width="1.3"/>
+    </marker>
+  </defs>
+  <text class="geom-title" x="180.00" y="26.00" text-anchor="middle">A. Plateau&#x27;s Wire Cube Film (Fig. 134)</text>
+  <text class="geom-title" x="545.00" y="26.00" text-anchor="middle">B. Kelvin&#x27;s Tetrakaidecahedron (8 Hex + 6 Sq)</text>
+  <path class="geom-line" d="M 91.56 227.16 L 157.56 227.16 L 223.56 227.16"/>
+  <path class="geom-line" d="M 136.44 192.84 L 202.44 192.84 L 268.44 192.84"/>
+  <path class="geom-line" d="M 91.56 95.16 L 157.56 95.16 L 223.56 95.16"/>
+  <path class="geom-line" d="M 136.44 60.84 L 202.44 60.84 L 268.44 60.84"/>
+  <path class="geom-line" d="M 91.56 227.16 L 114.00 210.00 L 136.44 192.84"/>
+  <path class="geom-line" d="M 223.56 227.16 L 246.00 210.00 L 268.44 192.84"/>
+  <path class="geom-line" d="M 91.56 95.16 L 114.00 78.00 L 136.44 60.84"/>
+  <path class="geom-line" d="M 223.56 95.16 L 246.00 78.00 L 268.44 60.84"/>
+  <path class="geom-line" d="M 91.56 227.16 L 91.56 161.16 L 91.56 95.16"/>
+  <path class="geom-line" d="M 223.56 227.16 L 223.56 161.16 L 223.56 95.16"/>
+  <path class="geom-line" d="M 136.44 192.84 L 136.44 126.84 L 136.44 60.84"/>
+  <path class="geom-line" d="M 268.44 192.84 L 268.44 126.84 L 268.44 60.84"/>
+  <path class="geom-fill-gold" d="M 153.47 149.15 L 193.07 149.15 L 206.53 138.85 L 166.93 138.85 Z"/>
+  <path class="geom-amber" data-ref="lamina_0" d="M 153.47 149.15 L 173.27 149.15 L 193.07 149.15"/>
+  <circle class="geom-pt-amber" data-ref="L_0" cx="153.47" cy="149.15" r="3.00"/>
+  <path class="geom-amber" data-ref="lamina_1" d="M 193.07 149.15 L 199.80 144.00 L 206.53 138.85"/>
+  <circle class="geom-pt-amber" data-ref="L_1" cx="193.07" cy="149.15" r="3.00"/>
+  <path class="geom-amber" data-ref="lamina_2" d="M 206.53 138.85 L 186.73 138.85 L 166.93 138.85"/>
+  <circle class="geom-pt-amber" data-ref="L_2" cx="206.53" cy="138.85" r="3.00"/>
+  <path class="geom-amber" data-ref="lamina_3" d="M 166.93 138.85 L 160.20 144.00 L 153.47 149.15"/>
+  <circle class="geom-pt-amber" data-ref="L_3" cx="166.93" cy="138.85" r="3.00"/>
+  <path class="geom-blue" data-ref="film_0_0" d="M 153.47 149.15 L 122.51 188.15 L 91.56 227.16"/>
+  <path class="geom-blue" data-ref="film_0_4" d="M 153.47 149.15 L 122.51 122.15 L 91.56 95.16"/>
+  <path class="geom-blue" data-ref="film_1_1" d="M 193.07 149.15 L 208.31 188.15 L 223.56 227.16"/>
+  <path class="geom-blue" data-ref="film_1_5" d="M 193.07 149.15 L 208.31 122.15 L 223.56 95.16"/>
+  <path class="geom-blue" data-ref="film_2_3" d="M 206.53 138.85 L 237.49 165.85 L 268.44 192.84"/>
+  <path class="geom-blue" data-ref="film_2_7" d="M 206.53 138.85 L 237.49 99.85 L 268.44 60.84"/>
+  <path class="geom-blue" data-ref="film_3_2" d="M 166.93 138.85 L 151.69 165.85 L 136.44 192.84"/>
+  <path class="geom-blue" data-ref="film_3_6" d="M 166.93 138.85 L 151.69 99.85 L 136.44 60.84"/>
+  <text class="geom-note" x="180.00" y="254.00" text-anchor="middle">Unstable 8-ray vertex splits into central lamina</text>
+  <path class="geom-fill-gold" d="M 580.07 129.00 L 616.02 160.60 L 580.07 204.18 L 544.12 172.59 Z"/>
+  <path class="geom-fill-soft" d="M 562.53 79.12 L 580.95 60.83 L 616.90 92.42 L 634.44 142.30 L 616.02 160.60 L 580.07 129.00 Z"/>
+  <path class="geom-line" d="M 473.10 191.58 L 464.33 166.64 L 455.56 141.70"/>
+  <path class="geom-line" d="M 473.10 191.58 L 481.86 178.94 L 490.63 166.29"/>
+  <path class="geom-line" d="M 473.10 191.58 L 491.07 207.38 L 509.05 223.17"/>
+  <path class="geom-line" d="M 455.56 141.70 L 464.33 129.05 L 473.10 116.41"/>
+  <path class="geom-aux" d="M 455.56 141.70 L 464.77 132.55 L 473.98 123.40"/>
+  <path class="geom-line" d="M 490.63 166.29 L 481.86 141.35 L 473.10 116.41"/>
+  <path class="geom-line" d="M 490.63 166.29 L 517.37 169.44 L 544.12 172.59"/>
+  <path class="geom-line" d="M 473.10 116.41 L 491.07 94.61 L 509.05 72.82"/>
+  <path class="geom-aux" d="M 509.05 223.17 L 518.26 214.03 L 527.47 204.88"/>
+  <path class="geom-line" d="M 509.05 223.17 L 535.79 226.32 L 562.53 229.47"/>
+  <path class="geom-aux" d="M 473.98 123.40 L 491.95 139.20 L 509.93 155.00"/>
+  <path class="geom-aux" d="M 473.98 123.40 L 491.95 101.61 L 509.93 79.82"/>
+  <path class="geom-line" d="M 544.12 172.59 L 562.09 188.38 L 580.07 204.18"/>
+  <path class="geom-line" d="M 544.12 172.59 L 562.09 150.80 L 580.07 129.00"/>
+  <path class="geom-line" d="M 509.05 72.82 L 518.26 63.68 L 527.47 54.53"/>
+  <path class="geom-line" d="M 509.05 72.82 L 535.79 75.97 L 562.53 79.12"/>
+  <path class="geom-aux" d="M 527.47 204.88 L 518.70 179.94 L 509.93 155.00"/>
+  <path class="geom-aux" d="M 527.47 204.88 L 554.21 208.03 L 580.95 211.18"/>
+  <path class="geom-line" d="M 562.53 229.47 L 571.30 216.83 L 580.07 204.18"/>
+  <path class="geom-aux" d="M 562.53 229.47 L 571.74 220.32 L 580.95 211.18"/>
+  <path class="geom-aux" d="M 509.93 155.00 L 527.91 133.20 L 545.88 111.41"/>
+  <path class="geom-line" d="M 580.07 204.18 L 598.05 182.39 L 616.02 160.60"/>
+  <path class="geom-aux" d="M 509.93 79.82 L 518.70 67.17 L 527.47 54.53"/>
+  <path class="geom-aux" d="M 509.93 79.82 L 527.91 95.62 L 545.88 111.41"/>
+  <path class="geom-line" d="M 580.07 129.00 L 571.30 104.06 L 562.53 79.12"/>
+  <path class="geom-line" d="M 580.07 129.00 L 598.05 144.80 L 616.02 160.60"/>
+  <path class="geom-line" d="M 527.47 54.53 L 554.21 57.68 L 580.95 60.83"/>
+  <path class="geom-line" d="M 562.53 79.12 L 571.74 69.97 L 580.95 60.83"/>
+  <path class="geom-aux" d="M 580.95 211.18 L 598.93 189.39 L 616.90 167.59"/>
+  <path class="geom-aux" d="M 545.88 111.41 L 572.63 114.56 L 599.37 117.71"/>
+  <path class="geom-line" d="M 616.02 160.60 L 625.23 151.45 L 634.44 142.30"/>
+  <path class="geom-line" d="M 580.95 60.83 L 598.93 76.62 L 616.90 92.42"/>
+  <path class="geom-aux" d="M 616.90 167.59 L 608.14 142.65 L 599.37 117.71"/>
+  <path class="geom-aux" d="M 616.90 167.59 L 625.67 154.95 L 634.44 142.30"/>
+  <path class="geom-aux" d="M 599.37 117.71 L 608.14 105.06 L 616.90 92.42"/>
+  <path class="geom-aux" d="M 634.44 142.30 L 625.67 117.36 L 616.90 92.42"/>
+  <text class="geom-note" x="545.00" y="254.00" text-anchor="middle">Space-filling minimal foam: 24 vertices, 36 edges</text>
+</svg>

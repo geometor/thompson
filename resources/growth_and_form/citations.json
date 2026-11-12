@@ -1,0 +1,266 @@
+{
+  "aquinas:depot": {
+    "author": "St. Thomas Aquinas",
+    "work": "Quaestiones Disputatae de Potentia Dei",
+    "locus": "Quaestio III, Articulus 11 ('Cum formarum naturalium et corporalium esse non consistat nisi in unione ad materiam...')",
+    "year": "c. 1265",
+    "publisher": "Rome / Paris (quoted in Thompson 1917 Epigraph)",
+    "note": "Primary Scholastic epigraph opening the 1917 Cambridge edition, grounding Thompson's thesis that natural physical causes suffice to generate corporeal forms."
+  },
+  "archimedes:spirals": {
+    "author": "Archimedes of Syracuse",
+    "work": "On Spirals (De Lineis Spiralibus)",
+    "locus": "Definitions & Propositions 1–28",
+    "year": "c. 225 BC",
+    "publisher": "Critical ed. J. L. Heiberg (Teubner); English ed. T. L. Heath (Cambridge, 1897)",
+    "note": "Defines the uniform arithmetic spiral r = aθ, contrasted by Thompson (Ch. XI, pp. 494–498) with the geometric growth law of the equiangular spiral."
+  },
+  "aristotle:cat": {
+    "author": "Aristotle",
+    "work": "Categoriae (Categories)",
+    "locus": "Ch. 14, 15a29–33",
+    "year": "c. 350 BC",
+    "publisher": "Corpus Aristotelicum (Bekker pagination)",
+    "note": "States that a square, when a gnomon is placed around it, is increased in size (*auxanetai*) without being altered in form (*alloioutai*)—the philosophical kernel of Chapter XI."
+  },
+  "aristotle:hist-anim": {
+    "author": "Aristotle",
+    "work": "Historia Animalium (History of Animals)",
+    "locus": "Translated by D'Arcy Wentworth Thompson (The Works of Aristotle, Vol. IV)",
+    "year": "1910 (orig. c. 343 BC)",
+    "publisher": "Clarendon Press, Oxford",
+    "note": "Thompson's own landmark English translation of Aristotle's zoology, informing observations on shells, horns, cetaceans, and comparative anatomy across On Growth and Form."
+  },
+  "bernoulli:1692": {
+    "author": "Jakob Bernoulli",
+    "work": "Lineae Cycloidales, Evolutae, Ant-Evolutae, Causticae, Anti-Causticae, Peri-Causticae (Spira Mirabilis)",
+    "locus": "Acta Eruditorum, May 1692, pp. 207–213",
+    "year": "1692",
+    "publisher": "Leipzig",
+    "note": "Demonstrates the invariance of the logarithmic spiral under geometric operations and concludes with the motto Eadem mutata resurgo (Ch. XI, p. 504)."
+  },
+  "boscovich:1760": {
+    "author": "Roger Joseph Boscovich",
+    "work": "Supplement on the Cells of Bees (in Benedict Stay, Philosophiae recentioris versibus traditae libri X, Tom. II)",
+    "locus": "Annot. in Lib. V",
+    "year": "1760",
+    "publisher": "Pagliarini, Rome",
+    "note": "Examines Maraldi's honeycomb angle and shows the mathematical sensitivity of the wax minimum around 109° 28′ 16″ (Ch. VII, pp. 332–335)."
+  },
+  "bravais:1837": {
+    "author": "Louis Bravais & Auguste Bravais",
+    "work": "Essai sur la disposition des feuilles curvisériées",
+    "locus": "Annales des Sciences Naturelles (Botanique), 2e série, Tome 7, pp. 42–110",
+    "year": "1837",
+    "publisher": "Crochard, Paris",
+    "note": "Establishes cylindrical lattice geometry and the unique irrational golden divergence angle in spiral phyllotaxis (Ch. XIV)."
+  },
+  "church:1904": {
+    "author": "Arthur Harry Church",
+    "work": "On the Relation of Phyllotaxis to Mechanical Laws",
+    "locus": "Parts I–III (pp. 1–353)",
+    "year": "1904",
+    "publisher": "Williams & Norgate, London",
+    "note": "Models apical phyllotaxis via orthogonal families of logarithmic spirals; cited both by Thompson (Ch. XIV, pp. 646–650) and by Jay Hambidge (The Diagonal, Vol. I, No. 1, 1919)."
+  },
+  "culmann:1866": {
+    "author": "Karl Culmann",
+    "work": "Die graphische Statik",
+    "locus": "1st ed., Zürich",
+    "year": "1866",
+    "publisher": "Meyer & Zeller, Zürich",
+    "note": "Foundational treatise of graphic statics whose Fairbairn crane stress trajectories match the cancellous trabeculae of the human femur (Ch. XVI, pp. 679–686)."
+  },
+  "durer:1528": {
+    "author": "Albrecht Dürer",
+    "work": "Hierinn sind begriffen vier Bücher von menschlicher Proportion",
+    "locus": "Books III–IV",
+    "year": "1528",
+    "publisher": "Hieronymus Andreae (Formschneider), Nuremberg",
+    "note": "Introduces rectilinear, oblique, and circular coordinate deformations of human heads and bodies, honoured by Thompson (Ch. XVII, pp. 727, 768) as the precursor of transformation grids."
+  },
+  "euclid:elements": {
+    "author": "Euclid of Alexandria",
+    "work": "Elements (Stoicheia)",
+    "locus": "Books II (Def. 2, Prop. 11), IV (Prop. 10), VI (Def. 1 & 3, Prop. 30), X (Def. 1–4), XI, XIII",
+    "year": "c. 300 BC",
+    "publisher": "Critical ed. J. L. Heiberg (Teubner, 1883–1888)",
+    "note": "Classical geometric foundation for gnomons, extreme and mean ratio, the 36°–72°–72° golden triangle, similitude, commensurability in square (dynamis), and the five regular polyhedra."
+  },
+  "fidler:1887": {
+    "author": "Thomas Claxton Fidler",
+    "work": "A Practical Treatise on Bridge-Construction: Being a Text-Book on the Design and Construction of Bridges in Iron and Steel",
+    "locus": "Cantilever & Girder Stress Diagrams",
+    "year": "1887",
+    "publisher": "Charles Griffin & Co., London",
+    "note": "Source of the cantilever and Forth-Bridge reciprocal stress frameworks applied by Thompson to vertebrate skeletons and dinosaur spines in Chapter XVI (pp. 694–712)."
+  },
+  "galileo:1638": {
+    "author": "Galileo Galilei",
+    "work": "Discorsi e Dimostrazioni Matematiche, intorno à due nuove scienze",
+    "locus": "Giornata Seconda (Strength of Beams & Scaling of Bones)",
+    "year": "1638",
+    "publisher": "Elsevirii, Leiden",
+    "note": "Formulates the Square-Cube Law governing maximum size of trees, terrestrial quadrupeds, and marine cetaceans (Ch. II, pp. 19–28)."
+  },
+  "haeckel:1887": {
+    "author": "Ernst Haeckel",
+    "work": "Report on the Radiolaria Collected by H.M.S. Challenger during the Years 1873–1876",
+    "locus": "Zoology, Vol. XVIII (2 parts + 140 plates)",
+    "year": "1887",
+    "publisher": "H.M. Stationery Office, London",
+    "note": "Monumental Challenger monograph whose polyhedral and spicular Radiolaria are analyzed physically via liquid-film geometry in Chapter IX (pp. 468–487)."
+  },
+  "hambidge:1920-diagonal": {
+    "author": "Jay Hambidge",
+    "work": "The Diagonal: An Illustrated Monthly Magazine Devoted to the Explanation of the Rediscovered Principles of Greek Design ('The Elements of Dynamic Symmetry')",
+    "locus": "Vol. I, Nos. 1–12",
+    "year": "1919–1920",
+    "publisher": "Yale University Press, New Haven",
+    "note": "Primary public-domain serial source of Hambidge's Elements of Dynamic Symmetry lessons: sunflower phyllotaxis, root-rectangles (√1–√5), reciprocal diagonals, and whirling squares."
+  },
+  "hambidge:1920-vase": {
+    "author": "Jay Hambidge",
+    "work": "Dynamic Symmetry: The Greek Vase",
+    "locus": "Chs. I–III (Static vs. Dynamic Symmetry, Phyllotaxis, Root-Five & Whirling-Square Rectangles)",
+    "year": "1920",
+    "publisher": "Yale University Press, New Haven & New York",
+    "note": "Connects biological growth laws (shells and phyllotaxis) directly to Greek commensurability in square (Euclid Book X) and classical harmonic design."
+  },
+  "heath:1908": {
+    "author": "Sir Thomas Little Heath",
+    "work": "The Thirteen Books of Euclid's Elements, Translated from the Text of Heiberg with Introduction and Commentary",
+    "locus": "Vol. I (Book II Def. 2, pp. 370–372); Vol. II (Book IV.10, VI.30); Vol. III (Books X & XIII)",
+    "year": "1908",
+    "publisher": "Cambridge University Press",
+    "note": "Standard Cambridge philological commentary cited alongside Thompson's historical reconstruction of Greek gnomonic geometry."
+  },
+  "hero:def": {
+    "author": "Hero of Alexandria",
+    "work": "Definitiones (Heronis Alexandrini Opera quae supersunt omnia, Vol. IV, ed. J. L. Heiberg)",
+    "locus": "Def. 58",
+    "year": "c. AD 60 (ed. 1912)",
+    "publisher": "B. G. Teubner, Leipzig",
+    "note": "Preserves the generalized Greek definition of a gnomon as any increment leaving a figure geometrically similar to itself (Ch. XI, p. 509)."
+  },
+  "hofmeister:1868": {
+    "author": "Wilhelm Hofmeister",
+    "work": "Allgemeine Morphologie der Gewächse",
+    "locus": "Handbuch der physiologischen Botanik, Bd. I, Abt. 2",
+    "year": "1868",
+    "publisher": "Wilhelm Engelmann, Leipzig",
+    "note": "Formulates Hofmeister's mechanical gap-rule for leaf primordia at the growing apex (Ch. XIV, pp. 648–651)."
+  },
+  "kelvin:1887": {
+    "author": "Sir William Thomson (Lord Kelvin)",
+    "work": "On the Division of Space with Minimum Partitional Area",
+    "locus": "Philosophical Magazine, 5th series, Vol. 24, No. 151, pp. 503–514",
+    "year": "1887",
+    "publisher": "Taylor & Francis, London",
+    "note": "Demonstrates the minimal-foam space partition by 14-hedra (tetrakaidecahedra: 8 hexagons and 6 squares), applied to cellular parenchyma in Chapters VII–VIII (pp. 338–345)."
+  },
+  "kepler:1611": {
+    "author": "Johannes Kepler",
+    "work": "Strena seu De Nive Sexangula (The Six-Cornered Snowflake)",
+    "locus": "On Bee Cells, Pomegranate Packing & the Rhombic Dodecahedron",
+    "year": "1611",
+    "publisher": "Godfrey Tampach, Frankfurt am Main",
+    "note": "First geometric description of the space-filling rhombic dodecahedron formed by close-packed spheres and opposed honeycomb layers (Ch. VII, pp. 328–336)."
+  },
+  "maclaurin:1743": {
+    "author": "Colin Maclaurin",
+    "work": "Of the Bases of the Cells wherein the Bees deposite their Honey",
+    "locus": "Philosophical Transactions of the Royal Society, Vol. 42, No. 471, pp. 565–571",
+    "year": "1743",
+    "publisher": "Royal Society, London",
+    "note": "Proves purely by Euclidean geometry that the minimum-surface rhombic cap has obtuse angle 2 arctan(√2) = 109° 28′ 16″ (Ch. VII, p. 332)."
+  },
+  "maraldi:1712": {
+    "author": "Giacomo Filippo Maraldi",
+    "work": "Observations sur les Abeilles",
+    "locus": "Histoire et Mémoires de l'Académie Royale des Sciences (année 1712), pp. 299–335",
+    "year": "1712",
+    "publisher": "Imprimerie Royale, Paris",
+    "note": "Empirical measurement of the rhombic inclination and obtuse dihedral/planar angles (~109° 28′ and 70° 32′) of the honeybee's cell (Ch. VII, pp. 329–334)."
+  },
+  "meyer:1867": {
+    "author": "Georg Hermann von Meyer",
+    "work": "Die Architektur der Spongiosa",
+    "locus": "Archiv für Anatomie, Physiologie und wissenschaftliche Medicin (Reicherts und Du Bois-Reymonds Archiv), pp. 615–628",
+    "year": "1867",
+    "publisher": "Veit & Comp., Leipzig",
+    "note": "Reveals the regular curved trajectories of cancellous bone trabeculae in the human femur and calcaneus, paired with Culmann's crane diagram (Ch. XVI, pp. 679–686)."
+  },
+  "moseley:1838": {
+    "author": "Henry Moseley",
+    "work": "On the Geometrical Forms of Turbinated and Discoid Shells",
+    "locus": "Philosophical Transactions of the Royal Society of London, Vol. 128, pp. 351–370",
+    "year": "1838",
+    "publisher": "Royal Society, London",
+    "note": "Classic analytical study of logarithmic spiral shells and opercula upon which Chapter XI of On Growth and Form builds directly."
+  },
+  "pacioli:1509": {
+    "author": "Fra Luca Pacioli",
+    "work": "De Divina Proportione (illustrations by Leonardo da Vinci)",
+    "locus": "Pars Prima (Divine Proportion φ & Platonic Polyhedra)",
+    "year": "1509",
+    "publisher": "Paganino Paganini, Venice",
+    "note": "Renaissance treatise on extreme and mean ratio and regular polyhedra, bridged in GEOMETOR to Thompson's gnomons and radiolarian polyhedra."
+  },
+  "pappus:synagoge": {
+    "author": "Pappus of Alexandria",
+    "work": "Synagoge (Mathematical Collection, ed. F. Hultsch)",
+    "locus": "Book V Preface (On the Sagacity of Bees & Isoperimetry); Book VII (Domain of Analysis & Cross-Ratio)",
+    "year": "c. AD 320 (ed. 1876–1878)",
+    "publisher": "Weidmann, Berlin",
+    "note": "Unites the classical isoperimetric proof of the hexagonal honeycomb (Ch. VII, p. 327) with the projective cross-ratio transformations underlying Chapter XVII."
+  },
+  "plateau:1873": {
+    "author": "Joseph Antoine Ferdinand Plateau",
+    "work": "Statique expérimentale et théorique des liquides soumis aux seules forces moléculaires",
+    "locus": "Tomes I–II",
+    "year": "1873",
+    "publisher": "F. Clemm, Ghent & Gauthier-Villars, Paris",
+    "note": "Definitive treatise on soap films, minimal surfaces, Delaunay surfaces of constant mean curvature, and cellular foam equilibria (Chs. V–IX)."
+  },
+  "tait:1872": {
+    "author": "Peter Guthrie Tait",
+    "work": "On Phyllotaxis",
+    "locus": "Proceedings of the Royal Society of Edinburgh, Vol. 7, pp. 391–394",
+    "year": "1872",
+    "publisher": "Royal Society of Edinburgh",
+    "note": "Demonstrates geometrically how overlapping cylindrical parastichy lattices generate Fibonacci recurrence numbers (Ch. XIV, pp. 643–645, Fig. 325)."
+  },
+  "thompson:1911": {
+    "author": "D'Arcy Wentworth Thompson",
+    "work": "Magnalia Naturae; or, The Greater Problems of Biology",
+    "locus": "Presidential Address to Section D (Zoology), British Association for the Advancement of Science, Portsmouth (also Science, Vol. 34, pp. 417–428)",
+    "year": "1911",
+    "publisher": "British Association, London",
+    "note": "Programmatic address introducing the Aquinas epigraph and calling for physical and mathematical morphology prior to On Growth and Form."
+  },
+  "thompson:1915": {
+    "author": "D'Arcy Wentworth Thompson",
+    "work": "Morphology and Mathematics",
+    "locus": "Transactions of the Royal Society of Edinburgh, Vol. 50, Part IV, No. 27, pp. 857–895",
+    "year": "1915",
+    "publisher": "Robert Grant & Son, Edinburgh",
+    "note": "First publication of Thompson's coordinate transformation grids (Argyropelecus/Sternoptyx, Diodon/Orthagoriscus, crab carapaces, Eohippus/Equus), expanded into Chapter XVII of the 1917 edition."
+  },
+  "thompson:1917": {
+    "author": "D'Arcy Wentworth Thompson",
+    "work": "On Growth and Form",
+    "locus": "First Edition, xv + 793 pp., 408 figures",
+    "year": "1917",
+    "publisher": "Cambridge University Press, Cambridge",
+    "note": "Authoritative 1917 First Edition reproduced in this Digital Scriptorium Book Codex."
+  },
+  "turing:1952": {
+    "author": "Alan Mathison Turing",
+    "work": "The Chemical Basis of Morphogenesis",
+    "locus": "Philosophical Transactions of the Royal Society of London, Series B, Vol. 237, No. 641, pp. 37–72",
+    "year": "1952",
+    "publisher": "Royal Society, London",
+    "note": "Foundational reaction-diffusion paper explicitly citing Thompson's On Growth and Form as inspiration for mathematical morphogenesis and phyllotaxis."
+  }
+}

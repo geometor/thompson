@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "title": "Thompson–Hambidge–GEOMETOR Morphological & Dynamic Symmetry Concordance",
+    "description": "Structured cross-repository concordance mapping D'Arcy Wentworth Thompson's On Growth and Form (Cambridge University Press, 1st ed., 1917) and Jay Hambidge's The Elements of Dynamic Symmetry (Yale University Press, 1919–1920) across the GEOMETOR Digital Scriptorium and symbolic geometry ecosystem.",
+    "editions_aligned": {
+      "thompson_1917_cup": "On Growth and Form, First Edition (Cambridge: University Press, 1917, xv + 793 pp., 17 chapters)",
+      "hambidge_1920_diagonal": "The Diagonal, Vol. I, Nos. 1–12 ('The Elements of Dynamic Symmetry', New Haven: Yale University Press, 1919–1920)",
+      "hambidge_1920_vase": "Dynamic Symmetry: The Greek Vase (New Haven: Yale University Press, 1920)"
+    },
+    "edition_boundary_note": "Strictly anchored to the 1917 1st Edition (17 chapters) and 1919–1920 Yale editions; Thompson's 1942 2nd Edition and Bonner's 1961 abridgement are excluded."
+  },
+  "entries": [
+    {
+      "id": "epigraph-aquinas-newton",
+      "unit": "unit-1-magnitude",
+      "chapter": "Prefatory Note & Ch. I",
+      "pages_1917": "pp. v–vi, 1–15",
+      "topic": "Mathematical Morphology, Efficient Cause, and Physical Law",
+      "hambidge_parallels": [
+        "Dynamic Symmetry: The Greek Vase (1920), Preface & Introduction — recovering mathematical law behind organic and classical artistic form"
+      ],
+      "sister_refs": [
+        {
+          "repo": "aquinas",
+          "locus": "De Potentia Dei, Q. 3, a. 11",
+          "relation": "Thompson's opening Latin epigraph affirms that corporeal forms require no extrinsic agent beyond the physical causes transmuting matter."
+        },
+        {
+          "repo": "aristotle",
+          "locus": "Physics II & Historia Animalium",
+          "relation": "Balances Aristotelian formal/teleological morphology with Newtonian and Galilean efficient mechanics."
+        }
+      ],
+      "invariants": ["F = m a", "Dimensional homogeneity"],
+      "summary": "Establishes morphology as a mathematical science of physical forces acting in the present and immediate past of the growing organism."
+    },
+    {
+      "id": "similitude-square-cube",
+      "unit": "unit-1-magnitude",
+      "chapter": "Ch. II (On Magnitude) & Bridge Chs. III–IV",
+      "pages_1917": "pp. 16–49 (bridge pp. 50–200)",
+      "topic": "Principle of Similitude, Galileo's Square-Cube Law, and Scale Regimes",
+      "hambidge_parallels": [
+        "The Diagonal (1919–1920), Lesson I — invariance of proportional shape versus absolute linear scale"
+      ],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book VI, Def. 1 & Props. 19–20; Book XI, Prop. 33",
+          "relation": "Duplicate ratio of areas (L²) and triplicate ratio of similar solids (L³) supply the exact geometric basis for Galileo's scaling bounds."
+        },
+        {
+          "repo": "elements",
+          "locus": "Book VI Similitude DAG",
+          "relation": "Formalizes proportional scaling of similar rectilinear and solid figures."
+        }
+      ],
+      "invariants": ["S / S₀ = (L / L₀)²", "V / V₀ = (L / L₀)³", "S / V ∝ L⁻¹"],
+      "summary": "Demonstrates why gravity governs terrestrial vertebrates (L³), surface tension and viscosity govern protists and cells (L² and L¹), and Brownian agitation rules bacteria."
+    },
+    {
+      "id": "delaunay-surfaces-cells",
+      "unit": "unit-2-cells-tissues",
+      "chapter": "Chs. V–VI (Forms of Cells & Adsorption)",
+      "pages_1917": "pp. 201–292",
+      "topic": "Capillarity, Laplace–Young Law, and Plateau–Delaunay Surfaces of Revolution",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "pappus",
+          "locus": "Synagoge Book V (Isoperimetric Figures in Plane and Space)",
+          "relation": "Extends classical Alexandrian isoperimetric minimization (circle and sphere) to liquid membranes under pressure and tension."
+        }
+      ],
+      "invariants": ["ΔP = T (1/R₁ + 1/R₂)", "H = const (sphere, cylinder, catenoid, unduloid, nodoid)"],
+      "summary": "Classifies solitary unicellular outlines—Amoeba, Lagena, Ciliates, Flagellates—through the six axisymmetric surfaces of constant mean curvature."
+    },
+    {
+      "id": "plateau-fermat-120",
+      "unit": "unit-2-cells-tissues",
+      "chapter": "Chs. VII–VIII (Forms of Tissues, or Cell-Aggregates)",
+      "pages_1917": "pp. 293–326, 346–410",
+      "topic": "Plateau's 120° Triple Junction, Steiner Networks, and Hexagonal Epithelia",
+      "hambidge_parallels": [
+        "Dynamic Symmetry: The Greek Vase (1920), Ch. I — hexagonal crystal/honeycomb tiling as the archetype of √3 Static Symmetry"
+      ],
+      "sister_refs": [
+        {
+          "repo": "etc",
+          "locus": "X(13) (1st Isogonic / Fermat–Torricelli–Steiner Point)",
+          "relation": "Three soap-film laminae spanning three pins converge physically at X(13), subtending 120° between every pair of segments."
+        },
+        {
+          "repo": "wildberger",
+          "locus": "Rational Spread s = 3/4",
+          "relation": "The 120° soap-film equilibrium angle corresponds to exact rational spread sin²(120°) = 3/4 over Q."
+        },
+        {
+          "repo": "pappus",
+          "locus": "Synagoge Book V, Preface (On the Sagacity of Bees)",
+          "relation": "Pappus's proof that the regular hexagon encloses maximum area per unit perimeter among plane-tiling polygons becomes physical capillary minimization in Thompson."
+        }
+      ],
+      "invariants": ["∠APB = ∠BPC = ∠CPA = 120°", "s(120°) = 3/4", "Euler V - E + F = χ"],
+      "summary": "Shows that hexagonal cellular pavements, segmentation cleavage planes (Sachs's & Errera's laws), and epithelial mosaics arise directly from liquid surface-tension equilibrium."
+    },
+    {
+      "id": "maraldi-honeycomb-kelvin",
+      "unit": "unit-2-cells-tissues",
+      "chapter": "Ch. VII (The Bee's Cell & Parenchyma)",
+      "pages_1917": "pp. 327–345",
+      "topic": "Maraldi's Tetrahedral Angle (109° 28′ 16″), Rhombic Dodecahedron, and Kelvin's Tetrakaidecahedron",
+      "hambidge_parallels": [
+        "The Diagonal (1919–1920), p. 18 — 1 : √2 diagonal ratio of the Maraldi rhombus matches the root-two rectangle"
+      ],
+      "sister_refs": [
+        {
+          "repo": "wildberger",
+          "locus": "Tetrahedral Rational Spread s = 8/9",
+          "relation": "The Maraldi angle arccos(-1/3) ≈ 109° 28′ 16″ has cos²θ = 1/9 and exact rational spread s = 1 - 1/9 = 8/9, with rhombus diagonal quadrance ratio 1 : 2."
+        },
+        {
+          "repo": "pacioli",
+          "locus": "De Divina Proportione (1509) & Kepler Strena (1611)",
+          "relation": "Connects semi-regular/space-filling polyhedra—Kepler's rhombic dodecahedron and Kelvin's truncated octahedron (8 hexagons + 6 squares)—to physical foam packing."
+        }
+      ],
+      "invariants": ["cos θ = -1/3", "tan(θ/2) = √2", "s = 8/9", "14-hedron: F = 14, V = 24, E = 36"],
+      "summary": "Unifies Kepler, Maraldi, Réaumur, König, Maclaurin, Boscovich, Plateau, and Kelvin: both the bee's pyramidal cell cap and three-dimensional soap froth obey the tetrahedral spread s = 8/9."
+    },
+    {
+      "id": "radiolaria-platonic-skeletons",
+      "unit": "unit-2-cells-tissues",
+      "chapter": "Chs. IX–X (Spicules, Radiolaria & Geodetics)",
+      "pages_1917": "pp. 411–492",
+      "topic": "Sponge Spicules, Haeckel's Polyhedral Radiolaria, Euler's Formula, and Cell Geodetics",
+      "hambidge_parallels": [
+        "Dynamic Symmetry: The Greek Vase (1920) — icosahedral/dodecahedral √5 proportions in nature"
+      ],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book XIII, Props. 13–18 (Construction & Exhaustion of the Five Regular Solids)",
+          "relation": "Critiques Haeckel's claim of true hexagonal/octagonal regular lattices on spheres via Euler's polyhedral theorem (12 pentagons mandatory in hexagonal fullerene/radiolarian cages, e.g. Aulonia hexagona)."
+        },
+        {
+          "repo": "pacioli",
+          "locus": "De Divina Proportione, Skeletal Polyhedra Plates",
+          "relation": "Callimitra and Challenger radiolarian frames physically instantiate skeletal wire-frame polyhedra via adsorbed siliceous deposition along Plateau film edges."
+        }
+      ],
+      "invariants": ["V - E + F = 2", "∑ (6 - k) F_k = 12 (3-valent spherical net)"],
+      "summary": "Proves via Euler's theorem that no spherical radiolarian mesh can consist solely of hexagons, and explains tetrahedral/octahedral/icosahedral baskets via symmetrical泡-film partitions."
+    },
+    {
+      "id": "equiangular-spiral-gnomon",
+      "unit": "unit-3-equiangular-spiral",
+      "chapter": "Chs. XI–XIII (The Logarithmic Spiral, Foraminifera & Horns)",
+      "pages_1917": "pp. 493–634",
+      "topic": "Spira Mirabilis, Hero's Theory of the Gnomon, Golden Triangles, and Turbinated Shells",
+      "hambidge_parallels": [
+        "The Diagonal (1919–1920), Lesson I & Whirling Squares — direct citation of logarithmic shell growth and square gnomons of the φ rectangle"
+      ],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book II, Def. 2 & Prop. 11; Book IV, Prop. 10; Book VI, Prop. 30",
+          "relation": "Generalizes Euclid's parallelogrammic gnomon (II Def. 2) via Hero Def. 58 to the whirling-square golden rectangle (II.11, VI.30) and the 36°–72°–72° golden triangle (IV.10)."
+        },
+        {
+          "repo": "aristotle",
+          "locus": "Categories 15a29–33",
+          "relation": "Recovers Aristotle's law that gnomonic accretion increases magnitude without altering form (αὐξάνεται μὲν, ἀλλοιοῦται δ' οὔ)."
+        },
+        {
+          "repo": "divine",
+          "locus": "Golden Ratio φ = (1 + √5)/2 & Gnomonic Chains",
+          "relation": "Thompson's Figs. 252 and 254 provide the classical morphological realization of recursive φ gnomons."
+        }
+      ],
+      "invariants": ["r = a e^(θ cot α)", "φ² = φ + 1", "φ = (1 + √5)/2"],
+      "summary": "Reveals why Nautilus, ammonites, gastropods, foraminifera, claws, and horns all obey the equiangular spiral: accretion of dead shell or horn at a growing margin without changing shape is mathematically equivalent to gnomonic self-similarity."
+    },
+    {
+      "id": "phyllotaxis-fibonacci-tait",
+      "unit": "unit-4-phyllotaxis",
+      "chapter": "Ch. XIV (On Leaf-Arrangement, or Phyllotaxis)",
+      "pages_1917": "pp. 635–651",
+      "topic": "Schimper–Braun Fractions, Cylindrical Parastichy Lattices, and Golden Divergence",
+      "hambidge_parallels": [
+        "The Diagonal (1919–1920), Vol. I, No. 1, pp. 1–7, 21 — A. H. Church's sunflower cross-curves (34/55, 55/89) as the biological fountainhead of Dynamic Symmetry"
+      ],
+      "sister_refs": [
+        {
+          "repo": "phyllotaxis",
+          "locus": "Golden Angle 2π/φ², Cylindrical & Vogel Planar Parastichies",
+          "relation": "Provides the verbatim 1917 historical foundation for geometor/phyllotaxis: continued-fraction convergents [0; 2, 1, 1, 1, ...] → φ⁻² and Tait's (m, n) → m + n lattice geometry."
+        },
+        {
+          "repo": "divine",
+          "locus": "Continued Fraction of φ & Fibonacci Convergents",
+          "relation": "Explains why successive Fibonacci ratios F_k / F_{k+2} emerge automatically from mechanical close-packing without mystical teleology."
+        }
+      ],
+      "invariants": ["Δθ / 2π = 1 / φ² = (3 - √5)/2 ≈ 0.381966", "F_{n+1} = F_n + F_{n-1}"],
+      "summary": "Demystifies botanical Fibonacci numbers through Bravais's cylindrical lattice, P. G. Tait's overlapping parastichy theorem, A. H. Church's equipotential spirals, and Hofmeister's mechanical apex rule."
+    },
+    {
+      "id": "eggs-femur-mechanical-efficiency",
+      "unit": "unit-5-efficiency",
+      "chapter": "Chs. XV–XVI (Shapes of Eggs & Form and Mechanical Efficiency)",
+      "pages_1917": "pp. 652–718",
+      "topic": "Peristaltic Egg Mechanics, Culmann's Crane, Meyer's Femur Trabeculae, and Fidler's Cantilever Backbones",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "pappus",
+          "locus": "Projective & Reciprocal Graphical Constructions",
+          "relation": "Culmann's graphic statics and Maxwell–Cremona–Fidler reciprocal truss diagrams apply projective polarity directly to skeletal stress lines."
+        }
+      ],
+      "invariants": ["T_n / R_n + T_t / R_t = P (avian egg membrane)", "σ₁ ⊥ σ₂ (orthogonal principal stresses)"],
+      "summary": "Shows first how oviduct peristalsis shapes conical and elliptical bird eggs, and second how cancellous bone trabeculae and quadruped/dinosaur spines embody exact graphic-statics stress diagrams."
+    },
+    {
+      "id": "coordinate-transformations",
+      "unit": "unit-6-transformations",
+      "chapter": "Ch. XVII (On the Theory of Transformations) & Epilogue",
+      "pages_1917": "pp. 719–779",
+      "topic": "Dürer's Grids, Cartesian Deformation Meshes, and Comparative Phylogeny",
+      "hambidge_parallels": [
+        "The Diagonal (1919–1920) — Dürer's human proportion grids contrasted with classical Greek areal modulation"
+      ],
+      "sister_refs": [
+        {
+          "repo": "pappus",
+          "locus": "Synagoge Book VII (Projective Cross-Ratio & Collineations)",
+          "relation": "Thompson's affine shear, perspective/radial, and coaxial circle transformations preserve harmonic and projective invariants across related organic genera."
+        },
+        {
+          "repo": "hilbert",
+          "locus": "Grundlagen der Geometrie, Affine & Projective Transformation Groups",
+          "relation": "Realizes Felix Klein's and Hilbert's Erlangen transformation-group viewpoint in comparative anatomy (Argyropelecus → Sternoptyx, Diodon → Orthagoriscus, Eohippus → Equus)."
+        }
+      ],
+      "invariants": ["(x, y) ↦ (x + y cot ω, y sin ω)", "Conformal & coaxial circle families"],
+      "summary": "Culminates On Growth and Form: related species differ not by piecemeal mosaic mutations of isolated parts, but by single global coordinate transformations of the organism as an integral whole."
+    },
+    {
+      "id": "hambidge-root-rectangles-whirling-squares",
+      "unit": "unit-7-dynamic-symmetry",
+      "chapter": "Companion Concordance: Jay Hambidge (1919–1920)",
+      "pages_1917": "Diagonal Vol. I pp. 1–25 & Greek Vase Chs. I–III (cf. Thompson pp. 509–513, 635–651)",
+      "topic": "Root Rectangles (√1–√5), Commensurability in Square, Reciprocal Orthogonality, and Whirling Squares",
+      "hambidge_parallels": [
+        "The Diagonal, Vol. I, No. 1 (Nov. 1919), pp. 1–7 ('Dynamic Symmetry of the Plant'), pp. 18–21 ('The Elements of Dynamic Symmetry: Root Rectangles & Instruments')",
+        "Dynamic Symmetry: The Greek Vase (1920), Chs. I–III ('Static and Dynamic Symmetry', 'Phyllotaxis and Shells', 'Root-Five and Whirling-Square Rectangles')"
+      ],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book I, Prop. 47; Book II, Prop. 11; Book X, Def. 2 (δυνάμει σύμμετροι)",
+          "relation": "Hambidge explicitly grounds Dynamic Symmetry in Euclid X Def. 2: sides 1, √2, √3, 2, √5 are linearly incommensurable yet commensurable in square."
+        },
+        {
+          "repo": "wildberger",
+          "locus": "Consecutive Integer Quadrances Q = 1, 2, 3, 4, 5 & Perpendicular Spread s = 1",
+          "relation": "Unfolding root rectangles via compass diagonals increments side quadrance by 1 at each step (Q_{n+1} = Q_n + 1), while reciprocal diagonals intersect at spread s = 1 (90°)."
+        },
+        {
+          "repo": "divine",
+          "locus": "√5 Rectangle Decomposition: √5 = φ + 1/φ = 2φ - 1",
+          "relation": "Demonstrates Hambidge's core harmonic identity bridging the √5 rectangle to two overlapping whirling-square φ rectangles."
+        }
+      ],
+      "invariants": ["Q_n = n (n = 1, 2, 3, 4, 5)", "√5 = φ + φ⁻¹", "1 / φ = φ - 1 = 0.618034..."],
+      "summary": "Synthesizes Thompson's gnomonic shell geometry and Church's sunflower phyllotaxis with Jay Hambidge's 1919–1920 Yale geometric canon of root rectangles and whirling squares."
+    }
+  ]
+}
