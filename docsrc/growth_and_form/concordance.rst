@@ -1,4 +1,6 @@
 :layout: book
+:navigation: footer
+:nav_title: Concordance
 
 .. _concordance:
 
