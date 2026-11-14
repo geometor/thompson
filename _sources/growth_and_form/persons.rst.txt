@@ -1,11 +1,30 @@
 :layout: book
+:navigation: header
+:order: 5
+:nav_title: People
 
 .. _persons:
 
-Index of Persons
-================
+People
+======
 
 .. rubric:: Prosopographical Registry of Morphologists, Geometers, Physicists & Philosophers
+
+Authors & Morphological Pioneers
+--------------------------------
+
+.. _person-thompson:
+
+**Sir D'Arcy Wentworth Thompson** (1860 – 1948) — *Scottish Biologist, Mathematician & Classical Scholar*
+   Professor of Natural History at Dundee and St Andrews, translator of Aristotle's Historia Animalium (1910), author of A Glossary of Greek Birds (1895) and A Glossary of Greek Fishes (1947), and author of On Growth and Form (Cambridge, 1917)—the masterwork uniting classical Greek geometry, physical mechanics, and biological morphogenesis.
+
+.. _person-hambidge:
+
+**Jay Hambidge** (1867 – 1924) — *Canadian-American Artist, Scholar of Greek Design & Theorist of Dynamic Symmetry*
+   Published The Diagonal (1919–1920) and Dynamic Symmetry: The Greek Vase (1920) through Yale University Press, uniting A. H. Church's botanical phyllotaxis and D'Arcy Thompson's gnomonic shell geometry with Euclid Book X ('commensurable in square') to reconstruct Greek root-rectangle (√2, √3, √5) and whirling-square (φ) proportion.
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 .. _person-aquinas:
 
@@ -92,10 +111,6 @@ Index of Persons
 **Stephen Hales** (1677 – 1761) — *English Physiologist, Clergyman & Pioneer of Quantitative Biology*
    Author of Vegetable Staticks (1727) and Haemastaticks (1733), honoured in the Prefatory Note epigraph of On Growth and Form for advocating the Creator's geometric governance by number, weight, and measure, and for punching equidistant ink-grids onto growing fig leaves (Chapter XVII).
 
-.. _person-hambidge:
-
-**Jay Hambidge** (1867 – 1924) — *Canadian-American Artist, Scholar of Greek Design & Theorist of Dynamic Symmetry*
-   Published The Diagonal (1919–1920) and Dynamic Symmetry: The Greek Vase (1920) through Yale University Press, uniting A. H. Church's botanical phyllotaxis and D'Arcy Thompson's gnomonic shell geometry with Euclid Book X ('commensurable in square') to reconstruct Greek root-rectangle (√2, √3, √5) and whirling-square (φ) proportion.
 
 .. _person-hero:
 
@@ -187,10 +202,6 @@ Index of Persons
 **Peter Guthrie Tait** (1831 – 1901) — *Scottish Mathematical Physicist (University of Edinburgh)*
    Teacher and lifelong mentor look-up for D'Arcy Thompson in Edinburgh; derived the algebraic relation whereby intersecting cylindrical parastichy numbers (m, n) yield the next higher order (m + n) in Proceedings of the Royal Society of Edinburgh (1872), reproduced directly in Chapter XIV (Fig. 325).
 
-.. _person-thompson:
-
-**Sir D'Arcy Wentworth Thompson** (1860 – 1948) — *Scottish Biologist, Mathematician & Classical Scholar*
-   Professor of Natural History at Dundee and St Andrews, translator of Aristotle's Historia Animalium (1910), author of A Glossary of Greek Birds (1895) and A Glossary of Greek Fishes (1947), and author of On Growth and Form (Cambridge, 1917)—the masterwork uniting classical Greek geometry, physical mechanics, and biological morphogenesis.
 
 .. _person-turing:
 

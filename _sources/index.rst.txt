@@ -9,8 +9,8 @@ Digital critical edition, synchronized 3-track Book Codex, calibrated ``.euclid-
 
 ----
 
-Works (*Opera*)
----------------
+Book Codex
+----------
 
 :doc:`On Growth and Form (1917) & Dynamic Symmetry Companion (1919–1920) <growth_and_form/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,14 +19,15 @@ Works (*Opera*)
 
 Thompson's landmark synthesis of classical geometry, physical mechanics, and comparative biology—spanning Galileo's Square-Cube Law, Plateau's $120^\circ$ and $109^\circ 28' 16''$ soap-film equilibria, the bee's rhombic dodecahedral cell, Kelvin's minimal-foam tetrakaidecahedron, Haeckel's Radiolaria, Bernoulli's equiangular spiral ($r = a e^{\theta \cot\alpha}$), Hero's gnomons, Fibonacci phyllotaxis, Culmann's crane and Meyer's femur trabeculae, and Cartesian coordinate transformation grids—paired with Jay Hambidge's Euclidean root-rectangle ($\sqrt{1}\dots\sqrt{5}$) and whirling-square ($\phi$) proportion.
 
-* **Synchronized 3-Track Book Codex**: :ref:`Conspectus Operis <growth-and-form-index>` · :ref:`Unit I: Magnitude & Growth <growth-and-form-unit-1-magnitude-en>` · :ref:`Unit II: Cells, Foams & Honeycomb <growth-and-form-unit-2-cells-tissues-en>` · :ref:`Unit III: Equiangular Spiral & Gnomons <growth-and-form-unit-3-equiangular-spiral-en>` · :ref:`Unit IV: Phyllotaxis <growth-and-form-unit-4-phyllotaxis-en>` · :ref:`Unit V: Eggs, Bone & Efficiency <growth-and-form-unit-5-efficiency-en>` · :ref:`Unit VI: Coordinate Transformations & Epilogue <growth-and-form-unit-6-transformations-en>` · :ref:`Unit VII: Hambidge's Dynamic Symmetry <growth-and-form-unit-7-dynamic-symmetry-en>`.
-* **Scholarly & Cross-Repository Apparatus**: :ref:`Thompson–Hambidge–GEOMETOR Concordance <concordance>` · :ref:`Systematic Bibliography <bibliography>` · :ref:`Index of Persons <persons>` · :ref:`Morphological & Geometric Glossary <glossary>` with interactive ``:cite:``, ``:person:``, and ``:term:`` hover cards.
+* **Synchronized 3-Track Book Codex**: :ref:`Table of Contents <growth-and-form-index>` · :ref:`Unit I: Magnitude & Growth <growth-and-form-unit-1-magnitude-en>` · :ref:`Unit II: Cells, Foams & Honeycomb <growth-and-form-unit-2-cells-tissues-en>` · :ref:`Unit III: Equiangular Spiral & Gnomons <growth-and-form-unit-3-equiangular-spiral-en>` · :ref:`Unit IV: Phyllotaxis <growth-and-form-unit-4-phyllotaxis-en>` · :ref:`Unit V: Eggs, Bone & Efficiency <growth-and-form-unit-5-efficiency-en>` · :ref:`Unit VI: Coordinate Transformations & Epilogue <growth-and-form-unit-6-transformations-en>` · :ref:`Unit VII: Hambidge's Dynamic Symmetry <growth-and-form-unit-7-dynamic-symmetry-en>`.
+* **Scholarly & Cross-Repository Apparatus**: :ref:`Thompson–Hambidge–GEOMETOR Concordance <concordance>` · :ref:`Bibliography <bibliography>` · :ref:`People <persons>` · :ref:`Morphological & Geometric Glossary <glossary>` with interactive ``:cite:``, ``:person:``, and ``:term:`` hover cards.
 
 ----
 
 Context & Architecture
 ----------------------
 
+* :doc:`Using This Edition (Reader's Guide) <usage/index>`
 * :doc:`Mission & Morphological Vision <mission/index>`
 * :doc:`About This Critical Edition & Copyright Boundary <about/index>`
 * :doc:`Python Package & Concordance API <modules/index>`
@@ -37,3 +38,4 @@ Context & Architecture
    :hidden:
 
    growth_and_form/index
+   usage/index
