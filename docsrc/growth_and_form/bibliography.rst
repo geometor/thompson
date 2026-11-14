@@ -1,9 +1,12 @@
 :layout: book
+:navigation: header
+:order: 6
+:nav_title: Bibliography
 
 .. _bibliography:
 
-Systematic Bibliography
-=======================
+Bibliography
+============
 
 .. rubric:: Primary 1917 / 1920 Editions, Classical Treatises & Morphological Monographs
 

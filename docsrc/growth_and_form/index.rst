@@ -1,15 +1,25 @@
 :layout: book
+:navigation: header
+:order: 1
+:nav_title: On Growth and Form
+:book_title: On Growth and Form
+:book_subtitle: Sir D'Arcy Wentworth Thompson (Cambridge, 1917)
+:author: Sir D'Arcy Wentworth Thompson
+:year: 1917
 
 .. _growth-and-form-index:
 
-ON GROWTH AND FORM
+On Growth and Form
 ==================
 
 .. rubric:: *D'Arcy Wentworth Thompson* (Cambridge University Press, First Edition, 1917) & *Jay Hambidge's Dynamic Symmetry* (Yale University Press, 1919–1920)
 
-| **Editio Princeps (1917):** *On Growth and Form*, by D'Arcy Wentworth Thompson, Cambridge: at the University Press, 1917 (xv + 793 pp., 17 chapters, 408 figures).
-| **Dynamic Symmetry Companion (1919–1920):** *The Diagonal* (Vol. I, Nos. 1–12) & *Dynamic Symmetry: The Greek Vase*, by Jay Hambidge, New Haven: Yale University Press, 1919–1920.
-| **Digital Scriptorium Codex:** Synchronized 3-track edition (*English · Summary · Notes*) with 11 theme-adaptive ``.euclid-graphic`` SVG plates curated within the GEOMETOR canon.
+.. container:: title-page
+
+   | **Author:** :person:`Sir D'Arcy Wentworth Thompson <thompson>`
+   | **First Edition (Cambridge, 1917):** *On Growth and Form*, by D'Arcy Wentworth Thompson, Cambridge: at the University Press, 1917 (xv + 793 pp., 17 chapters, 408 figures).
+   | **Dynamic Symmetry Companion (1919–1920):** *The Diagonal* (Vol. I, Nos. 1–12) & *Dynamic Symmetry: The Greek Vase*, by Jay Hambidge, New Haven: Yale University Press, 1919–1920.
+   | **Digital Scriptorium Codex:** Synchronized 3-track edition (*English · Summary · Notes*) with 11 theme-adaptive ``.euclid-graphic`` SVG plates curated within the GEOMETOR canon.
 
 .. epigraph::
 
@@ -19,8 +29,8 @@ ON GROWTH AND FORM
 
 ----
 
-Conspectus Totius Operis (1917 First Edition & 1920 Companion)
---------------------------------------------------------------
+Table of Contents
+-----------------
 
 **Unit I: Mathematical Morphology, Magnitude, and Rate of Growth** (*1917 Cambridge First Edition — Prefatory Note, Epigraphs & Chapters I–IV (pp. v–vi, 1–200)*)
    :ref:`1917/1920 Text <growth-and-form-unit-1-magnitude-en>` · :ref:`Summary <growth-and-form-unit-1-magnitude-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-1-magnitude-notes>`
@@ -45,12 +55,12 @@ Conspectus Totius Operis (1917 First Edition & 1920 Companion)
 
 ----
 
-Apparatus Criticus & Cross-Repository Indices
----------------------------------------------
+Scholarly Apparatus
+-------------------
 
 * :ref:`Thompson–Hambidge–GEOMETOR Master Concordance <concordance>` — Cross-mapping across ``euclid``, ``elements``, ``aristotle``, ``aquinas``, ``pacioli``, ``pappus``, ``divine``, ``etc``, ``wildberger``, ``phyllotaxis``, and ``hilbert``.
 * :ref:`Systematic Bibliography <bibliography>` — Primary 1917/1920 editions, classical geometers, and morphological monographs.
-* :ref:`Prosopographical Index of Persons <persons>` — Naturalists, mathematicians, engineers, and philosophers.
+* :ref:`People <persons>` — Naturalists, mathematicians, engineers, and philosophers.
 * :ref:`Morphological & Geometric Glossary <glossary>` — Technical vocabulary of capillarity, gnomons, phyllotaxis, graphic statics, transformations, and Dynamic Symmetry.
 
 .. toctree::
@@ -95,7 +105,7 @@ Apparatus Criticus & Cross-Repository Indices
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Critical Apparatus
+   :caption: Scholarly Apparatus
 
    concordance
    bibliography

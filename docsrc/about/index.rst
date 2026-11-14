@@ -1,8 +1,7 @@
-:navigation: header
-:order: 40
+:navigation: footer
+:nav_title: About
 
-=====
-about
+About
 =====
 
 Archival Provenance & Public-Domain Boundary
