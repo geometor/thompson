@@ -27,9 +27,8 @@ Thompson's landmark synthesis of classical geometry, physical mechanics, and com
 Context & Architecture
 ----------------------
 
-* :doc:`Using This Edition (Reader's Guide) <usage/index>`
-* :doc:`Mission & Morphological Vision <mission/index>`
 * :doc:`About This Critical Edition & Copyright Boundary <about/index>`
+* :doc:`Using This Edition (Reader's Guide) <usage/index>`
 * :doc:`Python Package & Concordance API <modules/index>`
 * :doc:`Development & Curation Log <log/index>`
 
@@ -38,4 +37,5 @@ Context & Architecture
    :hidden:
 
    growth_and_form/index
+   about/index
    usage/index

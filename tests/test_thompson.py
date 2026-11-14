@@ -36,7 +36,7 @@ EXPECTED_SVGS = (
 
 def test_version_and_exports() -> None:
     """Verify package version and top-level exports."""
-    assert thompson.__version__ == "0.1.1"
+    assert thompson.__version__ == "0.1.3"
     assert callable(thompson.compile_codex)
     assert callable(thompson.load_apparatus)
     assert callable(thompson.verify_sources_manifest)
