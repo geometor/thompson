@@ -2,6 +2,11 @@
 changelog
 =========
 
+0.1.1 (2026-11-13)
+------------------
+
+- Curated and mapped primary-source folio links for D'Arcy Wentworth Thompson's *On Growth and Form* 1917 edition (41/41 directives resolved).
+
 0.1.0 (2026-11-12)
 ------------------
 
