@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 =============================
 Sir D'Arcy Wentworth Thompson
 =============================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Sir D'Arcy Wentworth Thompson <thompson>` (1860–1948), the Scottish pioneer of mathematical biology whose *On Growth and Form* illuminated the physical forces and geometric laws governing organic configuration.
+The works of :person:`Sir D'Arcy Wentworth Thompson <thompson>` (1860–1948), Scottish pioneer of mathematical biology, illuminated the physical forces, logarithmic spirals, and geometric transformations governing organic configuration. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, this monumental treatise is liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. collection::
    :type: book
