@@ -1,25 +1,27 @@
 :layout: book
 :navigation: header
 :order: 1
+:type: book
 :nav_title: On Growth and Form
+:breadcrumb_title: On Growth and Form
 :book_title: On Growth and Form
 :book_subtitle: Sir D'Arcy Wentworth Thompson (Cambridge, 1917)
 :author: Sir D'Arcy Wentworth Thompson
 :year: 1917
+:excerpt: Sir D'Arcy Wentworth Thompson's classic mathematical and physical analysis of biological morphology, scaling laws, surface tension, cellular foams, equiangular spirals, phyllotaxis, bone architecture, and coordinate transformations.
 
 .. _growth-and-form-index:
 
 On Growth and Form
 ==================
 
-.. rubric:: *D'Arcy Wentworth Thompson* (Cambridge University Press, First Edition, 1917) & *Jay Hambidge's Dynamic Symmetry* (Yale University Press, 1919–1920)
+.. rubric:: *Sir D'Arcy Wentworth Thompson* — Cambridge University Press (First Edition, 1917)
 
 .. container:: title-page
 
    | **Author:** :person:`Sir D'Arcy Wentworth Thompson <thompson>`
    | **First Edition (Cambridge, 1917):** *On Growth and Form*, by D'Arcy Wentworth Thompson, Cambridge: at the University Press, 1917 (xv + 793 pp., 17 chapters, 408 figures).
-   | **Dynamic Symmetry Companion (1919–1920):** *The Diagonal* (Vol. I, Nos. 1–12) & *Dynamic Symmetry: The Greek Vase*, by Jay Hambidge, New Haven: Yale University Press, 1919–1920.
-   | **Digital Scriptorium Codex:** Synchronized 3-track edition (*English · Summary · Notes*) with 11 theme-adaptive ``.euclid-graphic`` SVG plates curated within the GEOMETOR canon.
+   | **Digital Scriptorium Codex:** Synchronized 3-track edition (*English · Summary · Notes*) with 10 theme-adaptive ``.euclid-graphic`` SVG plates curated within the GEOMETOR canon.
 
 .. epigraph::
 
@@ -32,75 +34,93 @@ On Growth and Form
 Table of Contents
 -----------------
 
-**Unit I: Mathematical Morphology, Magnitude, and Rate of Growth** (*1917 Cambridge First Edition — Prefatory Note, Epigraphs & Chapters I–IV (pp. v–vi, 1–200)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-1-magnitude-en>` · :ref:`Summary <growth-and-form-unit-1-magnitude-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-1-magnitude-notes>`
+.. collection::
+   :sort: order
 
-**Unit II: Capillarity, Cellular Foams, the Bee's Cell, and Spicular Skeletons** (*1917 Cambridge First Edition — Chapters V–X (pp. 201–492)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-2-cells-tissues-en>` · :ref:`Summary <growth-and-form-unit-2-cells-tissues-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-2-cells-tissues-notes>`
-
-**Unit III: The Logarithmic Spiral, Hero's Gnomon, Foraminifera, and Horns** (*1917 Cambridge First Edition — Chapters XI–XIII (pp. 493–634)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-3-equiangular-spiral-en>` · :ref:`Summary <growth-and-form-unit-3-equiangular-spiral-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-3-equiangular-spiral-notes>`
-
-**Unit IV: On Leaf-Arrangement, or Phyllotaxis** (*1917 Cambridge First Edition — Chapter XIV (pp. 635–651, Complete Verbatim Text)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-4-phyllotaxis-en>` · :ref:`Summary <growth-and-form-unit-4-phyllotaxis-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-4-phyllotaxis-notes>`
-
-**Unit V: Hollow Structures, Culmann's Crane, and Mechanical Efficiency** (*1917 Cambridge First Edition — Chapters XV–XVI (pp. 652–718, Complete Verbatim Text)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-5-efficiency-en>` · :ref:`Summary <growth-and-form-unit-5-efficiency-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-5-efficiency-notes>`
-
-**Unit VI: On the Theory of Transformations and Epilogue** (*1917 Cambridge First Edition — Chapter XVII & Epilogue (pp. 719–779, Complete Verbatim Text)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-6-transformations-en>` · :ref:`Summary <growth-and-form-unit-6-transformations-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-6-transformations-notes>`
-
-**Unit VII: Dynamic Symmetry & Gnomonic Morphology — Jay Hambidge (1919–1920)** (*Yale University Press Public-Domain Companion — *The Diagonal* (Vol. I, 1919–1920) & *Dynamic Symmetry: The Greek Vase* (1920)*)
-   :ref:`1917/1920 Text <growth-and-form-unit-7-dynamic-symmetry-en>` · :ref:`Summary <growth-and-form-unit-7-dynamic-symmetry-summary>` · :ref:`Notes & Concordance <growth-and-form-unit-7-dynamic-symmetry-notes>`
+   ch_01/index
+   ch_02/index
+   ch_03/index
+   ch_04/index
+   ch_05/index
+   ch_06/index
+   ch_07/index
+   ch_08/index
+   ch_09/index
+   ch_10/index
+   ch_11/index
+   ch_12/index
+   ch_13/index
+   ch_14/index
+   ch_15/index
+   ch_16/index
+   ch_17/index
 
 ----
 
 Scholarly Apparatus
 -------------------
 
-* :ref:`Thompson–Hambidge–GEOMETOR Master Concordance <concordance>` — Cross-mapping across ``euclid``, ``elements``, ``aristotle``, ``aquinas``, ``pacioli``, ``pappus``, ``divine``, ``etc``, ``wildberger``, ``phyllotaxis``, and ``hilbert``.
-* :ref:`Systematic Bibliography <bibliography>` — Primary 1917/1920 editions, classical geometers, and morphological monographs.
+* :ref:`Thompson & GEOMETOR Master Concordance <concordance>` — Cross-mapping across ``euclid``, ``elements``, ``aristotle``, ``aquinas``, ``pacioli``, ``pappus``, ``divine``, ``etc``, ``wildberger``, ``phyllotaxis``, ``hilbert``, and ``hambidge``.
+* :ref:`Systematic Bibliography <bibliography>` — Primary 1917 Cambridge First Edition, classical geometers, and morphological monographs.
 * :ref:`People <persons>` — Naturalists, mathematicians, engineers, and philosophers.
-* :ref:`Morphological & Geometric Glossary <glossary>` — Technical vocabulary of capillarity, gnomons, phyllotaxis, graphic statics, transformations, and Dynamic Symmetry.
+* :ref:`Morphological & Geometric Glossary <glossary>` — Technical vocabulary of capillarity, gnomons, phyllotaxis, graphic statics, and transformations.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
-   :caption: On Growth and Form (1917) & Dynamic Symmetry (1920)
+   :caption: On Growth and Form (1917)
 
-   unit-1-magnitude/unit-1-magnitude-en
-   unit-2-cells-tissues/unit-2-cells-tissues-en
-   unit-3-equiangular-spiral/unit-3-equiangular-spiral-en
-   unit-4-phyllotaxis/unit-4-phyllotaxis-en
-   unit-5-efficiency/unit-5-efficiency-en
-   unit-6-transformations/unit-6-transformations-en
-   unit-7-dynamic-symmetry/unit-7-dynamic-symmetry-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Analytical Summaries
-
-   unit-1-magnitude/unit-1-magnitude-summary
-   unit-2-cells-tissues/unit-2-cells-tissues-summary
-   unit-3-equiangular-spiral/unit-3-equiangular-spiral-summary
-   unit-4-phyllotaxis/unit-4-phyllotaxis-summary
-   unit-5-efficiency/unit-5-efficiency-summary
-   unit-6-transformations/unit-6-transformations-summary
-   unit-7-dynamic-symmetry/unit-7-dynamic-symmetry-summary
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Scholarly Notes & Concordance
-
-   unit-1-magnitude/unit-1-magnitude-notes
-   unit-2-cells-tissues/unit-2-cells-tissues-notes
-   unit-3-equiangular-spiral/unit-3-equiangular-spiral-notes
-   unit-4-phyllotaxis/unit-4-phyllotaxis-notes
-   unit-5-efficiency/unit-5-efficiency-notes
-   unit-6-transformations/unit-6-transformations-notes
-   unit-7-dynamic-symmetry/unit-7-dynamic-symmetry-notes
+   ch_01/index
+   ch_01/summary
+   ch_01/notes
+   ch_02/index
+   ch_02/summary
+   ch_02/notes
+   ch_03/index
+   ch_03/summary
+   ch_03/notes
+   ch_04/index
+   ch_04/summary
+   ch_04/notes
+   ch_05/index
+   ch_05/summary
+   ch_05/notes
+   ch_06/index
+   ch_06/summary
+   ch_06/notes
+   ch_07/index
+   ch_07/summary
+   ch_07/notes
+   ch_08/index
+   ch_08/summary
+   ch_08/notes
+   ch_09/index
+   ch_09/summary
+   ch_09/notes
+   ch_10/index
+   ch_10/summary
+   ch_10/notes
+   ch_11/index
+   ch_11/summary
+   ch_11/notes
+   ch_12/index
+   ch_12/summary
+   ch_12/notes
+   ch_13/index
+   ch_13/summary
+   ch_13/notes
+   ch_14/index
+   ch_14/summary
+   ch_14/notes
+   ch_15/index
+   ch_15/summary
+   ch_15/notes
+   ch_16/index
+   ch_16/summary
+   ch_16/notes
+   ch_17/index
+   ch_17/summary
+   ch_17/notes
 
 .. toctree::
    :maxdepth: 1

@@ -22,6 +22,6 @@ Module Contents
 
 .. py:function:: compile_codex(repo_root: pathlib.Path | None = None) -> list[pathlib.Path]
 
-   Compile all 26 `:layout: book` RST files under `docsrc/growth_and_form/`.
+   Compile all 56 `:layout: book` RST files under `docsrc/growth_and_form/`.
 
 

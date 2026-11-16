@@ -5,7 +5,7 @@ geometor.thompson.units_data
 
 .. autoapi-nested-parse::
 
-   Structured unit definitions, Hambidge 1919–1920 primary texts, and scholarly apparatus tracks.
+   Structured chapter specifications and scholarly apparatus for On Growth and Form (1917).
 
 
 
@@ -30,10 +30,22 @@ Module Contents
 
 .. py:class:: UnitSpec
 
-   Complete specification for one 3-track synchronized unit in `docsrc/growth_and_form/`.
+   Complete specification for one 3-track synchronized chapter in `docsrc/growth_and_form/`.
 
 
    .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: canonical_id
+      :type:  str
+
+
+   .. py:attribute:: order
+      :type:  int
+
+
+   .. py:attribute:: folio
       :type:  str
 
 
@@ -59,6 +71,12 @@ Module Contents
 
    .. py:attribute:: notes_body
       :type:  str
+
+
+   .. py:attribute:: legacy_anchor
+      :type:  str
+      :value: ''
+
 
 
    .. py:attribute:: custom_en_body

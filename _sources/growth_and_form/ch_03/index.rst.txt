@@ -1,0 +1,1549 @@
+:layout: book
+:canonical_id: Ch. III
+:breadcrumb_title: Ch. III
+:order: 3
+:folio: pp. 50–155
+:tracks: English: index | Summary: summary | Notes: notes
+
+.. _growth-and-form-ch_03:
+.. _growth-and-form-ch_03-en:
+.. _growth-and-form-ch-3:
+
+Chapter III: The Rate of Growth
+===============================
+
+.. rubric:: 1917 Cambridge First Edition — Chapter III (pp. 50–155)
+
+.. _thompson-1917-ch-3:
+
+When we study magnitude by itself, apart, that is to say, from the gradual changes to which it may be subject, we are dealing with a something which may be adequately represented by a number, or by means of a line of definite length; it is what mathematicians call a *scalar* phenomenon. When we introduce the conception of change of magnitude, of magnitude which varies as we pass from one direction to another in space, or from one instant to another in time, our phenomenon becomes capable of representation by means of a line of which we define both the length and the direction; it is (in this particular aspect) what is called a *vector* phenomenon.
+
+When we deal with magnitude in relation to the dimensions of space, the vector diagram which we draw plots magnitude in one direction against magnitude in another,—length against height, for instance, or against breadth; and the result is simply what we call a picture or drawing of an object, or (more correctly) a “plane projection” of the object. In other words, what we call Form is a *ratio of magnitudes*, referred to direction in space.
+
+When in dealing with magnitude we refer its variations to successive intervals of time (or when, as it is said, we *equate* it with time), we are then dealing with the phenomenon of *growth*; and it is evident, therefore, that this term growth has wide meanings. For growth may obviously be positive or negative; that is to say, a thing may grow larger or smaller, greater or less; and by extension of the primitive concrete signification of the word, we easily and legitimately apply it to non-material things, such as temperature, and say, for instance, that a body “grows” hot or cold. When in a two-dimensional diagram, we represent a magnitude (for instance length) in relation to time (or “plot” [p. 51] length against time, as the phrase is), we get that kind of vector diagram which is commonly known as a “curve of growth.” We perceive, accordingly, that the phenomenon which we are now studying is a *velocity* (whose “dimensions” are Space/Time or *L*\ /\ *T*); and this phenomenon we shall speak of, simply, as a rate of growth.
+
+In various conventional ways we can convert a two-dimensional into a three-dimensional diagram. We do so, for example, by means of the geometrical method of “perspective” when we represent upon a sheet of paper the length, breadth and depth of an object in three-dimensional space; but we do it more simply, as a rule, by means of “contour-lines,” and always when time is one of the dimensions to be represented. If we superimpose upon one another (or even set side by side) pictures, or plane projections, of an organism, drawn at successive intervals of time, we have such a three-dimensional diagram, which is a partial representation (limited to two dimensions of *space*) of the organism’s gradual change of form, or course of development; and in such a case our contour-lines may, for the purposes of the embryologist, be separated by intervals representing a few hours or days, or, for the purposes of the palaeontologist, by interspaces of unnumbered and innumerable years [#fn79]_.
+
+Such a diagram represents in two of its three dimensions form, and in two, or three, of its dimensions growth; and so we see how intimately the two conceptions are correlated or inter-related to one another. In short, it is obvious that the form of an animal is determined by its specific rate of growth in various directions; accordingly, the phenomenon of rate of growth deserves to be studied as a necessary preliminary to the theoretical study of form, and, mathematically speaking, organic form itself appears to us as a *function of time* [#fn80]_. [p. 52]
+
+At the same time, we need only consider this part of our subject somewhat briefly. Though it has an essential bearing on the problems of morphology, it is in greater degree involved with physiological problems; and furthermore, the statistical or numerical aspect of the question is peculiarly adapted for the mathematical study of variation and correlation. On these important subjects we shall scarcely touch; for our main purpose will be sufficiently served if we consider the characteristics of a rate of growth in a few illustrative cases, and recognise that this rate of growth is a very important specific property, with its own characteristic value in this organism or that, in this or that part of each organism, and in this or that phase of its existence.
+
+The statement which we have just made that “the form of an organism is determined by its rate of growth in various directions,” is one which calls (as we have partly seen in the foregoing chapter) for further explanation and for some measure of qualification. Among organic forms we shall have frequent occasion to see that form is in many cases due to the immediate or direct action of certain molecular forces, of which surface-tension is that which plays the greatest part. Now when surface-tension (for instance) causes a minute semi-fluid organism to assume a spherical form, or gives the form of a catenary or an elastic curve to a film of protoplasm in contact with some solid skeletal rod, or when it acts in various other ways which are productive of definite contours, this is a process of conformation that, both in appearance and reality, is very different from the process by which an ordinary plant or animal *grows* into its specific form. In both cases, change of form is brought about by the movement of portions of matter, and in both cases it is *ultimately* due to the action of molecular forces; but in the one case the movements of the particles of matter lie for the most part *within molecular range*, while in the other we have to deal chiefly with the transference of portions of matter into the system from without, and from one widely distant part of the organism to another. It is to this latter class of phenomena that we usually restrict the term growth; and it is in regard to them that we are in a position to study the *rate of action* in different directions, and to see that it is merely on a difference of velocities that the modification of form essentially depends. [p. 53] The difference between the two classes of phenomena is somewhat akin to the difference between the forces which determine the form of a rain-drop and those which, by the flowing of the waters and the sculpturing of the solid earth, have brought about the complex configuration of a river; *molecular* forces are paramount in the conformation of the one, and *molar* forces are dominant in the other.
+
+At the same time it is perfectly true that *all* changes of form, inasmuch as they necessarily involve changes of actual and relative magnitude, may, in a sense, be properly looked upon as phenomena of growth; and it is also true, since the movement of matter must always involve an element of time [#fn81]_, that in all cases the rate of growth is a phenomenon to be considered. Even though the molecular forces which play their part in modifying the form of an organism exert an action which is, theoretically, all but instantaneous, that action is apt to be dragged out to an appreciable interval of time by reason of viscosity or some other form of resistance in the material. From the physical or physiological point of view the rate of action even in such cases may be well worth studying; for example, a study of the rate of cell-division in a segmenting egg may teach us something about the work done, and about the various energies concerned. But in such cases the action is, as a rule, so homogeneous, and the form finally attained is so definite and so little dependent on the time taken to effect it, that the specific rate of change, or rate of growth, does not enter into the *morphological* problem.
+
+To sum up, we may lay down the following general statements. The form of organisms is a phenomenon to be referred in part to the direct action of molecular forces, in part to a more complex and slower process, indirectly resulting from chemical, osmotic and other forces, by which material is introduced into the organism and transferred from one part of it to another. It is this latter complex phenomenon which we usually speak of as “growth.” [p. 54]
+
+Every growing organism, and every part of such a growing organism, has its own specific rate of growth, referred to a particular direction. It is the ratio between the rates of growth in various directions by which we must account for the external forms of all, save certain very minute, organisms. This ratio between rates of growth in various directions may sometimes be of a *simple* kind, as when it results in the mathematically definable outline of a shell, or in the smooth curve of the margin of a leaf. It may sometimes be a very *constant* one, in which case the organism, while growing in bulk, suffers little or no perceptible change in form; but such equilibrium seldom endures for more than a season, and when the *ratio* tends to alter, then we have the phenomenon of morphological “development,” or steady and persistent change of form.
+
+This elementary concept of Form, as determined by varying rates of Growth, was clearly apprehended by the mathematical mind of Haller,—who had learned his mathematics of the great John Bernoulli, as the latter in turn had learned his physiology from the writings of Borelli. Indeed it was this very point, the apparently unlimited extent to which, in the development of the chick, inequalities of growth could and did produce changes of form and changes of anatomical “structure,” that led Haller to surmise that the process was actually without limits, and that all development was but an unfolding, or “\ *evolutio*,” in which no part came into being which had not essentially existed before [#fn82]_. In short the celebrated doctrine of “preformation” implied on the one hand a clear recognition of what, throughout the later stages of development, growth can do, by hastening the increase in size of one part, hindering that of another, changing their relative magnitudes and positions, and altering their forms; while on the other hand it betrayed a failure (inevitable in those days) to recognise the essential difference between these movements of masses and the molecular processes which precede and accompany [p. 55] them, and which are characteristic of another order of magnitude.
+
+By other writers besides Haller the very general, though not strictly universal connection between form and rate of growth has been clearly recognised. Such a connection is implicit in those “proportional diagrams” by which Dürer and some of his brother artists were wont to illustrate the successive changes of form, or of relative dimensions, which attend the growth of the child, to boyhood and to manhood. The same connection was recognised, more explicitly, by some of the older embryologists, for instance by Pander [#fn83]_, and appears, as a survival of the doctrine of preformation, in his study of the development of the chick. And long afterwards, the embryological aspect of the case was emphasised by His, who pointed out, for instance, that the various foldings of the blastoderm, by which the neural and amniotic folds were brought into being, were essentially and obviously the resultant of unequal rates of growth,—of local accelerations or retardations of growth,—in what to begin with was an even and uniform layer of embryonic tissue. If we imagine a flat sheet of paper, parts of which are caused (as by moisture or evaporation) to expand or to contract, the plane surface is at once dimpled, or “buckled,” or folded, by the resultant forces of expansion or contraction: and the various distortions to which the plane surface of the “germinal disc” is subject, as His shewed once and for all, are precisely analogous. An experimental demonstration still more closely comparable to the actual case of the blastoderm, is obtained by making an “artificial blastoderm,” of little pills or pellets of dough, which are caused to grow, with varying velocities, by the addition of varying quantities of yeast. Here, as Roux is careful to point out [#fn84]_, we observe that it is not only the *growth* of the individual cells, but the *traction* exercised through their mutual interconnections, which brings about the foldings and other distortions of the entire structure. [p. 56]
+
+But this again was clearly present to Haller’s mind, and formed an essential part of his embryological doctrine. For he has no sooner treated of *incrementum*, or *celeritas incrementi*, than he proceeds to deal with the contributory and complementary phenomena of expansion, traction (\ *adtractio*) [#fn85]_, and pressure, and the more subtle influences which he denominates *vis derivationis et revulsionis* [#fn86]_: these latter being the secondary and correlated effects on growth in one part, brought about, through such changes as are produced (for instance) in the circulation, by the growth of another.
+
+Let us admit that, on the physiological side, Haller’s or His’s methods of explanation carry us back but a little way; yet even this little way is something gained. Nevertheless, I can well remember the harsh criticism, and even contempt, which His’s doctrine met with, not merely on the ground that it was inadequate, but because such an explanation was deemed wholly inappropriate, and was utterly disavowed [#fn87]_. Hertwig, for instance, asserted that, in embryology, when we found one embryonic stage preceding another, the existence of the former was, for the embryologist, an all-sufficient “causal explanation” of the latter. “We consider (he says), that we are studying and explaining a causal relation when we have demonstrated that the gastrula arises by invagination of a blastosphere, or the neural canal by the infolding of a cell plate so as to constitute a tube [#fn88]_.” For Hertwig, therefore, as [p. 57] Roux remarks, the task of investigating a physical mechanism in embryology,—“der Ziel das Wirken zu erforschen,”—has no existence at all. For Balfour also, as for Hertwig, the mechanical or physical aspect of organic development had little or no attraction. In one notable instance, Balfour himself adduced a physical, or quasi-physical, explanation of an organic process, when he referred the various modes of segmentation of an ovum, complete or partial, equal or unequal and so forth, to the varying amount or the varying distribution of food yolk in association with the germinal protoplasm of the egg [#fn89]_. But in the main, Balfour, like all the other embryologists of his day, was engrossed by the problems of phylogeny, and he expressly defined the aims of comparative embryology (as exemplified in his own textbook) as being “twofold: (1) to form a basis for Phylogeny. and (2) to form a basis for Organogeny or the origin and evolution of organs [#fn90]_.”
+
+It has been the great service of Roux and his fellow-workers of the school of “Entwickelungsmechanik,” and of many other students to whose work we shall refer, to try, as His tried [#fn91]_ to import into embryology, wherever possible, the simpler concepts of physics, to introduce along with them the method of experiment, and to refuse to be bound by the narrow limitations which such teaching as that of Hertwig would of necessity impose on the work and the thought and on the whole philosophy of the biologist.
+
+----
+
+Before we pass from this general discussion to study some of the particular phenomena of growth, let me give a single illustration, from Darwin, of a point of view which is in marked contrast to Haller’s simple but essentially mathematical conception of Form.
+
+There is a curious passage in the *Origin of Species* [#fn92]_, where Darwin is discussing the leading facts of embryology, and in particular Von Baer’s “law of embryonic resemblance.” Here Darwin says “We are so much accustomed to see a difference in [p. 58] structure between the embryo and the adult, that we are tempted to look at this difference as in some necessary manner contingent on growth. *But there is no reason why, for instance, the wing of a bat, or the fin of a porpoise, should not have been sketched out with all their parts in proper proportion, as soon as any part became visible.*” After pointing out with his habitual care various exceptions, Darwin proceeds to lay down two general principles, viz. “that slight variations generally appear at a not very early period of life,” and secondly, that “at whatever age a variation first appears in the parent, it tends to reappear at a corresponding age in the offspring.” He then argues that it is with nature as with the fancier, who does not care what his pigeons look like in the embryo, so long as the full-grown bird possesses the desired qualities; and that the process of selection takes place when the birds or other animals are nearly grown up,—at least on the part of the breeder, and presumably in nature as a general rule. The illustration of these principles is set forth as follows; “Let us take a group of birds, descended from some ancient form and modified through natural selection for different habits. Then, from the many successive variations having supervened in the several species at a not very early age, and having been inherited at a corresponding age, the young will still resemble each other much more closely than do the adults,—just as we have seen with the breeds of the pigeon .... Whatever influence long-continued use or disuse may have had in modifying the limbs or other parts of any species, this will chiefly or solely have affected it when nearly mature, when it was compelled to use its full powers to gain its own living; and the effects thus produced will have been transmitted to the offspring at a corresponding nearly mature age. Thus the young will not be modified, or will be modified only in a slight degree, through the effects of the increased use or disuse of parts.” This whole argument is remarkable, in more ways than we need try to deal with here; but it is especially remarkable that Darwin should begin by casting doubt upon the broad fact that a “difference in structure between the embryo and the adult” is “in some necessary manner contingent on growth”; and that he should see no reason why complicated structures of the adult “should not have been sketched out [p. 59] with all their parts in proper proportion, as soon as any part became visible.” It would seem to me that even the most elementary attention to form in its relation to growth would have removed most of Darwin’s difficulties in regard to the particular phenomena which he is here considering. For these phenomena are phenomena of form, and therefore of relative magnitude; and the magnitudes in question are attained by growth, proceeding with certain specific velocities, and lasting for certain long periods of time. And it is accordingly obvious that in any two related individuals (whether specifically identical or not) the differences between them must manifest themselves gradually, and be but little apparent in the young. It is for the same simple reason that animals which are of very different sizes when adult, differ less and less in size (as well as in form) as we trace them backwards through the foetal stages.
+
+----
+
+Though we study the visible effects of varying rates of growth throughout wellnigh all the problems of morphology, it is not very often that we can directly measure the velocities concerned. But owing to the obvious underlying importance which the phenomenon has to the morphologist we must make shift to study it where we can, even though our illustrative cases may seem to have little immediate bearing on the morphological problem [#fn93]_.
+
+In a very simple organism, of spherical symmetry, such as the single spherical cell of Protococcus or of Orbulina, growth is reduced to its simplest terms, and indeed it becomes so simple in its outward manifestations that it is no longer of special interest to the morphologist. The rate of growth is measured by the rate of change in length of a radius, i.e. *V* = (\ *R′* − *R*)/\ *T*, and from this we may calculate, as already indicated, the rate of growth in terms of surface and of volume. The growing body remains of constant form, owing to the symmetry of the system; because, that is to say, on the one hand the pressure exerted by the growing protoplasm is exerted equally in all directions, after the manner of a hydrostatic pressure, which indeed it actually is: while on the other hand, the “skin” or surface layer of the cell is sufficiently [p. 60] homogeneous to exert at every point an approximately uniform resistance. Under these conditions then, the rate of growth is uniform in all directions, and does not affect the form of the organism.
+
+But in a larger or a more complex organism the study of growth, and of the rate of growth, presents us with a variety of problems, and the whole phenomenon becomes a factor of great morphological importance. We no longer find that it tends to be uniform in all directions, nor have we any right to expect that it should. The resistances which it meets with will no longer be uniform. In one direction but not in others it will be opposed by the important resistance of gravity; and within the growing system itself all manner of structural differences will come into play, setting up unequal resistances to growth by the varying rigidity or viscosity of the material substance in one direction or another. At the same time, the actual sources of growth, the chemical and osmotic forces which lead to the intussusception of new matter, are not uniformly distributed; one tissue or one organ may well manifest a tendency to increase while another does not; a series of bones, their intervening cartilages, and their surrounding muscles, may all be capable of very different rates of increment. The differences of form which are the resultants of these differences in rate of growth are especially manifested during that part of life when growth itself is rapid: when the organism, as we say, is undergoing its *development*. When growth in general has become slow, the relative differences in rate between different parts of the organism may still exist, and may be made manifest by careful observation, but in many, or perhaps in most cases, the resultant change of form does not strike the eye. Great as are the differences between the rates of growth in different parts of an organism, the marvel is that the ratios between them are so nicely balanced as they actually are, and so capable, accordingly, of keeping for long periods of time the form of the growing organism all but unchanged. There is the nicest possible balance of forces and resistances in every part of the complex body; and when this normal equilibrium is disturbed, then we get abnormal growth, in the shape of tumours, exostoses, and malformations of every kind. [p. 61]
+
+*The rate of growth in Man.*
+
+Man will serve us as well as another organism for our first illustrations of rate of growth; and we cannot do better than go for our first data concerning him to Quetelet’s *Anthropométrie* [#fn94]_, an epoch-making book for the biologist. For not only is it packed with information, some of it still unsurpassed, in regard to human growth and form, but it also merits our highest admiration as the first great essay in scientific statistics, and the first work in which organic variation was discussed from the point of view of the mathematical theory of probabilities.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 3. Curve of Growth in Man, from birth to 20 yrs (♂); from Quetelet’s Belgian data. The upper curve of stature from Bowditch’s Boston data.
+
+If the child be some 20 inches, or say 50 cm. tall at birth, and the man some six feet high, or say 180 cm., at twenty, we may say that his *average* rate of growth has been (180 − 50)/20 cm., or 6·5 centimetres per annum. But we know very well that this is [p. 62] but a very rough preliminary statement, and that the boy grew quickly during some, and slowly during other, of his twenty years. It becomes necessary therefore to study the phenomenon of growth in successive small portions; to study, that is to say, the successive lengths, or the successive small differences, or increments, of length (or of weight, etc.), attained in successive short increments of time. This we do in the first instance in the usual way, by the “graphic method” of plotting length against time, and so constructing our “curve of growth.” Our curve of growth, whether of weight or length (Fig. 3), has always a certain characteristic form, or characteristic *curvature*. This is our immediate proof of the fact that the *rate of growth* changes as time goes on; for had it not been so, had an equal increment of length been added in each equal interval of time, our “curve” would have appeared as a straight line. Such as it is, it tells us not only that the rate of growth tends to alter, but that it alters in a definite and orderly way; for, subject to various minor interruptions, due to secondary causes, our curves of growth are, on the whole, “smooth” curves.
+
+The curve of growth for length or stature in man indicates a rapid increase at the outset, that is to say during the quick growth of babyhood; a long period of slower, but still rapid and almost steady growth in early boyhood; as a rule a marked quickening soon after the boy is in his teens, when he comes to “the growing age”; and finally a gradual arrest of growth as the boy “comes to his full height,” and reaches manhood.
+
+If we carried the curve further, we should see a very curious thing. We should see that a man’s full stature endures but for a spell; long before fifty [#fn95]_ it has begun to abate, by sixty it is notably lessened, in extreme old age the old man’s frame is shrunken and it is but a memory that “he once was tall.” We have already seen, and here we see again, that growth may have a “negative value.” The phenomenon of negative growth in old age extends to weight also, and is evidently largely chemical in origin: the organism can no longer add new material to its fabric fast enough to keep pace with the wastage of time. Our curve [p. 63] of growth is in fact a diagram of activity, or “time-energy” diagram [#fn96]_. As the organism grows it is absorbing energy beyond its daily needs, and accumulating it at a rate depicted in our
+
+| *Stature, weight, and span of outstretched arms.*
+
+| (\ *After Quetelet*, *pp.* 193, 346.)
+
+::
+
+        Stature in metres         Weight in kgm.        Span of     % ratio
+                                                          arms,   of stature
+    Age  Male     Female  % F/M   Male   Female  % F/M   male      to span
+     0   0·500    0·494    98·8    3·2     2·9    90·7   0·496      100·8
+     1   0·698    0·690    98·8    9·4     8·8    93·6   0·695      100·4
+     2   0·791    0·781    98·7   11·3    10·7    94·7   0·789      100·3
+     3   0·864    0·854    98·8   12·4    11·8    95·2   0·863      100·1
+     4   0·927    0·915    98·7   14·2    13·0    91·5   0·927      100·0
+     5   0·987    0·974    98·7   15·8    14·4    91·1   0·988       99·9
+     6   1·046    1·031    98·5   17·2    16·0    93·0   1·048       99·8
+     7   1·104    1·087    98·4   19·1    17·5    91·6   1·107       99·7
+     8   1·162    1·142    98·2   20·8    19·1    91·8   1·166       99·6
+     9   1·218    1·196    98·2   22·6    21·4    94·7   1·224       99·5
+    10   1·273    1·249    98·1   24·5    23·5    95·9   1·281       99·4
+    11   1·325    1·301    98·2   27·1    25·6    94·5   1·335       99·2
+    12   1·375    1·352    98·3   29·8    29·8   100·0   1·388       99·1
+    13   1·423    1·400    98·4   34·4    32·9    95·6   1·438       98·9
+    14   1·469    1·446    98·4   38·8    36·7    94·6   1·489       98·7
+    15   1·513    1·488    98·3   43·6    40·4    92·7   1·538       99·4
+    16   1·554    1·521    97·8   49·7    43·6    87·7   1·584       98·1
+    17   1·594    1·546    97·0   52·8    47·3    89·6   1·630       97·9
+    18   1·630    1·563    95·9   57·8    49·0    84·8   1·670       97·6
+    19   1·655    1·570    94·9   58·0    51·6    89·0   1·705       97·1
+    20   1·669    1·574    94·3   60·1    52·3    87·0   1·728       96·6
+    25   1·682    1·578    93·8   62·9    53·3    84·7   1·731       97·2
+    30   1·686    1·580    93·7   63·7    54·3    85·3   1·766       95·5
+    40   1·686    1·580    93·7   63·7    55·2    86·7   1·766       95·5
+    50   1·686    1·580    93·7   63·5    56·2    88·4     —           —
+    60   1·676    1·571    93·7   61·9    54·3    87·7     —           —
+    70   1·660    1·556    93·7   59·5    51·5    86·5     —           —
+    80   1·636    1·534    93·8   57·8    49·4    85·5     —           —
+    90   1·610    1·510    93·8   57·8    49·3    85·3     —           —
+
+curve; but the time comes when it accumulates no longer, and at last it is constrained to draw upon its dwindling store. But in part, the slow decline in stature is an expression of an unequal contest between our bodily powers and the unchanging force of gravity, [p. 64] which draws us down when we would fain rise up [#fn97]_. For against gravity we fight all our days, in every movement of our limbs, in every beat of our hearts; it is the indomitable force that defeats us in the end, that lays us on our deathbed, that lowers us to the grave [#fn98]_.
+
+Side by side with the curve which represents growth in length, or stature, our diagram shows the curve of weight [#fn99]_. That this curve is of a very different shape from the former one, is accounted for in the main (though not wholly) by the fact which we have already dealt with, that, whatever be the law of increment in a linear dimension, the law of increase in volume, and therefore in weight, will be that these latter magnitudes tend to vary as the cubes of the linear dimensions. This however does not account for the change of direction, or “point of inflection” which we observe in the curve of weight at about one or two years old, nor for certain other differences between our two curves which the scale of our diagram does not yet make clear. These differences are due to the fact that the form of the child is altering with growth, that other linear dimensions are varying somewhat differently from length or stature, and that consequently the growth in bulk or weight is following a more complicated law.
+
+Our curve of growth, whether for weight or length, is a direct picture of velocity, for it represents, as a connected series, the successive epochs of time at which successive weights or lengths are attained. But, as we have already in part seen, a great part of the interest of our curve lies in the fact that we can see from it, not only that length (or some other magnitude) is changing, but that the *rate of change* of magnitude, or rate of growth, is itself changing. We have, in short, to study the phenomenon of *acceleration*: we have begun by studying a velocity, or rate of [p. 65] change of magnitude; we must now study an acceleration, or rate of change of velocity. The rate, or velocity, of growth is measured by the *slope* of the curve; where the curve is steep, it means that growth is rapid, and when growth ceases the curve appears as a horizontal line. If we can find a means, then, of representing at successive epochs the corresponding slope, or steepness, of the curve, we shall have obtained a picture of the rate of change of velocity, or the acceleration of growth. The measure of the steepness of a curve is given by the tangent to the curve, or we may estimate it by taking for equal intervals of time (strictly speaking, for each infinitesimal interval of time) the actual increment added during that interval of time: and in practice this simply amounts to taking the successive *differences* between the values of length (or of weight) for the successive ages which we have begun by studying. If we then plot these successive *differences* against time, we obtain a curve each point upon which represents a velocity, and the whole curve indicates the rate of change of velocity, and we call it an acceleration-curve. It contains, in truth, nothing whatsoever that was not implicit in our former curve; but it makes clear to our eye, and brings within the reach of further investigation, phenomena that were hard to see in the other mode of representation.
+
+The acceleration-curve of height, which we here illustrate, in Fig. 4, is very different in form from the curve of growth which we have just been looking at; and it happens that, in this case, there is a very marked difference between the curve which we obtain from Quetelet’s data of growth in height and that which we may draw from any other series of observations known to me from British, French, American or German writers. It begins (as will be seen from our next table) at a very high level, such as it never afterwards attains; and still stands too high, during the first three or four years of life, to be represented on the scale of the accompanying diagram. From these high velocities it falls away, on the whole, until the age when growth itself ceases, and when the rate of growth, accordingly, has, for some years together, the constant value of *nil*; but the rate of fall, or rate of change of velocity, is subject to several changes or interruptions. During the first three or four years of life the fall is continuous and rapid, [p. 66] but it is somewhat arrested for a while in childhood, from about five years old to eight. According to Quetelet’s data, there is another slight interruption in the falling rate between the ages of about fourteen and sixteen; but in place of this almost insignificant interruption, the English and other statistics indicate a sudden
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 4. Mean annual increments of stature (♂), Belgian and American.
+
+and very marked acceleration of growth beginning at about twelve years of age, and lasting for three or four years; when this period of acceleration is over, the rate begins to fall again, and does so with great rapidity. We do not know how far the absence of this striking feature in the Belgian curve is due to the imperfections of Quetelet’s data, or whether it is a real and significant feature in the small-statured race which he investigated.
+
+| \_Annual Increment of Stature (in cm.) from Belgian and American
+| Statistics.\_
+
+| D: Belgian (Quetelet, p. 344)
+| E: Paris\* (Variot et Chaumet, p. 55)
+| F: Toronto† (Boas, p. 1547)
+| G: Worcester‡, Mass. (Boas, p. 1548)
+| H: Ann. increment
+| I: Increment
+| J: Boys
+| K: Girls
+| V: Variability of do.
+
+::
+
+        ────[D]───  ───────[E]───────  ──────[F]──────  ────────[G]───────
+        Height        Height     [I]   Height [V]       [H]       [H]
+    Age (Boys) [H]  [J]   [K]  [J] [K] (Boys) (6)  [H] ([J]) [V] ([K]) [V]
+     0   50·0   —     —     —    —   —    —     —    —    —    —    —    —
+     1   69·8 19·8  74·2  73·6   —   —    —     —    —    —    —    —    —
+     2   79·1  9·3  82·7  81·8 8·5 8·2    —     —    —    —    —    —    —
+     3   86·4  7·3  89·1  88·4 6·4 6·6    —     —    —    —    —    —    —
+     4   92·7  6·3  96·8  95·8 7·7 7·4    —     —    —    —    —    —    —
+     5   98·7  6·0 103·3 101·9 6·5 6·1 105·90 4·40   —    —    —    —    —
+     6  104·0  5·9 109·9 108·9 6·6 7·0 111·58 4·62 5·68 6·55 1·57 5·75 0·88
+     7  110·4  5·8 114·4 113·8 4·5 4·9 116·83 4·93 5·25 5·70 0·68 5·90 0·98
+     8  116·2  5·8 119·7 119·5 5·3 5·7 122·04 5·34 5·21 5·37 0·86 5·70 1·10
+     9  121·8  5·6 125·0 124·7 5·3 4·8 126·91 5·49 4·87 4·89 0·96 5·50 0·97
+    10  127·3  5·5 130·3 129·5 5·3 5·2 131·78 5·75 4·87 5·10 1·03 5·97 1·23
+    11  132·5  5·2 133·6 134·4 3·3 4·9 136·20 6·19 4·42 5·02 0·88 6·17 1·85
+    12  137·5  5·0 137·6 141·5 4·0 7·1 140·74 6·66 4·54 4·99 1·26 6·98 1·89
+    13  142·3  4·8 145·1 148·6 7·5 7·1 146·00 7·54 5·26 5·91 1·86 6·71 2·06
+    14  146·9  4·6 153·8 152·9 8·7 4·3 152·39 8·49 6·39 7·88 2·39 5·44 2·89
+    15  151·3  4·4 159·6 154·2 5·8 1·3 159·72 8·78 7·33 6·23 2·91 5·34 2·71
+    16  155·4  4·1   —     —    —    — 164·90 7·73 5·18 5·64 3·46   —    —
+    17  159·4  4·0   —     —    —    — 168·91 7·22 4·01   —    —    —    —
+    18  163·0  3·6   —     —    —    — 171·07 6·74 2·16   —    —    —    —
+    19  165·5  2·5   —     —    —    —   —     —     —    —    —    —    —
+    20  167·0  1·5   —     —    —    —   —     —     —    —    —    —    —
+
+| \* Ages from 1–2, 2–3, etc.
+
+| † The epochs are, in this table, 5·5, 6·5, years, etc.
+
+‡ Direct observations on actual, or individualised, increase of stature from year to year: between the ages of 5–6, 6–7, etc.
+
+Even apart from these data of Quetelet’s (which seem to constitute an extreme case), it is evident that there are very [p. 68] marked differences between different races, as we shall presently see there are between the two sexes, in regard to the epochs of acceleration of growth, in other words, in the “phase” of the curve.
+
+It is evident that, if we pleased, we might represent the *rate of change of acceleration* on yet another curve, by constructing a table of “second differences”; this would bring out certain very interesting phenomena, which here however we must not stay to discuss.
+
+| *Annual Increment of Weight in Man* (\ *kgm.*).
+
+| (After Quetelet, *Anthropométrie*, p. 346\*.)
+
+::
+
+                 Increment
+     Age      Male    Female
+     0–1       5·9     5·6
+     1–2       2·0     2·4
+     2–3       1·5     1·4
+     3–4       1·5     1·5
+     4–5       1·9     1·4
+     5–6       1·9     1·4
+     6–7       1·9     1·1
+     7–8       1·9     1·2
+     8–9       1·9     2·0
+     9–10      1·7     2·1
+    10–11      1·8     2·4
+    11–12      2·0     3·5
+    12–13      4·1     3·5
+    13–14      4·0     3·8
+    14–15      4·1     3·7
+    15–16      4·2     3·5
+    16–17      4·3     3·3
+    17–18      4·2     3·0
+    18–19      3·7     2·3
+    19–20      1·9     1·1
+    20–21      1·7     1·1
+    21–22      1·7     0·5
+    22–23      1·6     0·4
+    23–24      0·9    −0·2
+    24–25      0·8    −0·2
+
+\* The values given in this table are not in precise accord with those of the Table on p. 63. The latter represent Quetelet’s results arrived at in 1835; the former are the means of his determinations in 1835–40.
+
+The acceleration-curve for man’s weight (Fig. 5), whether we draw it from Quetelet’s data, or from the British, American and other statistics of later writers, is on the whole similar to that which we deduce from the statistics of these latter writers in regard to height or stature; that is to say, it is not a curve which continually descends, but it indicates a rate of growth which is subject to important fluctuations at certain epochs of life. We see that it begins at a high level, and falls continuously and rapidly [#fn100]_ [p. 69] during the first two or three years of life. After a slight recovery, it runs nearly level during boyhood from about five to twelve years old; it then rapidly rises, in the “growing period” of the early teens, and slowly and steadily falls from about the age of sixteen onwards. It does not reach the base-line till the man is about seven or eight and twenty, for normal increase of weight continues during the years when the man is “filling out,” long after growth in height has ceased; but at last, somewhere about thirty, the velocity reaches zero, and even falls below it, for then the man usually begins to lose weight a little. The subsequent slow changes in this acceleration-curve we need not stop to deal with.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 5. Mean annual increments of weight, in man and woman; from Quetelet’s data.
+
+In the same diagram (Fig. 5) I have set forth the acceleration-curves in respect of increment of weight for both man and woman, according to Quetelet. That growth in boyhood and growth in girlhood follow a very different course is a matter of common knowledge; but if we simply plot the ordinary curve of growth, or velocity-curve, the difference, on the small scale of our diagrams, [p. 70] is not very apparent. It is admirably brought out, however, in the acceleration-curves. Here we see that, after infancy, say from three years old to eight, the velocity in the girl is steady, just as in the boy, but it stands on a lower level in her case than in his: the little maid at this age is growing slower than the boy. But very soon, and while his acceleration-curve is still represented by a straight line, hers has begun to ascend, and until the girl is about thirteen or fourteen it continues to ascend rapidly. After that age, as after sixteen or seventeen in the boy’s case, it begins to descend. In short, throughout all this period, it is a very *similar* curve in the two sexes; but it has its notable differences, in amplitude and especially in *phase*. Last of all, we may notice that while the acceleration-curve falls to a negative value in the male about or even a little before the age of thirty years, this does not happen among women. They continue to grow in weight, though slowly, till very much later in life; until there comes a final period, in both sexes alike, during which weight, and height and strength all alike diminish.
+
+From certain corrected, or “typical” values, given for American children by Boas and Wissler (\ *l.c.* p. 42), we obtain the following still clearer comparison of the annual increments of *stature* in boys and girls: the typical stature at the commencement of the period, i.e. at the age of eleven, being 135·1 cm. and 136·9 cm. for the boys and girls respectively, and the annual increments being as follows:
+
+::
+
+    Age           12    13    14    15    16    17    18    19    20
+    Boys (cm.)    4·1   6·3   8·7   7·9   5·2   3·2   1·9   0·9   0·3
+    Girls (cm.)   7·5   7·0   4·6   2·1   0·9   0·4   0·1   0·0   0·0
+    Difference   −3·4  −0·7   4·1   5·8   4·3   2·8   1·8   0·9   0·3
+
+The result of these differences (which are essentially *phase*-differences) between the two sexes in regard to the velocity of growth and to the rate of change of that velocity, is to cause the *ratio* between the weights of the two sexes to fluctuate in a somewhat complicated manner. At birth the baby-girl weighs on the average nearly 10 per cent. less than the boy. Till about two years old she tends to gain upon him, but she then loses again until the age of about five; from five she gains for a few years somewhat rapidly, and the girl of ten to twelve is only some 3 per cent. less in weight than the boy. The boy in his teens gains [p. 71] steadily, and the young woman of twenty is nearly 15 per cent. lighter than the man. This ratio of difference again slowly diminishes, and between fifty and sixty stands at about 12 per cent., or not far from the mean for all ages; but once more as old age advances, the difference tends, though very slowly, to increase (Fig. 6).
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 6. Percentage ratio, throughout life, of female weight to male; from Quetelet’s data.
+
+While careful observations on the rate of growth in other animals are somewhat scanty, they tend to show so far as they go that the general features of the phenomenon are always much the same. Whether the animal be long-lived, as man or the elephant, or short-lived, like horse or dog, it passes through the same phases of growth [#fn101]_. In all cases growth begins slowly; it attains a maximum velocity early in its course, and afterwards slows down (subject to temporary accelerations) towards a point where growth ceases altogether. But especially in the cold-blooded animals, such as fishes, the slowing-down period is very greatly protracted, and the size of the creature would seem never actually to reach, but only to approach asymptotically, to a maximal limit.
+
+The size ultimately attained is a resultant of the rate, and of [p. 72] the duration, of growth. It is in the main true, as Minot has said, that the rabbit is bigger than the guinea-pig because he grows the faster; but that man is bigger than the rabbit because he goes on growing for a longer time.
+
+----
+
+In ordinary physical investigations dealing with velocities, as for instance with the course of a projectile, we pass at once from the study of acceleration to that of momentum and so to that of force; for change of momentum, which is proportional to force, is the product of the mass of a body into its acceleration or change of velocity. But we can take no such easy road of kinematical investigation in this case. The “velocity” of growth is a very different thing from the “velocity” of the projectile. The forces at work in our case are not susceptible of direct and easy treatment; they are too varied in their nature and too indirect in their action for us to be justified in equating them directly with the mass of the growing structure.
+
+It was apparently from a feeling that the velocity of growth ought in some way to be equated with the mass of the growing structure that Minot [#fn102]_ introduced a curious, and (as it seems to me) an unhappy method of representing growth, in the form of what he called “percentage-curves”; a method which has been followed by a number of other writers and experimenters. Minot’s method was to deal, not with the actual increments added in successive periods, such as years or days, but with these increments represented as *percentages* of the amount which had been reached at the end of the former period. For instance, taking Quetelet’s values for the height in centimetres of a male infant from birth to four years old, as follows:
+
+::
+
+    Years   0     1     2     3     4
+    cm.    50·0  69·8  79·1  86·4  92·7
+
+| Minot would state the percentage growth in each of the four annual
+| periods at 39·6, 13·3, 9·6 and 7·3 per cent. respectively.
+
+Now when we plot actual length against time, we have a perfectly definite thing. When we differentiate this *L*\ /\ *T*, we have *dL*\ /\ *dT*, which is (of course) velocity; and from this, by a second differentiation, we obtain *d*\ :sup:`2` *L*\ /\ *dT*\ :sup:`2`, that is to say, the acceleration. [p. 73]
+
+| But when you take percentages of *y*, you are determining *dy*\ /\ *y*,
+| and when you plot this against *dx*, you have
+
+| (\ *dy*\ /\ *y*)/\ *dx*, or *dy*\ /(\ *y* ⋅ *dx*), or (1/\ *y*) ⋅ (\ *dy*\ /\ *dx*),
+
+that is to say, you are multiplying the thing you wish to represent by another quantity which is itself continually varying; and the result is that you are dealing with something very much less easily grasped by the mind than the original factors. Professor Minot is, of course, dealing with a perfectly legitimate function of *x* and *y*; and his method is practically tantamount to plotting log *y* against *x*, that is to say, the logarithm of the increment against the time. This could only be defended and justified if it led to some simple result, for instance if it gave us a straight line, or some other simpler curve than our usual curves of growth. As a matter of fact, it is manifest that it does nothing of the kind.
+
+*Pre-natal and post-natal growth.*
+
+In the acceleration-curves which we have shown above (Figs. 2, 3), it will be seen that the curve starts at a considerable interval from the actual date of birth; for the first two increments which we can as yet compare with one another are those attained during the first and second complete years of life. Now we can in many cases “interpolate” with safety *between* known points upon a curve, but it is very much less safe, and is not very often justifiable (at least until we understand the physical principle involved, and its mathematical expression), to “extrapolate” beyond the limits of our observations. In short, we do not yet know whether our curve continued to ascend as we go backwards to the date of birth, or whether it may not have changed its direction, and descended, perhaps, to zero-value. In regard to length, or stature, however, we can obtain the requisite information from certain tables of Rüssow’s [#fn103]_, who gives the stature of the infant month by month during the first year of its life, as follows:
+
+::
+
+    Age in months          0    1   2   3   4   5   6   7    8     9   10    11     12
+    Length in cm.        (50)  54  58  60  62  64  65  66   67·5   68  69    70·5   72
+    [Differences (in cm.)    4   4   2   2   2   1   1   1·5    ·5   1   1·5    1·5]
+
+If we multiply these *monthly* differences, or mean monthly velocities, by 12, to bring them into a form comparable with the [p. 74] *annual* velocities already represented on our acceleration-curves, we shall see that the one series of observations joins on very well with the other; and in short we see at once that our acceleration-curve rises steadily and rapidly as we pass back towards the date of birth.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 7. Curve of growth (in length or stature) of child, before and after birth. (From His and Rüssow’s data.)
+
+But birth itself, in the case of a viviparous animal, is but an unimportant epoch in the history of growth. It is an epoch whose relative date varies according to the particular animal: the foal and the lamb are born relatively later, that is to say when development has advanced much farther, than in the case of man; the kitten and the puppy are born earlier and therefore more helpless than we are; and the mouse comes into the world still earlier and more inchoate, so much so that even the little marsupial is scarcely more unformed and embryonic. In all these cases alike, we must, in order to study the curve of growth in its entirety, take full account of prenatal or intra-uterine growth. [p. 75]
+
+According to His [#fn104]_, the following are the mean lengths of the unborn human embryo, from month to month.
+
+::
+
+    Months          0   1    2    3    4    5    6    7    8    9      10
+                                                                     (Birth)
+    Length in mm.   0  7·5   40   84  162  275  352  402  443  472   490–500
+    Increment per
+      month in mm.  —  7·5  32·5  44   78  113   77   50   41   29    18–28
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 8. Mean monthly increments of length or stature of child (in cms.).
+
+These data link on very well to those of Rüssow, which we have just considered, and (though His’s measurements for the pre-natal months are more detailed than are those of Rüssow for the first year of post-natal life) we may draw a continuous curve of growth (Fig. 7) and curve of acceleration of growth (Fig. 8) for the combined periods. It will at once be seen that there is a “point of inflection” somewhere about the fifth month of intra-uterine life [#fn105]_: up to that date growth proceeds with a continually increasing [p. 76] velocity; but after that date, though growth is still rapid, its velocity tends to fall away. There is a slight break between our two separate sets of statistics at the date of birth, while this is the very epoch regarding which we should particularly like to have precise and continuous information. Undoubtedly there is a certain slight arrest of growth, or diminution of the rate of growth, about the epoch of birth: the sudden change in the [p. 77] method of nutrition has its inevitable effect; but this slight temporary set-back is immediately followed by a secondary, and temporary, acceleration.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 9. Curve of pre-natal growth (length or stature) of child; and corresponding curve of mean monthly increments (mm.).
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 10. Curve of growth of bamboo (from Ostwald, after Kraus).
+
+It is worth our while to draw a separate curve to illustrate on a larger scale His’s careful data for the ten months of pre-natal life (Fig. 9). We see that this curve of growth is a beautifully regular one, and is nearly symmetrical on either side of that point of inflection of which we have already spoken; it is a curve for which we might well hope to find a simple mathematical expression. The acceleration-curve shown in Fig. 9 together with the pre-natal curve of growth, is not taken directly from His’s recorded data, but is derived from the tangents drawn to a smoothed curve, corresponding as nearly as possible to the actual curve of growth: the rise to a maximal velocity about the fifth month and the subsequent gradual fall are now demonstrated even more clearly than before. In Fig. 10, which is a curve of growth of the bamboo [#fn106]_, we see (so far as it goes) the same essential features, [p. 78] the slow beginning, the rapid increase of velocity, the point of inflection, and the subsequent slow negative acceleration [#fn107]_.
+
+*Variability and Correlation of Growth.*
+
+The magnitudes and velocities which we are here dealing with are, of course, mean values derived from a certain number, sometimes a large number, of individual cases. But no statistical account of mean values is complete unless we also take account of the *amount of variability* among the individual cases from which the mean value is drawn. To do this throughout would lead us into detailed investigations which lie far beyond the scope of this elementary book; but we may very briefly illustrate the nature of the process, in connection with the phenomena of growth which we have just been studying.
+
+It was in connection with these phenomena, in the case of man, that Quetelet first conceived the statistical study of variation, on lines which were afterwards expounded and developed by Galton, and which have grown, in the hands of Karl Pearson and others, into the modern science of Biometrics.
+
+When Quetelet tells us, for instance, that the mean stature of the ten-year old boy is 1·273 metres, this implies, according to the law of error, or law of probabilities, that all the individual measurements of ten-year-old boys group themselves *in an orderly way*, that is to say according to a certain definite law, about this mean value of 1·273. When these individual measurements are grouped and plotted as a curve, so as to show the number of individual cases at each individual length, we obtain a characteristic curve of error or curve of frequency; and the “spread” of this curve is a measure of the amount of variability in this particular case. A certain mathematical measure of this “spread,” as described in works upon statistics, is called the Index of Variability, or Standard Deviation, and is usually denominated by the letter σ. It is practically equivalent to a determination of the point upon the frequency curve where it *changes its curvature* on either side of the mean, and where, from being concave towards the middle line, it spreads out to be convex thereto. When we divide this [p. 79] value by the mean, we get a figure which is independent of any particular units, and which is called the Coefficient of Variability. (It is usually multiplied by 100, to make it of a more convenient amount; and we may then define this coefficient, *C*, as = (σ/\ *M*) × 100.)
+
+In regard to the growth of man, Pearson has determined this coefficient of variability as follows: in male new-born infants, the coefficient in regard to weight is 15·66, and in regard to stature, 6·50; in male adults, for weight 10·83, and for stature, 3·66. The amount of variability tends, therefore, to decrease with growth or age.
+
+Similar determinations have been elaborated by Bowditch, by Boas and Wissler, and by other writers for intermediate ages, especially from about five years old to eighteen, so covering a great part of the whole period of growth in man [#fn108]_.
+
+| *Coefficient of Variability (σ/*\ M\ *× 100) in Man, at various ages.*
+
+::
+
+    Age                           5      6      7     8      9
+    Stature (Bowditch)           4·76   4·60   4·42  4·49   4·40
+    Stature (Boas and Wissler)   4·15   4·14   4·22  4·37   4·33
+    Weight  (Bowditch)          11·56  10·28  11·08  9·92  11·04
+
+::
+
+    Age                          10     11     12     13     14
+    Stature (Bowditch)           4·55   4·70   4·90   5·47   5·79
+    Stature (Boas and Wissler)   4·36   4·54   4·73   5·16   5·57
+    Weight  (Bowditch)          11·60  11·76  13·72  13·60  16·80
+
+::
+
+    Age                          15     16     17     18
+    Stature (Bowditch)           5·57   4·50   4·55   3·69
+    Stature (Boas and Wissler)   5·50   4·69   4·27   3·94
+    Weight  (Bowditch)          15·32  13·28  12·96  10·40
+
+The result is very curious indeed. We see, from Fig. 11, that the curve of variability is very similar to what we have called the acceleration-curve (Fig. 4): that is to say, it descends when the rate of growth diminishes, and rises very markedly again when, in late boyhood, the rate of growth is temporarily accelerated. We [p. 80] see, in short, that the amount of *variability* in stature or in weight is a function of the *rate of growth* in these magnitudes, though we are not yet in a position to equate the terms precisely, one with another.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 11. Coefficients of variability of stature in Man (♂). from Boas and Wissler’s data.
+
+If we take not merely the variability of stature or weight at a given age, but the variability of the actual successive increments in each yearly period, we see that this latter coefficient of variability tends to increase steadily, and more and more rapidly, within the limits of age for which we have information; and this phenomenon is, in the main, easy of explanation. For a great part of the difference, in regard to rate of growth, between one individual and another is a difference of *phase*,—a difference in the epochs of acceleration and retardation, and finally in the epoch when growth comes to an end. And it follows that the variability of rate will be more and more marked, as we approach and reach the period when some individuals still continue, and others have already ceased, to grow. In the following epitomised table, [p. 81] I have taken Boas’s determinations of variability (σ) (\ *op. cit.* p. 1548), converted them into the corresponding coefficients of variability ((σ/\ *M*) × 100), and then smoothed the resulting numbers.
+
+| *Coefficients of Variability in Annual Increment of Stature.*
+
+::
+
+    Age     7     8     9     10    11    12    13    14    15
+    Boys   17·3  15·8  18·6  19·1  21·0  24·7  29·0  36·2  46·1
+    Girls  17·1  17·8  19·2  22·7  25·9  29·3  37·0  44·8    —
+
+The greater variability of annual increment in the girls, as compared with the boys, is very marked, and is easily explained by the more rapid rate at which the girls run through the several phases of the phenomenon.
+
+Just as there is a marked difference in “phase” between the growth-curves of the two sexes, that is to say a difference in the periods when growth is rapid or the reverse, so also, within each sex, will there be room for similar, but individual phase-differences. Thus we may have children of accelerated development, who at a given epoch after birth are both rapidly growing and already “big for their age”; and others of retarded development who are comparatively small and have not reached the period of acceleration which, in greater or less degree, will come to them in turn. In other words, there must under such circumstances be a strong positive “coefficient of correlation” between stature and rate of growth, and also between the rate of growth in one year and the next. But it does not by any means follow that a child who is precociously big will continue to grow rapidly, and become a man or woman of exceptional stature. On the contrary, when in the case of the precocious or “accelerated” children growth has begun to slow down, the backward ones may still be growing rapidly, and so making up (more or less completely) to the others. In other words, the period of high positive correlation between stature and increment will tend to be followed by one of negative correlation. This interesting and important point, due to Boas and Wissler [#fn109]_, is confirmed by the following table:―
+
+| *Correlation of Stature and Increment in Boys and Girls.*
+
+| (\ *From Boas and Wissler.*)
+
+::
+
+    Age                6      7      8      9      10     11     12     13     14     15
+    Stature     (B)  112·7  115·5  123·2  127·4  133·2  136·8  142·7  147·3  155·9  162·2
+                (G)  111·4  117·7  121·4  127·9  131·8  136·7  144·6  149·7  153·8  157·2
+    Increment   (B)    5·7    5·3    4·9    5·1    5·0    4·7    5·9    7·5    6·2    5·2
+                (G)    5·9    5·5    5·5    5·9    6·2    7·2    6·5    5·4    3·3    1·7
+    Correlation (B)     ·25    ·11    ·08    ·25    ·18    ·18    ·48    ·29   −·42   −·44
+                (G)     ·44    ·14    ·24    ·47    ·18   −·18   −·42   −·39   −·63    ·11
+
+.. folio:: p. 82
+   :page: 82
+
+A minor, but very curious point brought out by the same investigators is that, if instead of stature we deal with height in the sitting posture (or, practically speaking, with length of trunk or back), then the correlations between this height and its annual increment are throughout negative. In other words, there would seem to be a general tendency for the long trunks to grow slowly throughout the whole period under investigation. It is a well-known anatomical fact that tallness is in the main due not to length of body but to length of limb.
+
+The whole phenomenon of variability in regard to magnitude and to rate of increment is in the highest degree suggestive: inasmuch as it helps further to remind and to impress upon us that specific rate of growth is the real physiological factor which we want to get at, of which specific magnitude, dimensions and form, and all the variations of these, are merely the concrete and visible resultant. But the problems of variability, though they are intimately related to the general problem of growth, carry us very soon beyond our present limitations.
+
+*Rate of growth in other organisms*.  [#fn110]_
+
+Just as the human curve of growth has its slight but well-marked interruptions, or variations in rate, coinciding with such epochs as birth and puberty, so is it with other animals, and this phenomenon is particularly striking in the case of animals which undergo a regular metamorphosis.
+
+In the accompanying curve of growth in weight of the mouse (Fig. 12), based on W. Ostwald’s observations [#fn111]_, we see a distinct slackening of the rate when the mouse is about a fortnight old, at which period it opens its eyes and very soon afterwards is weaned. At about six weeks old there is another well-marked retardation of growth, following on a very rapid period, and coinciding with the epoch of puberty. [p. 83]
+
+Fig. 13 shews the curve of growth of the silkworm [#fn112]_, during its whole larval life, up to the time of its entering the chrysalis stage.
+
+The silkworm moults four times, at intervals of about a week, the first moult being on the sixth or seventh day after hatching. A distinct retardation of growth is exhibited on our curve in the case of the third and fourth moults; while a similar retardation accompanies the first and second moults also, but the scale of our diagram does not render it visible. When the worm is about seven weeks old, a remarkable process of “purgation” takes place, as a preliminary to entering on the pupal, or chrysalis, stage; and the great and sudden loss of weight which accompanies this process is the most marked feature of our curve.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 12. Growth in weight of Mouse. (After W. Ostwald.)
+
+The rate of growth in the tadpole [#fn113]_ (Fig. 14) is likewise marked by epochs of retardation, and finally by a sudden and drastic change. There is a slight diminution in weight immediately after [p. 84] the little larva frees itself from the egg; there is a retardation of growth about ten days later, when the external gills disappear; and finally, the complete metamorphosis, with the loss of the tail, the growth of the legs and the cessation of branchial respiration, is accompanied by a loss of weight amounting to wellnigh half the weight of the full-grown larva. [p. 85]
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 13. Growth in weight of Silkworm. (From Ostwald, after Luciani and Lo Monaco.)
+
+While as a general rule, the better the animals be fed the quicker they grow and the sooner they metamorphose, Barfürth has pointed out the curious fact that a short spell of starvation, just before metamorphosis is due, appears to hasten the change.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 14. Growth in weight of Tadpole. (From Ostwald, after Schaper.)
+
+The negative growth, or actual loss of bulk and weight which often, and perhaps always, accompanies metamorphosis, is well shewn in the case of the eel [#fn114]_. The contrast of size is great between [p. 87] the flattened, lancet-shaped Leptocephalus larva and the little black cylindrical, almost thread-like elver, whose magnitude is less than that of the Leptocephalus in every dimension, even, at first, in length (Fig. 15).
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 15. Development of Eel; from Leptocephalus larvae to young Elver. (From Ostwald after Joh. Schmidt.)
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 16. Growth in length of Spirogyra. (From Ostwald, after Hofmeister.)
+
+From the higher study of the physiology of growth we learn that such fluctuations as we have described are but special interruptions in a process which is never actually continuous, but is perpetually interrupted in a rhythmic manner [#fn115]_. Hofmeister shewed, for instance, that the growth of Spirogyra proceeds by fits and starts, by periods of activity and rest, which alternate with one another at intervals of so many minutes (Fig. 16). And Bose, by very refined methods of experiment, has shewn that plant-growth really proceeds by tiny and perfectly rhythmical pulsations recurring at regular intervals of a few seconds of time. Fig. 17 shews, according to Bose’s observations [#fn116]_, the growth of a crocus, under a very high magnification. The stalk grows by little jerks, each with an amplitude of about ·002 mm., every [p. 88] twenty seconds or so, and after each little increment there is a partial recoil.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 17. Pulsations of growth in Crocus, in micro-millimetres. (After Bose.)
+
+*The rate of growth of various parts or organs*.  [#fn117]_
+
+The differences in regard to rate of growth between various parts or organs of the body, internal and external, can be amply illustrated in the case of man, and also, but chiefly in regard to external form, in some few other creatures [#fn118]_. It is obvious that there lies herein an endless field for the mathematical study of correlation and of variability, but with this aspect of the case we cannot deal.
+
+In the accompanying table, I shew, from some of Vierordt’s data, the *relative* weights, at various ages, compared with the weight at birth, of the entire body, of the brain, heart and liver; [p. 89] and also the percentage relation which each of these organs bears, at the several ages, to the weight of the whole body.
+
+| \_Weight of Various Organs, compared with the Total Weight of the Human
+| Body (male).\ *(*\ After Vierordt, Anatom. Tabellen, pp. 38, 39.\_)
+
+::
+
+                                                Percentage weights compared
+         Weight         Relative weights of       with total body-weights
+        of body†     ─────────────────────────  ───────────────────────────
+    Age  in kg.      Body  Brain  Heart  Liver   Body  Brain  Heart  Liver
+     0    3·1        1      1      1      1      100   12·29   0·76   4·57
+     1    9·0        2·90   2·48   1·75   2·35   100   10·50   0·46   3·70
+     2   11·0        3·55   2·69   2·20   3·02   100    9·32   0·47   3·89
+     3   12·5        4·03   2·91   2·75   3·42   100    8·86   0·52   3·88
+     4   14·0        4·52   3·49   3·14   4·15   100    9·50   0·53   4·20
+     5   15·9        5·13   3·32   3·43   3·80   100    7·94   0·51   3·39
+     6   17·8        5·74   3·57   3·60   4·34   100    7·63   0·48   3·45
+     7   19·7        6·35   3·54   3·95   4·86   100    6·84   0·47   3·49
+     8   21·6        6·97   3·62   4·02   4·59   100    6·38   0·44   3·01
+     9   23·5        7·58   3·74   4·59   4·95   100    6·06   0·46   2·99
+    10   25·2        8·13   3·70   5·41   5·90   100    5·59   0·51   3·32
+    11   27·0        8·71   3·57   5·97   6·14   100    5·04   0·52   3·22
+    12   29·0        9·35   3·78  (4·13)  6·21   100    4·88  (0·34)  3·03
+    13   33·1       10·68   3·90   6·95   7·31   100    4·49   0·50   3·13
+    14   37·1       11·97   3·38   9·16   8·39   100    3·47   0·58   3·20
+    15   41·2       13·29   3·91   8·45   9·22   100    3·62   0·48   3·17
+    16   45·9       14·81   3·77   9·76   9·45   100    3·16   0·51   2·95
+    17   49·7       16·03   3·70  10·63  10·46   100    2·84   0·51   2·98
+    18   53·9       17·39   3·73  10·33  10·65   100    2·64   0·46   2·80
+    19   57·6       18·58   3·67  11·42  11·61   100    2·43   0·51   2·86
+    20   59·5       19·19   3·79  12·94  11·01   100    2·43   0·51   2·62
+    21   61·2       19·74   3·71  12·59  11·48   100    2·31   0·49   2·66
+    22   62·9       20·29   3·54  13·24  11·82   100    2·14   0·50   2·66
+    23   64·5       20·81   3·66  12·42  10·79   100    2·16   0·46   2·37
+    24     —          —     3·74  13·09  13·04   100      —      —      —
+    25   66·2       21·36   3·76  12·74  12·84   100    2·16   0·46   2·75
+
+| † From Quetelet.
+
+From the first portion of the table, it will be seen that none of these organs by any means keep pace with the body as a whole in regard to growth in weight; in other words, there must be some other part of the fabric, doubtless the muscles and the bones, which increase *more* rapidly than the average increase of the body. Heart and liver both grow nearly at the same rate, and by the [p. 90] age of twenty-five they have multiplied their weight at birth by about thirteen times, while the weight of the entire body has been multiplied by about twenty-one; but the weight of the brain has meanwhile been multiplied only about three and a quarter times. In the next place, we see the very remarkable phenomenon that the brain, growing rapidly till the child is about four years old, then grows more much slowly till about eight or nine years old, and after that time there is scarcely any further perceptible increase. These phenomena are diagrammatically illustrated in Fig. 18.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 18. Relative growth in weight (in Man) of Brain, Heart, and whole Body.
+
+Many statistics indicate a decrease of brain-weight during adult life. Boas [#fn119]_ was inclined to attribute this apparent phenomenon to our statistical methods, and to hold that it could “hardly be explained in any other way than by assuming an increased death-rate among men with very large brains, at an age of about twenty years.” But Raymond Pearl has shewn that there is evidence of a steady and very gradual decline in the weight of the brain with advancing age, beginning at or before the twentieth year, and continuing throughout adult life [#fn120]_. [p. 91]
+
+The second part of the table shews the steadily decreasing weights of the organs in question as compared with the body; the brain falling from over 12 per cent. at birth to little over 2 per cent. at five and twenty; the heart from ·75 to ·46 per cent.; and the liver from 4·57 to 2·75 per cent. of the whole bodily weight.
+
+It is plain, then, that there is no simple and direct relation, holding good *throughout life*, between the size of the body as a whole and that of the organs we have just discussed; and the changing ratio of magnitude is especially marked in the case of the brain, which, as we have just seen, constitutes about one-eighth of the whole bodily weight at birth, and but one-fiftieth at five and twenty. The same change of ratio is observed in other animals, in equal or even greater degree. For instance, Max Weber [#fn121]_ tells us that in the lion, at five weeks, four months, eleven months, and lastly when full-grown, the brain-weight represents the following fractions of the weight of the whole body, viz. 1/18, 1/80, 1/184, and 1/546. And Kellicott has, in like manner, shewn that in the dogfish, while some organs (e.g. rectal gland, pancreas, etc.) increase steadily and very nearly proportionately to the body as a whole, the brain, and some other organs also, grow in a diminishing ratio, which is capable of representation, approximately, by a logarithmic curve [#fn122]_.
+
+But if we confine ourselves to the adult, then, as Raymond Pearl has shewn in the case of man, the relation of brain-weight to age, to stature, or to weight, becomes a comparatively simple one, and may be sensibly expressed by a straight line, or simple equation.
+
+Thus, if *W* be the brain-weight (in grammes), and *A* be the age, or *S* the stature, of the individual, then (in the case of Swedish males) the following simple equations suffice to give the required ratios:
+
+| *W* = 1487·8 − 1·94  *A* = 915·06 + 2·86  *S*.
+
+.. folio:: p. 92
+   :page: 92
+
+These equations are applicable to ages between fifteen and eighty; if we take narrower limits, say between fifteen and fifty, we can get a closer agreement by using somewhat altered constants. In the two sexes, and in different races, these empirical constants will be greatly changed [#fn123]_. Donaldson has further shewn that the correlation between brain-weight and body-weight is very much closer in the rat than in man [#fn124]_.
+
+The falling ratio of weight of brain to body with increase of size or age finds its parallel in comparative anatomy, in the general law that the larger the animal the less is the relative weight of the brain.
+
+::
+
+                               Weight of     Weight of
+                             entire animal    brain
+                                  gms.         gms.       Ratio
+    Marmoset                       335          12·5      1 : 26
+    Spider monkey                 1845         126        1 : 15
+    Felis minuta                  1234          23·6      1 : 56
+    F. domestica                  3300          31        1 : 107
+    Leopard                     27,700         164        1 : 168
+    Lion                       119,500         219        1 : 546
+    Elephant                 3,048,000        5430        1 : 560
+    Whale (Globiocephalus)   1,000,000        2511        1 : 400
+
+For much information on this subject, see Dubois, “Abhängigkeit des Hirngewichtes von der Körpergrösse bei den Säugethieren,” *Arch. f. Anthropol.* XXV, 1897. Dubois has attempted, but I think with very doubtful success, to equate the weight of the brain with that of the animal. We may do this, in a very simple way, by representing the weight of the body as a *power* of that of the brain; thus, in the above table of the weights of brain and body in four species of cat, if we call *W* the weight of the body (in grammes), and *w* the weight of the brain, then if in all four cases we express the ratio by *W* = *w*\ :sup:`n`, we find that *n* is almost constant, and differs little from 2·24 in all four species: the values being respectively, in the order of the table 2·36, 2·24, 2·18, and 2·17. But this evidently amounts to no more than an empirical rule; for we can easily see that it depends on the particular scale which we have used, and that if the weights had been taken, for instance, in kilogrammes or in milligrammes, the agreement or coincidence would not have occurred [#fn125]_. [p. 93]
+
+| *The Length of the Head in Man at various Ages.*
+
+| (\ *After Quetelet, p. 207.*)
+
+::
+
+                           Men                       Women
+             ──────────────────────────      ──────────────────────
+      Age    Total height  Head   Ratio      Height  Head†    Ratio
+                  m.        m.                m.      m.
+     Birth      0·500      0·111   4·50      0·494   0·111    4·45
+     1 year     0·698      0·154   4·53      0·690   0·154    4·48
+     2 years    0·791      0·173   4·57      0·781   0·172    4·54
+     3 years    0·864      0·182   4·74      0·854   0·180    4·74
+     5 years    0·987      0·192   5·14      0·974   0·188    5·18
+    10 years    1·273      0·205   6·21      1·249   0·201    6·21
+    15 years    1·513      0·215   7·04      1·488   0·213    6·99
+    20 years    1·669      0·227   7·35      1·574   0·220    7·15
+    30 years    1·686      0·228   7·39      1·580   0·221    7·15
+    40 years    1·686      0·228   7·39      1·580   0·221    7·15
+
+† A smooth curve, very similar to this, for the growth in “auricular height” of the girl’s head, is given by Pearson, in *Biometrika*, III, p. 141. 1904.
+
+As regards external form, very similar differences exist, which however we must express in terms not of weight but of length. Thus the annexed table shews the changing ratios of the vertical length of the head to the entire stature; and while this ratio constantly diminishes, it will be seen that the rate of change is greatest (or the coefficient of acceleration highest) between the ages of about two and five years.
+
+In one of Quetelet’s tables (\ *supra*, p. 63), he gives measurements of the total span of the outstretched arms in man, from year to year, compared with the vertical stature. The two measurements are so nearly identical in actual magnitude that a direct comparison by means of curves becomes unsatisfactory; but I have reduced Quetelet’s data to percentages, and it will be seen from Fig. 19 that the percentage proportion of span to height undergoes a remarkable and steady change from birth to the age of twenty years; the man grows more rapidly in stretch of arms than he does in height, and the span which was less than [p. 94] the stature at birth by about 1 per cent. exceeds it at the age of twenty by about 4 per cent. After the age of twenty, Quetelet’s data are few and irregular, but it is clear that the span goes on for a long while increasing in proportion to the stature. How far the phenomenon is due to actual growth of the arms and how far to the increasing breadth of the chest is not yet ascertained.
+
+[Illustration: Fig. 19. Ratio of stature in Man, to span of outstretched arms.
+
+(From Quetelet’s data.)]
+
+The differences of rate of growth in different parts of the body are very simply brought out by the following table, which shews the relative growth of certain parts and organs of a young trout, at intervals of a few days during the period of most rapid development. It would not be difficult, from a picture of the little trout at any one of these stages, to draw its approximate form at any other, by the help of the numerical data here set forth [#fn126]_. [p. 95]
+
+| *Trout (Salmo fario): proportionate growth of various organs.*
+
+| (\ *From Jenkinson’s data.*)
+
+::
+
+    Days  Total                  1st     Ventral   2nd              Breadth
+    old   length   Eye   Head   dorsal     fin    dorsal  Tail-fin  of tail
+     49   100     100    100     100      100     100      100       100
+     63   129·9   129·4  148·3   148·6    148·5   108·4    173·8     155·9
+     77   154·9   147·3  189·2  (203·6)  (193·6)  139·2    257·9     220·4
+     92   173·4   179·4  220·0  (193·2)  (182·1)  154·5    307·6     272·2
+    106   194·6   192·5  242·5   173·2    165·3   173·4    337·3     287·7
+
+While it is inequality of growth in *different* directions that we can most easily comprehend as a phenomenon leading to gradual change of outward form, we shall see in another chapter [#fn127]_ that differences of rate at different parts of a longitudinal system, though always in the same direction, also lead to very notable and regular transformations. Of this phenomenon, the difference in rate of longitudinal growth between head and body is a simple case, and the difference which accompanies and results from it in the bodily form of the child and the man is easy to see. A like phenomenon has been studied in much greater detail in the case of plants, by Sachs and certain other botanists, after a method in use by Stephen Hales a hundred and fifty years before [#fn128]_.
+
+On the growing root of a bean, ten narrow zones were marked off, starting from the apex, each zone a millimetre in breadth. After twenty-four hours’ growth, at a certain constant temperature, the whole marked portion had grown from 10 mm. to 33 mm. in length; but the individual zones had grown at very unequal rates, as shewn in the annexed table [#fn129]_.
+
+::
+
+    Zone    Increment
+               mm.
+    Apex       1·5
+     2nd       5·8
+     3rd       8·2
+     4th       3·5
+     5th       1·6
+     6th       1·3
+     7th       0·5
+     8th       0·3
+     9th       0·2
+    10th       0·1
+
+.. folio:: p. 96
+   :page: 96
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 20. Rate of growth in successive zones near the tip of the bean-root.
+
+The several values in this table lie very nearly (as we see by Fig. 20) in a smooth curve; in other words a definite law, or principle of continuity, connects the rates of growth at successive points along the growing axis of the root. Moreover this curve, in its general features, is singularly like those acceleration-curves which we have already studied, in which we plotted the rate of growth against successive intervals of time, as here we have plotted it against successive spatial intervals of an actual growing structure. If we suppose for a moment that the velocities of growth had been transverse to the axis, instead of, as in this case, longitudinal and parallel with it, it is obvious that these same velocities would have given us a leaf-shaped structure, of which our curve in Fig. 20 (if drawn to a suitable scale) would represent the actual outline on either side of the median axis; or, again, if growth had been not confined to one plane but symmetrical about the axis, we should have had a sort of turnip-shaped root, [p. 97] having the form of a surface of revolution generated by the same curve. This then is a simple and not unimportant illustration of the direct and easy passage from velocity to form.
+
+A kindred problem occurs when, instead of “zones” artificially marked out in a stem, we deal with the rates of growth in successive actual “internodes”; and an interesting variation of this problem occurs when we consider, not the actual growth of the internodes, but the varying number of leaves which they successively produce. Where we have whorls of leaves at each node, as in Equisetum and in many water-weeds, then the problem presents itself in a simple form, and in one such case, namely in Ceratophyllum, it has been carefully investigated by Mr Raymond Pearl [#fn130]_.
+
+It is found that the mean number of leaves per whorl increases with each successive whorl; but that the rate of increment diminishes from whorl to whorl, as we ascend the axis. In other words, the increase in the number of leaves per whorl follows a logarithmic ratio; and if *y* be the mean number of leaves per whorl, and *x* the successional number of the whorl from the root or main stem upwards, then
+
+| *y* = *A* + *C* log(\ *x* − *a*),
+
+where *A*, *C*, and *a* are certain specific constants, varying with the part of the plant which we happen to be considering. On the main stem, the rate of change in the number of leaves per whorl is very slow; when we come to the small twigs, or “tertiary branches,” it has become rapid, as we see from the following abbreviated table:
+
+| *Number of leaves per whorl on the tertiary branches of Ceratophyllum.*
+
+::
+
+    Position of whorl       1     2     3     4     5      6
+    Mean number of leaves  6·55  8·07  9·00  9·20  9·75  10·00
+    Increment               —    1·52   ·93   ·20  (·55)  (·25)
+
+We have seen that a slow but definite change of form is a common accompaniment of increasing age, and is brought about as the simple and natural result of an altered ratio between the rates of growth in different dimensions: or rather by the progressive change necessarily brought about by the difference in their accelerations. There are many cases however in which the change is all but imperceptible to ordinary measurement, and many others in which some one dimension is easily measured, but others are hard to measure with corresponding accuracy. [p. 98] For instance, in any ordinary fish, such as a plaice or a haddock, the length is not difficult to measure, but measurements of breadth or depth are very much more uncertain. In cases such as these, while it remains difficult to define the precise nature of the change of form, it is easy to shew that such a change is taking place if we make use of that ratio of length to weight which we have spoken of in the preceding chapter. Assuming, as we may fairly do, that weight is directly proportional to bulk or volume, we may express this relation in the form *W*\ /\ *L*\ :sup:`3` = *k*, where *k* is a constant, to be determined for each particular case. (\ *W* and *L* are expressed in grammes and centimetres, and it is usual to multiply the result by some figure, such as 1000, so as to give the constant *k* a value near to unity.)
+
+*Plaice caught in a certain area, March, 1907. Variation of k (the weight-length coefficient) with size. (Data taken from the Department of Agriculture and Fisheries’ Plaice-Report, vol.* I, *p.* 107, 1908.)
+
+::
+
+    Size in cm.  Weight in gm.  W/L^3 × 10,000  W/L^3 (smoothed)
+        23            113              92·8                   —
+        24            128              92·6                  94·3
+        25            152              97·3                  96·1
+        26            173              98·4                  97·9
+        27            193              98·1                  99·0
+        28            221             100·6                 100·4
+        29            250             102·5                 101·2
+        30            271             100·4                 101·2
+        31            300             100·7                 100·4
+        32            328             100·1                  99·8
+        33            354              98·5                  98·8
+        34            384              97·7                  98·0
+        35            419              97·7                  97·6
+        36            454              97·3                  96·7
+        37            492              95·2                  96·3
+        38            529              96·4                  95·6
+        39            564              95·1                  95·0
+        40            614              95·9                  95·0
+        41            647              93·9                  93·8
+        42            679              91·6                  92·5
+        43            732              92·1                  92·5
+        44            800              93·9                  94·0
+        45            875              96·0                   —
+
+.. folio:: p. 99
+   :page: 99
+
+Now while this *k* may be spoken of as a “constant,” having a certain mean value specific to each species of organism, and depending on the form of the organism, any change to which it may be subject will be a very delicate index of progressive changes of form; for we know that our measurements of length are, on the average, very accurate, and weighing is a still more delicate method of comparison than any linear measurement.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 21. Changes in the weight-length ratio of Plaice, with increasing size.
+
+Thus, in the case of plaice, when we deal with the mean values for a large number of specimens, and when we are careful to deal only with such as are caught in a particular locality and at a particular time, we see that *k* is by no means constant, but steadily increases to a maximum, and afterwards slowly declines with the increasing size of the fish (Fig. 21). To begin with, therefore, the weight is increasing more rapidly than the cube of the length, and it follows that the length itself is increasing less rapidly than some other linear dimension; while in later life this condition is reversed. The maximum is reached when the length of the fish is somewhere near to 30 cm., and it is tempting to suppose that with this “point of inflection” there is associated some well-marked epoch in the fish’s life. As a matter of fact, the size of 30 cm. is approximately that at which sexual maturity may be said to begin, or is at least near enough to suggest a close connection between the two phenomena. The first step towards further investigation of the [p. 100] apparent coincidence would be to determine the coefficient *k* of the two sexes separately, and to discover whether or not the point of inflection is reached (or sexual maturity is reached) at a smaller size in the male than in the female plaice; but the material for this investigation is at present scanty.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 22. Periodic annual change in the weight-length ratio of Plaice.
+
+A still more curious and more unexpected result appears when we compare the values of *k* for the same fish at different seasons of the year [#fn131]_. When for simplicity’s sake (as in the accompanying table and Fig. 22) we restrict ourselves to fish of one particular size, it is not necessary to determine the value of *k*, because a change in the ratio of length to weight is obvious enough; but when we have small numbers, and various sizes, to deal with, the determination of *k* may help us very much. It will be seen, then, that in the case of plaice the ratio of weight to length exhibits a regular periodic variation with the course of the seasons. [p. 101]
+
+*Relation of Weight to Length in Plaice of 55 cm. long, from Month to Month. (Data taken from the Department of Agriculture and Fisheries Plaice-Report, vol.* II, *p.* 92, 1909.)
+
+::
+
+           Average weight
+             in grammes     W/L^3 × 100   W/L^3 (smoothed)
+    Jan.        2039              1·226              1·157
+    Feb.        1735              1·043              1·080
+    March       1616              0·971              0·989
+    April       1585              0·953              0·967
+    May         1624              0·976              0·985
+    June        1707              1·026              1·005
+    July        1686              1·013              1·037
+    August      1783              1·072              1·042
+    Sept.       1733              1·042              1·111
+    Oct.        2029              1·220              1·160
+    Nov.        2026              1·218              1·213
+    Dec.        1998              1·201              1·215
+
+With unchanging length, the weight and therefore the bulk of the fish falls off from about November to March or April, and again between May or June and November the bulk and weight are gradually restored. The explanation is simple, and depends wholly on the process of spawning, and on the subsequent building up again of the tissues and the reproductive organs. It follows that, by this method, without ever seeing a fish spawn, and without ever dissecting one to see the state of its reproductive system, we can ascertain its spawning season, and determine the beginning and end thereof, with great accuracy.
+
+----
+
+As a final illustration of the rate of growth, and of unequal growth in various directions, I give the following table of data regarding the ox, extending over the first three years, or nearly so, of the animal’s life. The observed data are (1) the weight of the animal, month by month, (2) the length of the back, from the occiput to the root of the tail, and (3) the height to the withers. To these data I have added (1) the ratio of length to height, (2) the coefficient (\ *k*) expressing the ratio of weight to the cube of the length, and (3) a similar coefficient (\ *k′*) for the height of the animal. It will be seen that, while all these ratios tend to alter continuously, shewing that the animal’s form is steadily altering as it approaches maturity, the ratio between length and weight [p. 102] changes comparatively little. The simple ratio between length and height increases considerably, as indeed we should expect; for we know that in all Ungulate animals the legs are remarkably
+
+| \_Relations between the Weight and certain Linear Dimensions of the Ox.
+| (Data from Przibram, after Cornevin†.)\_
+
+::
+
+                                                                k =        k′ =
+    Age in   W, wt.  L, length     H,                  W/L^3    W/H^3
+    months    in kg.     of back     height      L/H       × 10           × 10
+      0        37          ·78         ·70        1·114        ·779          1·079
+      1        55·3        ·94         ·77        1·221        ·665          1·210
+      2        86·3       1·09         ·85        1·282        ·666          1·406
+      3       121·3       1·207        ·94        1·284        ·690          1·460
+      4       150·3       1·314        ·95        1·383        ·662          1·754
+      5       179·3       1·404       1·040       1·350        ·649          1·600
+      6       210·3       1·484       1·087       1·365        ·644          1·638
+      7       247·3       1·524       1·122       1·358        ·699          1·751
+      8       267·3       1·581       1·147       1·378        ·677          1·791
+      9       282·8       1·621       1·162       1·395        ·664          1·802
+     10       303·7       1·651       1·192       1·385        ·675          1·793
+     11       327·7       1·694       1·215       1·394        ·674          1·794
+     12       350·7       1·740       1·238       1·405        ·666          1·849
+     13       374·7       1·765       1·254       1·407        ·682          1·900
+     14       391·3       1·785       1·264       1·412        ·688          1·938
+     15       405·9       1·804       1·270       1·420        ·692          1·982
+     16       417·9       1·814       1·280       1·417        ·700          2·092
+     17       423·9       1·832       1·290       1·420        ·689          1·974
+     18       423·9       1·859       1·297       1·433        ·660          1·943
+     19       427·9       1·875       1·307       1·435        ·649          1·916
+     20       437·9       1·884       1·311       1·437        ·655          1·944
+     21       447·9       1·893       1·321       1·433        ·661          1·943
+     22       464·4       1·901       1·333       1·426        ·676          1·960
+     23       480·9       1·909       1·345       1·419        ·691          1·977
+     24       500·9       1·914       1·352       1·416        ·714          2·027
+     25       520·9       1·919       1·359       1·412        ·737          2·075
+     26       534·1       1·924       1·361       1·414        ·750          2·119
+     27       547·3       1·929       1·363       1·415        ·762          2·162
+     28       554·5       1·929       1·363       1·415        ·772          2·190
+     29       561·7       1·929       1·363       1·415        ·782          2·218
+     30       586·2       1·949       1·383       1·409        ·792          2·216
+     31       610·7       1·969       1·403       1·403        ·800          2·211
+     32       625·7       1·983       1·420       1·396        ·803          2·186
+     33       640·7       1·997       1·437       1·390        ·805          2·159
+     34       655·7       2·011       1·454       1·383        ·806          2·133
+
+| † Cornevin, Ch., Études sur la croissance, \_Arch. de
+| Physiol. norm. et pathol.\_ (5), IV, p. 477, 1892.
+
+.. folio:: p. 103
+   :page: 103
+
+long at birth in comparison with other dimensions of the body. It is somewhat curious, however, that this ratio seems to fall off a little in the third year of growth, the animal continuing to grow in height to a marked degree after growth in length has become very slow. The ratio between height and weight is by much the most variable of our three ratios; the coefficient *W*\ /\ *H*\ :sup:`3` steadily increases, and is more than twice as great at three years old as it was at birth. This illustrates the important, but obvious fact, that the coefficient *k* is most variable in the case of that dimension which grows most uniformly, that is to say most nearly in proportion to the general bulk of the animal. In short, the successive values of *k*, as determined (at successive epochs) for one dimension, are a measure of the *variability* of the others.
+
+----
+
+From the whole of the foregoing discussion we see that a certain definite rate of growth is a characteristic or specific phenomenon, deep-seated in the physiology of the organism; and that a very large part of the specific morphology of the organism depends upon the fact that there is not only an average, or aggregate, rate of growth common to the whole, but also a variation of rate in different parts of the organism, tending towards a specific rate characteristic of each different part or organ. The smallest change in the relative magnitudes of these partial or localised velocities of growth will be soon manifested in more and more striking differences of form. This is as much as to say that the time-element, which is implicit in the idea of growth, can never (or very seldom) be wholly neglected in our consideration of form [#fn132]_. It is scarcely necessary to enlarge here upon our statement, for not only is the truth of it self-evident, but it will find illustration again and again throughout this book. Nevertheless, let us go out of our way for a moment to consider it in reference to a particular case, and to enquire whether it helps to remove any of the difficulties which that case appears to present. [p. 104]
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 23. Variability of length of tail-forceps in a sample of Earwigs. (After Bateson, *P. Z. S.* 1892, p. 588.)
+
+In a very well-known paper, Bateson shewed that, among a large number of earwigs, collected in a particular locality, the males fell into two groups, characterised by large or by small tail-forceps, with very few instances of intermediate magnitude. This distribution into two groups, according to magnitude, is illustrated in the accompanying diagram (Fig. 23); and the phenomenon was described, and has been often quoted, as one of dimorphism, or discontinuous variation. In this diagram the time-element does not appear; but it is certain, and evident, that it lies close behind. Suppose we take some organism which is born not at all times of the year (as man is) but at some one particular season (for instance a fish), then any random sample will consist of individuals whose *ages*, and therefore whose *magnitudes*, will form a discontinuous series; and by plotting these magnitudes on a curve in relation to the number of individuals of each particular magnitude, we obtain a curve such as that shewn in Fig. 24, the first practical use of which is to enable us to analyse our sample into its constituent “age-groups,” or in other words to determine approximately the age, or ages of the fish. And if, instead of measuring the whole length of our fish, we had confined ourselves to particular parts, such as head, or [p. 105] tail or fin, we should have obtained discontinuous curves of distribution, precisely analogous to those for the entire animal. Now we know that the differences with which Bateson was dealing were entirely a question of magnitude, and we cannot help seeing that the discontinuous distributions of magnitude represented by his earwigs’ tails are just such as are illustrated by the magnitudes of the older and younger fish; we may indeed go so far as to say that the curves are precisely comparable, for in both cases we see a characteristic feature of detail, namely that the “spread” of the curve is greater in the second wave than in the first, that is to say (in the case of the fish) in the older as well as larger series. Over the reason for this phenomenon, which is simple and all but obvious, we need not pause.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 24. Variability of length of body in a sample of Plaice.
+
+It is evident, then, that in this case of “dimorphism,” the tails of the one group of earwigs (which Bateson calls the “high males”) have either grown *faster*, or have been growing for a longer period of time, than those of the “low males.” If we could be certain that the whole random sample of earwigs were of one and the same age, then we should have to refer the phenomenon of dimorphism to a physiological phenomenon, simple in kind (however remarkable and unexpected); viz. that there were two alternative [p. 106] values, very different from one another, for the mean velocity of growth, and that the individual earwigs varied around one or other of these mean values, in each case according to the law of probabilities. But on the other hand, if we could believe that the two groups of earwigs were *of different ages*, then the phenomenon would be simplicity itself, and there would be no more to be said about it [#fn133]_.
+
+----
+
+Before we pass from the subject of the relative rate of growth of different parts or organs, we may take brief note of the fact that various experiments have been made to determine whether the normal ratios are maintained under altered circumstances of nutrition, and especially in the case of partial starvation. For instance, it has been found possible to keep young rats alive for many weeks on a diet such as is just sufficient to maintain life without permitting any increase of weight. The rat of three weeks old weighs about 25 gms., and under a normal diet should weigh at ten weeks old about 150 gms., in the male, or 115 gms. in the female; but the underfed rat is still kept at ten weeks old to the weight of 25 gms. Under normal diet the proportions of the body change very considerably between the ages of three and ten weeks. For instance the tail gets relatively longer; and even when the *total* growth of the rat is prevented by underfeeding, the *form* continues to alter so that this increasing length of the tail is still manifest [#fn134]_. [p. 107]
+
+*Full-fed Rats.*
+
+::
+
+    Age in   Length of    Length of    Total
+    weeks    body (mm.)   tail (mm.)   length   % of tail
+      0         48·7        16·9        65·6      25·8
+      1         64·5        29·4        93·9      31·3
+      3         90·4        59·1       149·5      39·5
+      6        128·0       110·0       238·0      46·2
+     10        173·0       150·0       323·0      46·4
+
+| *Underfed Rats.*
+
+::
+
+     6         98·0        72·3      170·3      42·5
+    10         99·6        83·9      183·5      45·7
+
+Again as physiologists have long been aware, there is a marked difference in the variation of weight of the different organs, according to whether the animal’s total weight remain constant, or be caused to diminish by actual starvation; and further striking differences appear when the diet is not only scanty, but ill-balanced. But these phenomena of abnormal growth, however interesting from the physiological view, are of little practical importance to the morphologist.
+
+*The effect of temperature*.  [#fn135]_
+
+The rates of growth which we have hitherto dealt with are based on special investigations, conducted under particular local conditions. For instance, Quetelet’s data, so far as we have used them to illustrate the rate of growth in man, are drawn from his study of the population of Belgium. But apart from that “fortuitous” individual variation which we have already considered, it is obvious that the normal rate of growth will be found to vary, in man and in other animals, just as the average stature varies, in different localities, and in different “races.” This phenomenon is a very complex one, and is doubtless a resultant of many undefined contributory causes; but we at least gain something in regard to it, when we discover that the rate of growth is directly affected by temperature, and probably by other physical [p. 108] conditions. Réaumur was the first to shew, and the observation was repeated by Bonnet [#fn136]_, that the rate of growth or development of the chick was dependent on temperature, being retarded at temperatures below and somewhat accelerated at temperatures above the normal temperature of incubation, that is to say the temperature of the sitting hen. In the case of plants the fact that growth is greatly affected by temperature is a matter of familiar knowledge; the subject was first carefully studied by Alphonse De Candolle, and his results and those of his followers are discussed in the textbooks of Botany [#fn137]_.
+
+That variation of temperature constitutes only one factor in determining the rate of growth is admirably illustrated in the case of the Bamboo. It has been stated (by Lock) that in Ceylon the rate of growth of the Bamboo is directly proportional to the humidity of the atmosphere: and again (by Shibata) that in Japan it is directly proportional to the temperature. The two statements have been ingeniously and satisfactorily reconciled by Blackman [#fn138]_, who suggests that in Ceylon the temperature-conditions are all that can be desired, but moisture is apt to be deficient: while in Japan there is rain in abundance but the average temperature is somewhat too low. So that in the one country it is the one factor, and in the other country it is the other, which is *essentially* variable.
+
+The annexed diagram (Fig. 25), shewing the growth in length of the roots of some common plants during an identical period of forty-eight hours, at temperatures varying from about 14° to 37° C., is a sufficient illustration of the phenomenon. We see that in all cases there is a certain optimum temperature at which the rate of growth is a maximum, and we can also see that on either side of this optimum temperature the acceleration of growth, positive or negative, with increase of temperature is rapid, while at a distance from the optimum it is very slow. From the data given by Sachs and others, we see further that this optimum temperature is very much the same for all the common plants of our own climate which have as yet been studied; in them it is [p. 109] somewhere about 26° C. (or say 77° F.), or about the temperature of a warm summer’s day; while it is found, very naturally, to be considerably higher in the case of plants such as the melon or the maize, which are at home in warmer regions that our own.
+
+----
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 25. Relation of rate of growth to temperature in certain plants. (From Sachs’s data.)
+
+In a large number of physical phenomena, and in a very marked degree in all chemical reactions, it is found that rate of action is affected, and for the most part accelerated, by rise of temperature; and this effect of temperature tends to follow a definite “exponential” law, which holds good within a considerable range of temperature, but is altered or departed from when we pass beyond certain normal limits. The law, as laid down by van’t Hoff for chemical reactions, is, that for an interval of *n* degrees the velocity varies as *x*\ :sup:`n`, *x* being called the “temperature coefficient” [#fn139]_ for the reaction in question. [p. 110]
+
+Van’t Hoff’s law, which has become a fundamental principle of chemical mechanics, is likewise applicable (with certain qualifications) to the phenomena of vital chemistry; and it follows that, on very much the same lines, we may speak of the “temperature coefficient” of growth. At the same time we must remember that there is a very important difference (though we can scarcely call it a *fundamental* one) between the purely physical and the physiological phenomenon, in that in the former we study (or seek and profess to study) one thing at a time, while in the latter we have always to do with various factors which intersect and interfere; increase in the one case (or change of any kind) tends to be continuous, in the other case it tends to be brought to arrest. This is the simple meaning of that *Law of Optimum*, laid down by Errera and by Sachs as a general principle of physiology: namely that *every* physiological process which varies (like growth itself) with the amount or intensity of some external influence, does so according to a law in which progressive increase is followed by progressive decrease; in other words the function has its *optimum* condition, and its curve shews a definite *maximum*. In the case of temperature, as Jost puts it, it has on the one hand its accelerating effect which tends to follow van’t Hoff’s law. But it has also another and a cumulative effect upon the organism: “Sie schädigt oder sie ermüdet ihn, und je höher sie steigt, desto rascher macht sie die Schädigung geltend und desto schneller schreitet sie voran.” It would seem to be this double effect of temperature in the case of the organism which gives us our “optimum” curves, which are the expression, accordingly, not of a primary phenomenon, but of a more or less complex resultant. Moreover, as Blackman and others have pointed out, our “optimum” temperature is very ill-defined until we take account also of the *duration* of our experiment; for obviously, a high temperature may lead to a short, but exhausting, spell of rapid growth, while the slower rate manifested at a lower temperature may be the best in the end. [p. 111] The mile and the hundred yards are won by different runners; and maximum rate of working, and maximum amount of work done, are two very different things [#fn140]_.
+
+----
+
+In the case of maize, a certain series of experiments shewed that the growth in length of the roots varied with the temperature as follows [#fn141]_:
+
+::
+
+    Temperature   Growth in 48 hours
+        °C.              mm.
+       18·0             1·1
+       23·5             10·8
+       26·6             29·6
+       28·5             26·5
+       30·2             64·6
+       33·5             69·5
+       36·5             20·7
+
+Let us write our formula in the form
+
+| *V*\ :sub:`(t+n)`\ /\ *V*\ :sub:`t` = *x*\ :sup:`n`.
+
+Then choosing two values out of the above experimental series (say the second and the second-last), we have *t* = 23·5, *n* = 10, and *V*, *V′* = 10·8 and 69·5 respectively.
+
+Accordingly 69·5/10·8 = 6·4 = *x*\ :sup:`10`.
+
+Therefore (log 6·4)/10, or ·0806 = log *x*.
+
+And, *x* = 1·204 (for an interval of 1° C.).
+
+This first approximation might be considerably improved by taking account of all the experimental values, two only of which we have as yet made use of; but even as it is, we see by Fig. 26 that it is in very fair accordance with the actual results of observation, *within those particular limits* of temperature to which the experiment is confined. [p. 112]
+
+For an experiment on *Lupinus albus*, quoted by Asa Gray [#fn142]_, I have worked out the corresponding coefficient, but a little more carefully. Its value I find to be 1·16, or very nearly identical with that we have just found for the maize; and the correspondence between the calculated curve and the actual observations is now a close one.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 26. Relation of rate of growth to temperature in Maize. Observed values (after Köppen), and calculated curve.
+
+Since the above paragraphs were written, new data have come to hand. Miss I. Leitch has made careful observations of the rate of growth of rootlets of the Pea; and I have attempted a further analysis of her principal results [#fn143]_. In Fig. 27 are shewn the mean rates of growth (based on about a hundred experiments) at some thirty-four different temperatures between 0·8° and 29·3°, each experiment lasting rather less than twenty-four hours. Working out the mean temperature coefficient for a great many combinations of these values, I obtain a value of 1·092 per C.°, or 2·41 for an interval of 10°, and a mean value for the whole series showing a rate of growth of just about 1 mm. per hour at a temperature of 20°. My curve in Fig. 27 is drawn from these determinations; and it will be seen that, while it is by no means exact at the lower temperatures, and will of course fail us altogether at very high [p. 113] temperatures, yet it serves as a very satisfactory guide to the relations between rate and temperature within the ordinary limits of healthy growth. Miss Leitch holds that the curve is *not* a van’t Hoff curve; and this, in strict accuracy, we need not dispute. But the phenomenon seems to me to be one into which the van’t Hoff ratio enters largely, though doubtless combined with other factors which we cannot at present determine or eliminate.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 27. Relation of rate of growth to temperature in rootlets of Pea. (From Miss I. Leitch’s data.)
+
+While the above results conform fairly well to the law of the temperature coefficient, it is evident that the imbibition of water plays so large a part in the process of elongation of the root or stem that the phenomenon is rather a physical than a chemical one: and on this account, as Blackman has remarked, the data commonly given for the rate of growth in plants are apt to be [p. 114] irregular, and sometimes (we might even say) misleading [#fn144]_. The fact also, which we have already learned, that the elongation of a shoot tends to proceed by jerks, rather than smoothly, is another indication that the phenomenon is not purely and simply a chemical one. We have abundant illustrations, however, among animals, in which we may study the temperature coefficient under circumstances where, though the phenomenon is always complicated by osmotic factors, true metabolic growth or chemical combination plays a larger role. Thus Mlle. Maltaux and Professor Massart [#fn145]_ have studied the rate of division in a certain flagellate, *Chilomonas paramoecium*, and found the process to take 29 minutes at 15° C., 12 at 25°, and only 5 minutes at 35° C. These velocities are in the ratio of 1 : 2·4 : 5·76, which ratio corresponds precisely to a temperature coefficient of 2·4 for each rise of 10°, or about 1·092 for each degree centigrade.
+
+By means of this principle we may throw light on the apparently complicated results of many experiments. For instance, Fig. 28 is an illustration, which has been often copied, of O. Hertwig’s work on the effect of temperature on the rate of development of the tadpole [#fn146]_.
+
+From inspection of this diagram, we see that the time taken to attain certain stages of development (denoted by the numbers III–VII) was as follows, at 20° and at 10° C., respectively.
+
+::
+
+               At 20°    At 10°
+    Stage III   2·0     6·5 days
+    Stage  IV   2·7     8·1 days
+    Stage   V   3·0    10·7 days
+    Stage  VI   4·0    13·5 days
+    Stage VII   5·0    16·8 days
+    Total      16·7    55·6 days
+
+That is to say, the time taken to produce a given result at [p. 115] 10° was (on the average) somewhere about 55·6/16·7, or 3·33, times as long as was required at 20°.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 28. Diagram shewing time taken (in days), at various temperatures (°C.), to reach certain stages of development in the Frog: viz. I, gastrula; II, medullary plate; III, closure of medullary folds; IV, tail-bud; V, tail and gills; VI, tail-fin; VII, operculum beginning; VIII, do. closing; IX, first appearance of hind-legs. (From Jenkinson, after O. Hertwig, 1898.)
+
+We may then put our equation again in the simple form, [p. 116]
+
+| *x*\ :sup:`10` = 3·33.
+
+| Or, 10 log *x* = log 3·33 = ·52244.
+
+| Therefore log *x* = ·05224,
+
+| and       *x* = 1·128.
+
+That is to say, between the intervals of 10° and 20° C., if it take *m* days, at a certain given temperature, for a certain stage of development to be attained, it will take *m* × 1·128\ :sup:`n` days, when the temperature is *n* degrees less, for the same stage to be arrived at.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 29. Calculated values, corresponding to preceding figure.
+
+Fig. 29 is calculated throughout from this value; and it will be seen that it is extremely concordant with the original diagram, as regards all the stages of development and the whole range of temperatures shewn: in spite of the fact that the coefficient on which it is based was derived by an easy method from a very few points in the original curves. [p. 117]
+
+Karl Peter [#fn147]_, experimenting chiefly on echinoderm eggs, and also making use of Hertwig’s experiments on young tadpoles, gives the normal temperature coefficients for intervals of 10° C. (commonly written *Q*\ :sub:`10`) as follows.
+
+::
+
+    Sphaerechinus      2·15,
+    Echinus            2·13,
+    Rana               2·86.
+
+These values are not only concordant, but are evidently of the same order of magnitude as the temperature-coefficient in ordinary chemical reactions. Peter has also discovered the very interesting fact that the temperature-coefficient alters with age, usually but not always becoming smaller as age increases.
+
+::
+
+    Sphaerechinus;  Segmentation    Q^{10} = 2·29,
+                    Later stages    Q^{10} = 2·03.
+    Echinus;        Segmentation    Q^{10} = 2·30,
+                    Later stages    Q^{10} = 2·08.
+    Rana;           Segmentation    Q^{10} = 2·23,
+                    Later stages    Q^{10} = 3·34.
+
+Furthermore, the temperature coefficient varies with the temperature, diminishing as the temperature rises,—a rule which van’t Hoff has shewn to hold in ordinary chemical operations. Thus, in Rana the temperature coefficient at low temperatures may be as high as 5·6: which is just another way of saying that at low temperatures development is exceptionally retarded.
+
+----
+
+In certain fish, such as plaice and haddock, I and others have found clear evidence that the ascending curve of growth is subject to seasonal interruptions, the rate during the winter months being always slower than in the months of summer: it is as though we superimposed a periodic, annual, sine-curve upon the continuous curve of growth. And further, as growth itself grows less and less from year to year, so will the difference between the winter and the summer rate also grow less and less. The fluctuation in rate [p. 118] will represent a vibration which is gradually dying out; the amplitude of the sine-curve will gradually diminish till it disappears; in short, our phenomenon is simply expressed by what is known as a “damped sine-curve.” Exactly the same thing occurs in man, though neither in his case nor in that of the fish have we sufficient data for its complete illustration.
+
+We can demonstrate the fact, however, in the case of man by the help of certain very interesting measurements which have been recorded by Daffner [#fn148]_, of the height of German cadets, measured at half-yearly intervals.
+
+| *Growth in height of German military Cadets, in half-yearly periods.*
+| (\ *Daffner.*)
+
+::
+
+                         Height in cent.          Increment in cm.
+     Number          ───────────────────────    Winter    Summer
+    observed   Age   October  April  October    ½-year   ½-year   Year
+       12     11–12   139·4   141·0   143·3      1·6       2·3     3·9
+       80     12–13   143·0   144·5   147·4      1·5       2·9     4·4
+      146     13–14   147·5   149·5   152·5      2·0       3·0     5·0
+      162     14–15   152·2   155·0   158·5      2·5       3·5     6·0
+      162     15–16   158·5   160·8   163·8      2·3       3·0     5·3
+      150     16–17   163·5   165·4   167·7      1·9       2·3     4·2
+       82     17–18   167·7   168·9   170·4      1·2       1·5     2·7
+       22     18–19   169·8   170·6   171·5      0·8       0·9     1·7
+        6     19–20   170·7   171·1   171·5      0·4       0·4     0·8
+
+In the accompanying diagram (Fig. 30) the half-yearly increments are set forth, from the above table, and it will be seen that they form two even and entirely separate series. The curve joining up each series of points is an acceleration-curve; and the comparison of the two curves gives a clear view of the relative rates of growth during winter and summer, and the fluctuation which these velocities undergo during the years in question. The dotted line represents, approximately, the acceleration-curve in its continuous fluctuation of alternate seasonal decrease and increase.
+
+----
+
+In the case of trees, the seasonal fluctuations of growth [#fn149]_ admit [p. 119] of easy determination, and it is a point of considerable interest to compare the phenomenon in evergreen and in deciduous trees. I happen to have no measurements at hand with which to make this comparison in the case of our native trees, but from a paper by Mr Charles E. Hall [#fn150]_ I have compiled certain mean values for growth in the climate of Uruguay.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 30. Half-yearly increments of growth, in cadets of various ages. (From Daffner’s data.)
+
+*Mean monthly increase in Girth of Evergreen and Deciduous Trees, at San Jorge, Uruguay.* (\ *After C. E. Hall.*) *Values expressed as percentages of total annual increase.*
+
+::
+
+                Jan.  Feb.  Mar.  Apr.  May  June July  Aug.  Sept.  Oct.  Nov.  Dec.
+    Evergreens   9·1   8·8   8·6   8·9  7·7   5·4  4·3   6·0   9·1   11·1  10·8  10·2
+
+::
+
+    Deciduous
+      trees     20·3  14·6   9·0   2·3  0·8   0·3   0·7  1·3   3·5    9·9  16·7  21·0
+
+The measurements taken were those of the girth of the tree, in mm., at three feet from the ground. The evergreens included species of Pinus, Eucalyptus and Acacia; the deciduous trees included Quercus, Populus, Robinia and Melia. I have merely taken mean values for these two groups, and expressed the monthly values as percentages of the mean annual increase. The result (as shewn by Fig. 31) is very much what we might have expected. The growth of the deciduous trees is completely arrested in winter-time, and the arrest is all but complete over [p. 120] a considerable period of time; moreover, during the warm season, the monthly values are regularly graded (approximately in a sine-curve) with a clear maximum (in the southern hemisphere) about the month of December. In the evergreen trees, on the other hand, the amplitude of the periodic wave is very much less; there is a notable amount of growth all the year round, and, while there is a marked diminution in rate during the coldest months, there is a tendency towards equality over a considerable part of the warmer season. It is probable that some of the species examined, and especially the pines, were definitely retarded in growth, either by a temperature above their optimum, or by deficiency of moisture, during the hottest period of the year; with the result that the seasonal curve in our diagram has (as it were) its region of maximum cut off.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 31. Periodic annual fluctuation in rate of growth of trees (in the southern hemisphere).
+
+In the case of trees, the seasonal periodicity of growth is so well marked that we are entitled to make use of the phenomenon in a converse way, and to draw deductions as to variations in [p. 121] climate during past years from the record of varying rates of growth which the tree, by the thickness of its annual rings, has preserved for us. Mr. A. E. Douglass, of the University of Arizona, has made a careful study of this question [#fn151]_, and I have received (through Professor H. H. Turner of Oxford) some measurements of the average width of the successive annual rings in “yellow pine,” 500 years old, from Arizona, in which trees the annual rings are very clearly distinguished. From the year 1391 to 1518, the mean of two trees was used; from 1519 to 1912, the mean of five; and the means of these, and sometimes of larger numbers, were found to be very concordant. A correction was applied by drawing a long, nearly straight line through the curve for the whole period, which line was assumed to represent the slowly diminishing mean width of ring accompanying the increase of size, or age, of the tree; and the actual growth as measured was equated with this diminishing mean. The figures used give, accordingly, the ratio of the actual growth in each year to the mean growth corresponding to the age or magnitude of the tree at that epoch.
+
+It was at once manifest that the rate of growth so determined shewed a tendency to fluctuate in a long period of between 100 and 200 years. I then smoothed in groups of 100 (according to Gauss’s method) the yearly values, so that each number thus found represented the mean annual increase during a century: that is to say, the value ascribed to the year 1500 represented the *average annual growth* during the whole period between 1450 and 1550, and so on. These values give us a curve of beautiful and surprising smoothness, from which we seem compelled to draw the direct conclusion that the climate of Arizona, during the last 500 years, has fluctuated with a regular periodicity of almost precisely 150 years. Here again we should be left in doubt (so far as these [p. 123] observations go) whether the essential factor be a fluctuation of temperature or an alternation of moisture and aridity; but the character of the Arizona climate, and the known facts of recent years, encourage the belief that the latter is the more direct and more important factor.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 32. Long-period fluctuation in rate of growth of Arizona trees (smoothed in 100-year periods), from A.D. 1390–1490 to A.D. 1810–1910.
+
+It has been often remarked that our common European trees, such for instance as the elm or the cherry, tend to have larger leaves the further north we go; but in this case the phenomenon is to be ascribed rather to the longer hours of daylight than to any difference of temperature [#fn152]_. The point is a physiological one, and consequently of little importance to us here [#fn153]_; the main point for the morphologist is the very simple one that physical or climatic conditions have greatly influenced the rate of growth. The case is analogous to the direct influence of temperature in modifying the colouration of organisms, such as certain butterflies. Now if temperature affects the rate of growth in strict uniformity, alike in all directions and in all parts or organs, its direct effect must be limited to the production of local races or varieties differing from one another in actual magnitude, as the Siberian goldfinch or bullfinch, for instance, differ from our own. But if there be even ever so little of a discriminating action in the enhancement of growth by temperature, such that it accelerates the growth of one tissue or one organ more than another, then it is evident that it must at once lead to an actual difference of racial, or even “specific” form.
+
+It is not to be doubted that the various factors of climate have some such discriminating influence. The leaves of our northern trees may themselves be an instance of it; and we have, [p. 124] probably, a still better instance of it in the case of Alpine plants [#fn154]_, whose general habit is dwarfed, though their floral organs suffer little or no reduction. The subject, however, has been little investigated, and great as its theoretic importance would be to us, we must meanwhile leave it alone.
+
+*Osmotic factors in growth.*
+
+The curves of growth which we have now been studying represent phenomena which have at least a two-fold interest, morphological and physiological. To the morphologist, who recognises that form is a “function” of growth, the important facts are mainly these: (1) that the rate of growth is an orderly phenomenon, with general features common to very various organisms, while each particular organism has its own characteristic phenomena, or “specific constants”; (2) that rate of growth varies with temperature, that is to say with season and with climate, and with various other physical factors, external and internal; (3) that it varies in different parts of the body, and according to various directions or axes; such variations being definitely correlated with one another, and thus giving rise to the characteristic proportions, or form, of the organism, and to the changes in form which it undergoes in the course of its development. But to the physiologist, the phenomenon suggests many other important considerations, and throws much light on the very nature of growth itself, as a manifestation of chemical and physical energies.
+
+To be content to shew that a certain rate of growth occurs in a certain organism under certain conditions, or to speak of the phenomenon as a “reaction” of the living organism to its environment or to certain stimuli, would be but an example of that “lack of particularity [#fn155]_” in regard to the actual mechanism of physical cause and effect with which we are apt in biology to be too easily satisfied. But in the case of rate of growth we pass somewhat [p. 125] beyond these limitations; for the affinity with certain types of chemical reaction is plain, and has been recognised by a great number of physiologists.
+
+A large part of the phenomenon of growth, both in animals and still more conspicuously in plants, is associated with “turgor,” that is to say, is dependent on osmotic conditions; in other words, the velocity of growth depends in great measure (as we have already seen, p. 113) on the amount of water taken up into the living cells, as well as on the actual amount of chemical metabolism performed by them [#fn156]_. Of the chemical phenomena which result in the actual increase of protoplasm we shall speak presently, but the rôle of water in growth deserves also a passing word, even in our morphological enquiry.
+
+It has been shewn by Loeb that in Cerianthus or Tubularia, for instance, the cells in order to grow must be turgescent; and this turgescence is only possible so long as the salt water in which the cells lie does not overstep a certain limit of concentration. The limit, in the case of Tubularia, is passed when the salt amounts to about 5·4 per cent. Sea-water contains some 3·0 to 3·5 p.c. of salts; but it is when the salinity falls much below this normal, to about 2·2 p.c., that Tubularia exhibits its maximal turgescence, and maximal growth. A further dilution is said to act as a poison to the animal. Loeb has also shewn [#fn157]_ that in certain eggs (e.g. those of the little fish *Fundulus*) an increasing concentration of the sea-water (leading to a diminishing “water-content” of the egg) retards the rate of segmentation and at length renders segmentation impossible; though nuclear division, by the way, goes on for some time longer.
+
+Among many other observations of the same kind, those of Bialaszewicz [#fn158]_, on the early growth of the frog, are notable. He shews that the growth of the embryo while still *within the [p. 126] vitelline membrane* depends wholly on the absorption of water; that whether rate of growth be fast or slow (in accordance with temperature) the quantity of water absorbed is constant; and that successive changes of form correspond to definite quantities of water absorbed. The solid residue, as Davenport has also shewn, may actually and notably diminish, while the embryo organism is increasing rapidly in bulk and weight.
+
+On the other hand, in later stages and especially in the higher animals, the percentage of water tends to diminish. This has been shewn by Davenport in the frog, by Potts in the chick, and particularly by Fehling in the case of man [#fn159]_. Fehling’s results are epitomised as follows:
+
+::
+
+    Age in weeks          6    17   22   24   26   30   35   39
+    Percentage of water  97·5 91·8 92·0 89·9 86·4 83·7 82·9 74·2
+
+| And the following illustrate Davenport’s results for the frog:
+
+::
+
+    Age in weeks         1    2    5    7    9    14    41    84
+    Percentage of water 56·3 58·5 76·7 89·3 93·1 95·0  90·2  87·5
+
+To such phenomena of osmotic balance as the above, or in other words to the dependence of growth on the uptake of water, Höber [#fn160]_ and also Loeb are inclined to refer the modifications of form which certain phyllopod crustacea undergo, when the highly saline waters which they inhabit are further concentrated, or are abnormally diluted. Their growth, according to Schmankewitsch, is retarded by increase of concentration, so that the individuals from the more saline waters appear stunted and dwarfish; and they become altered or transformed in other ways, which for the most part suggest “degeneration,” or a failure to attain full and perfect development [#fn161]_. Important physiological changes also ensue. The rate of multiplication is increased, and parthenogenetic reproduction is encouraged. Male individuals become plentiful in the less saline waters, and here the females bring forth [p. 127] their young alive; males disappear altogether in the more concentrated brines, and then the females lay eggs, which, however, only begin to develop when the salinity is somewhat reduced.
+
+The best-known case is the little “brine-shrimp,” *Artemia salina*, found, in one form or another, all the world over, and first discovered more than a century and a half ago in the salt-pans at Lymington. Among many allied forms, one, *A. milhausenii*, inhabits the natron-lakes of Egypt and Arabia, where, under the name of “loul,” or “Fezzan-worm,” it is eaten by the Arabs [#fn162]_. This fact is interesting, because it indicates (and investigation has apparently confirmed) that the tissues of the creature are not impregnated with salt, as is the medium in which it lives. The fluids of the body, the *milieu interne* (as Claude Bernard called them [#fn163]_), are no more salt than are those of any ordinary crustacean or other animal, but contain only some 0·8 per cent. of NaCl [#fn164]_, while the *milieu externe* may contain 10, 20, or more per cent. of this and other salts; which is as much as to say that the skin, or body-wall, of the creature acts as a “semi-permeable membrane,” through which the dissolved salts are not permitted to diffuse, though water passes through freely: until a statical equilibrium (doubtless of a complex kind) is at length attained.
+
+Among the structural changes which result from increased concentration of the brine (partly during the life-time of the individual, but more markedly during the short season which suffices for the development of three or four, or perhaps more, successive generations), it is found that the tail comes to bear fewer and fewer bristles, and the tail-fins themselves tend at last to disappear; these changes corresponding to what have been [p. 128] described as the specific characters of *A. milhausenii*, and of a still more extreme form, *A. köppeniana*; while on the other hand, progressive dilution of the water tends to precisely opposite conditions, resulting in forms which have also been described as separate species, and even referred to a separate genus, Callaonella, closely akin to Branchipus (Fig. 33). *Pari passu* with these changes, there is a marked change in the relative lengths of the fore and hind portions of the body, that is to say, of the “cephalothorax” and abdomen: the latter growing relatively longer, the salter the water. In other words, not only is the rate of growth of the whole
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 33. Brine-shrimps (Artemia), from more or less saline water. Upper figures shew tail-segment and tail-fins; lower figures, relative length of cephalothorax and abdomen. (After Abonyi.)
+
+animal lessened by the saline concentration, but the specific rates of growth in the parts of its body are relatively changed. This latter phenomenon lends itself to numerical statement, and Abonyi has lately shewn that we may construct a very regular curve, by plotting the proportionate length of the creature’s abdomen against the salinity, or density, of the water; and the several species of Artemia, with all their other correlated specific characters, are then found to occupy successive, more or less well-defined, and more or less extended, regions of the curve (Fig. 33). In short, the density of the water is so clearly a “function” of the specific [p. 129] character, that we may briefly define the species *Artemia* (\ *Callaonella*) *Jelskii*, for instance, as the Artemia of density 1000–1010 (NaCl), or the typical *A. salina*, or *principalis*, as the Artemia of density 1018–1025, and so forth. It is a most interesting fact that these Artemiae, under the protection of their semi-permeable skins, are capable of living in waters not only of great density, but of very varied chemical composition. The natron-lakes, for instance, contain large quantities of magnesium
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 34. Percentage ratio of length of abdomen to cephalothorax in brine-shrimps, at various salinities. (After Abonyi.)
+
+sulphate; and the Artemiae continue to live equally well in artificial solutions where this salt, or where calcium chloride, has largely taken the place of sodium chloride in the more common habitat. Furthermore, such waters as those of the natron-lakes are subject to very great changes of chemical composition as concentration proceeds, owing to the different solubilities of the constituent salts. It appears that the forms which the Artemiae assume, and the changes which they undergo, are identical or [p. 130] indistinguishable, whichever of the above salts happen to exist, or to predominate, in their saline habitat. At the same time we still lack (so far as I know) the simple, but crucial experiments which shall tell us whether, in solutions of different chemical composition, it is *at equal densities*, or at “\ *isotonic*” concentrations (that is to say, under conditions where the osmotic pressure, and consequently the rate of diffusion, is identical), that the same structural changes are produced, or corresponding phases of equilibrium attained.
+
+While Höber and others [#fn165]_ have referred all these phenomena to osmosis, Abonyi is inclined to believe that the viscosity, or mechanical resistance, of the fluid also reacts upon the organism; and other possible modes of operation have been suggested. But we may take it for certain that the phenomenon as a whole is not a simple one; and that it includes besides the passive phenomena of intermolecular diffusion, some other form of activity which plays the part of a regulatory mechanism [#fn166]_.
+
+*Growth and catalytic action.*
+
+In ordinary chemical reactions we have to deal (1) with a specific velocity proper to the particular reaction, (2) with variations due to temperature and other physical conditions, (3) according to van’t Hoff’s “Law of Mass,” with variations due to the actual quantities present of the reacting substances, and (4) in certain cases, with variations due to the presence of “catalysing agents.” In the simpler reactions, the law of mass involves a steady, gradual slowing-down of the process, according to a logarithmic ratio, as the reaction proceeds and as the initial amount of substance diminishes; a phenomenon, however, which need not necessarily [p. 131] occur in the organism, part of whose energies are devoted to the continual bringing-up of fresh supplies.
+
+Catalytic action occurs when some substance, often in very minute quantity, is present, and by its presence produces or accelerates an action, by opening “a way round,” without the catalytic agent itself being diminished or used up [#fn167]_. Here the velocity curve, though quickened, is not necessarily altered in form, for gradually the law of mass exerts its effect and the rate of the reaction gradually diminishes. But in certain cases we have the very remarkable phenomenon that a body acting as a catalyser is necessarily formed as a product, or bye-product, of the main reaction, and in such a case as this the reaction-velocity will tend to be steadily accelerated. Instead of dwindling away, the reaction will continue with an ever-increasing velocity: always subject to the reservation that limiting conditions will in time make themselves felt, such as a failure of some necessary ingredient, or a development of some substance which shall antagonise or finally destroy the original reaction. Such an action as this we have learned, from Ostwald, to describe as “autocatalysis.” Now we know that certain products of protoplasmic metabolism, such as the enzymes, are very powerful catalysers, and we are entitled to speak of an autocatalytic action on the part of protoplasm itself. This catalytic activity of protoplasm is a very important phenomenon. As Blackman says, in the address already quoted, the botanists (or the zoologists) “call it *growth*, attribute it to a specific power of protoplasm for assimilation, and leave it alone as a fundamental phenomenon; but they are much concerned as to the distribution of new growth in innumerable specifically distinct forms.” While the chemist, on the other hand, recognises it as a familiar phenomenon, and refers it to the same category as his other known examples of *autocatalysis*. [p. 132]
+
+This very important, and perhaps even fundamental phenomenon of growth would seem to have been first recognised by Professor Chodat of Geneva, as we are told by his pupil Monnier [#fn168]_. “On peut bien, ainsi que M. Chodat l’a proposé, considérer l’accroissement comme une réaction chimique complexe, dans laquelle le catalysateur est la cellule vivante, et les corps en présence sont l’eau, les sels, et l’acide carbonique.”
+
+Very soon afterwards a similar suggestion was made by Loeb [#fn169]_, in connection with the synthesis of *nuclein* or nuclear protoplasm; for he remarked that, as in an autocatalysed chemical reaction, the velocity of the synthesis increases during the initial stage of cell-division in proportion to the amount of nuclear matter already synthesised. In other words, one of the products of the reaction, i.e. one of the constituents of the nucleus, accelerates the production of nuclear from cytoplasmic material.
+
+The phenomenon of autocatalysis is by no means confined to living or protoplasmic chemistry, but at the same time it is characteristically, and apparently constantly, associated therewith. And it would seem that to it we may ascribe a considerable part of the difference between the growth of the organism and the simpler growth of the crystal [#fn170]_: the fact, for instance, that the cell can grow in a very low concentration of its nutritive solution, while the crystal grows only in a supersaturated one; and the fundamental fact that the nutritive solution need only contain the more or less raw materials of the complex constituents of the cell, while the crystal grows only in a solution of its own actual substance [#fn171]_.
+
+As F. F. Blackman has pointed out, the multiplication of an organism, for instance the prodigiously rapid increase of a bacterium, [p. 133] which tends to double its numbers every few minutes, till (were it not for limiting factors) its numbers would be all but incalculable in a day [#fn172]_, is a simple but most striking illustration of the potentialities of protoplasmic catalysis; and (apart from the large share taken by mere “turgescence” or imbibition of water) the same is true of the growth, or cell-multiplication, of a multicellular organism in its first stage of rapid acceleration.
+
+It is not necessary for us to pursue this subject much further, for it is sufficiently clear that the normal “curve of growth” of an organism, in all its general features, very closely resembles the velocity-curve of chemical autocatalysis. We see in it the first and most typical phase of greater and greater acceleration; this is followed by a phase in which limiting conditions (whose details are practically unknown) lead to a falling off of the former acceleration; and in most cases we come at length to a third phase, in which retardation of growth is succeeded by actual diminution of mass. Here we may recognise the influence of processes, or of products, which have become actually deleterious; their deleterious influence is staved off for a while, as the organism draws on its accumulated reserves, but they lead ere long to the stoppage of all activity, and to the physical phenomenon of death. But when we have once admitted that the limiting conditions of growth, which cause a phase of retardation to follow a phase of acceleration, are very imperfectly known, it is plain that, *ipso facto*, we must admit that a resemblance rather than an identity between this phenomenon and that of chemical autocatalysis is all that we can safely assert meanwhile. Indeed, as Enriques has shewn, points of contrast between the two phenomena are not lacking; for instance, as the chemical reaction draws to a close, it is by the gradual attainment of chemical equilibrium: but when organic growth draws to a close, it is by reason of a very different kind of equilibrium, due in the main to the gradual differentiation of the organism into parts, among whose peculiar [p. 134] and specialised functions that of cell-multiplication tends to fall into abeyance [#fn173]_.
+
+It would seem to follow, as a natural consequence, from what has been said, that we could without much difficulty reduce our curves of growth to logarithmic formulae [#fn174]_ akin to those which the physical chemist finds applicable to his autocatalytic reactions. This has been diligently attempted by various writers [#fn175]_; but the results, while not destructive of the hypothesis itself, are only partially successful. The difficulty arises mainly from the fact that, in the life-history of an organism, we have usually to deal (as indeed we have seen) with several recurrent periods of relative acceleration and retardation. It is easy to find a formula which shall satisfy the conditions during any one of these periodic phases, but it is very difficult to frame a comprehensive formula which shall apply to the entire period of growth, or to the whole duration of life.
+
+But if it be meanwhile impossible to formulate or to solve in precise mathematical terms the equation to the growth of an organism, we have yet gone a very long way towards the solution of such problems when we have found a “qualitative expression,” as Poincaré puts it; that is to say, when we have gained a fair approximate knowledge of the general curve which represents the unknown function.
+
+----
+
+As soon as we have touched on such matters as the chemical phenomenon of catalysis, we are on the threshold of a subject which, if we were able to pursue it, would soon lead us far into the special domain of physiology; and there it would be necessary to follow it if we were dealing with growth as a phenomenon in itself, instead of merely as a help to our study and comprehension of form. For instance the whole question of *diet*, of overfeeding and underfeeding, would present itself for discussion [#fn176]_. But without attempting to open up this large subject, we may say a [p. 135] further passing word upon the essential fact that certain chemical substances have the power of accelerating or of retarding, or in some way regulating, growth, and of so influencing directly the morphological features of the organism.
+
+Thus lecithin has been shewn by Hatai [#fn177]_, Danilewsky [#fn178]_ and others to have a remarkable power of stimulating growth in various animals; and the so-called “auximones,” which Professor Bottomley prepares by the action of bacteria upon peat appear to be, after a somewhat similar fashion, potent accelerators of the growth of plants. But by much the most interesting cases, from our point of view, are those where a particular substance appears to exert a differential effect, stimulating the growth of one part or organ of the body more than another.
+
+It has been known for a number of years that a diseased condition of the pituitary body accompanies the phenomenon known as “acromegaly,” in which the bones are variously enlarged or elongated, and which is more or less exemplified in every skeleton of a “giant”; while on the other hand, disease or extirpation of the thyroid causes an arrest of skeletal development, and, if it take place early, the subject remains a dwarf. These, then, are well-known illustrations of the regulation of function by some internal glandular secretion, some enzyme or “hormone” (as Bayliss and Starling call it), or “harmozone,” as Gley calls it in the particular case where the function regulated is that of growth, with its consequent influence on form.
+
+Among other illustrations (which are plentiful) we have, for instance the growth of the placental decidua, which Loeb has shewn to be due to a substance given off by the corpus luteum of the ovary, giving to the uterine tissues an abnormal capacity for growth, which in turn is called into action by the contact of the ovum, or even of any foreign body. And various sexual characters, such as the plumage, comb and spurs of the cock, are believed in like manner to arise in response to some particular internal secretion. When the source of such a secretion is removed by castration, well-known morphological changes take place in various animals; and when a converse change takes place, the female acquires, in greater or less degree, characters which are [p. 136] proper to the male, as in certain extreme cases, known from time immemorial, when late in life a hen assumes the plumage of the cock.
+
+There are some very remarkable experiments by Gudernatsch, in which he has shewn that by feeding tadpoles (whether of frogs or toads) on thyroid gland substance, their legs may be made to grow out at any time, days or weeks before the normal date of their appearance [#fn179]_. No other organic food was found to produce the same effect; but since the thyroid gland is known to contain iodine [#fn180]_, Morse experimented with this latter substance, and found that if the tadpoles were fed with iodised amino-acids the legs developed precociously, just as when the thyroid gland itself was used. We may take it, then, as an established fact, whose full extent and bearings are still awaiting investigation, that there exist substances both within and without the organism which have a marvellous power of accelerating growth, and of doing so in such a way as to affect not only the size but the form or proportions of the organism.
+
+----
+
+If we once admit, as we are now bound to do, the existence of such factors as these, which, by their physiological activity and apart from any direct action of the nervous system, tend towards the acceleration of growth and consequent modification of form, we are led into wide fields of speculation by an easy and a legitimate pathway. Professor Gley carries such speculations a long, long way: for he says [#fn181]_ that by these chemical influences “Toute une partie de la construction des êtres parait s’expliquer d’une façon toute mécanique. La forteresse, si longtemps inaccessible, du vitalisme est entamée. Car la notion morphogénique était, suivant le mot de Dastre [#fn182]_, comme ‘le dernier réduit de la force vitale.’ ”
+
+The physiological speculations we need not discuss: but, to take a single example from morphology, we begin to understand the possibility, and to comprehend the probable meaning, of the [p. 137] all but sudden appearance on the earth of such exaggerated and almost monstrous forms as those of the great secondary reptiles and the great tertiary mammals [#fn183]_. We begin to see that it is in order to account, not for the appearance, but for the disappearance of such forms as these that natural selection must be invoked. And we then, I think, draw near to the conclusion that what is true of these is universally true, and that the great function of natural selection is not to originate, but to remove: *donec ad interitum genus id natura redegit* [#fn184]_.
+
+The world of things living, like the world of things inanimate, grows of itself, and pursues its ceaseless course of creative evolution. It has room, wide but not unbounded, for variety of living form and structure, as these tend towards their seemingly endless, but yet strictly limited, possibilities of permutation and degree: it has room for the great and for the small, room for the weak and for the strong. Environment and circumstance do not always make a prison, wherein perforce the organism must either live or die; for the ways of life may be changed, and many a refuge found, before the sentence of unfitness is pronounced and the penalty of extermination paid. But there comes a time when “variation,” in form, dimensions, or other qualities of the organism, goes farther than is compatible with all the means at hand of health and welfare for the individual and the stock; when, under the active and creative stimulus of forces from within and from without, the active and creative energies of growth pass the bounds of physical and physiological equilibrium: and so reach the limits which, as again Lucretius tells us, natural law has set between what may and what may not be,
+
+| “et quid quaeque queant per foedera naturai
+| quid porro nequeant.”
+
+Then, at last, we are entitled to use the customary metaphor, and to see in natural selection an inexorable force, whose function [p. 138] is not to create but to destroy,—to weed, to prune, to cut down and to cast into the fire [#fn185]_.
+
+*Regeneration, or growth and repair.*
+
+The phenomenon of regeneration, or the restoration of lost or amputated parts, is a particular case of growth which deserves separate consideration. As we are all aware, this property is manifested in a high degree among invertebrates and many cold-blooded vertebrates, diminishing as we ascend the scale, until at length, in the warm-blooded animals, it lessens down to no more than that *vis medicatrix* which heals a wound. Ever since the days of Aristotle, and especially since the experiments of Trembley, Réaumur and Spallanzani in the middle of the eighteenth century, the physiologist and the psychologist have alike recognised that the phenomenon is both perplexing and important. The general phenomenon is amply discussed elsewhere, and we need only deal with it in its immediate relation to growth [#fn186]_.
+
+Regeneration, like growth in other cases, proceeds with a velocity which varies according to a definite law; the rate varies with the time, and we may study it as velocity and as acceleration.
+
+Let us take, as an instance, Miss M. L. Durbin’s measurements of the rate of regeneration of tadpoles’ tails: the rate being here measured in terms, not of mass, but of length, or longitudinal increment [#fn187]_.
+
+From a number of tadpoles, whose average length was 34·2 mm., their tails being on an average 21·2 mm. long, about half the tail [p. 139] (11·5 mm.) was cut off, and the amounts regenerated in successive periods are shewn as follows:
+
+::
+
+    Days after operation               3     7    10    14    18    24    30
+    (1)  Amount regenerated in mm.    1·4   3·4   4·3   5·2   5·5   6·2   6·5
+    (2)  Increment during each period 1·4   2·0   0·9   0·9   0·3   0·7   0·3
+    (3)  (?) Rate per day during
+         each period                  0·46  0·50  0·30  0·25  0·07  0·12  0·05
+
+The first line of numbers in this table, if plotted as a curve against the number of days, will give us a very satisfactory view of the “curve of growth” within the period of the observations: that is to say, of the successive relations of length to time, or the *velocity* of the process. But the third line is not so satisfactory, and must not be plotted directly as an acceleration curve. For it is evident that the “rates” here determined do not correspond to velocities *at* the dates to which they are referred, but are the mean velocities over a preceding period; and moreover the periods over which these means are taken are here of very unequal length. But we may draw a good deal more information from this experiment, if we begin by drawing a smooth curve, as nearly as possible through the points corresponding to the amounts regenerated (according to the first line of the table); and if we then interpolate from this smooth curve the actual lengths attained, day by day, and derive from these, by subtraction, the successive daily increments, which are the measure of the daily mean *velocities* (Table, p. 141). (The more accurate and strictly correct method would be to draw successive tangents to the curve.)
+
+In our curve of growth (Fig. 35) we cannot safely interpolate values for the first three days, that is to say for the dates between amputation and the first actual measurement of the regenerated part. What goes on in these three days is very important; but we know nothing about it, save that our curve descended to zero somewhere or other within that period. As we have already learned, we can more or less safely interpolate between known points, or actual observations; but here we have no known starting-point. In short, for all that the observations tell us, and for all that the appearance of the curve can suggest, the curve of growth may have descended evenly to the base-line, which it would then have reached about the end of the second [p. 140] day; or it may have had within the first three days a change of direction, or “point of inflection,” and may then have sprung at once from the base-line at zero. That is to say, there may
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 35. Curve of regenerative growth in tadpoles’ tails. (From M. L. Durbin’s data.)
+
+have been an intervening “latent period,” during which no growth
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 36. Mean daily increments, corresponding to Fig. 35.
+
+.. folio:: p. 141
+   :page: 141
+
+occurred, between the time of injury and the first measurement of regenerative growth; or, for all we yet know, regeneration may have begun at once, but with a velocity much less than that which it afterwards attained. This apparently trifling difference would correspond to a very great difference in the nature of the phenomenon, and would lead to a very striking difference in the curve which we have next to draw.
+
+The curve already drawn (Fig. 35) illustrates, as we have seen, the relation of length to time, i.e. *L*\ /\ *T* = *V*. The second (Fig. 36) represents the rate of change of velocity; it sets *V* against *T*;
+
+| *The foregoing table, extended by graphic interpolation.*
+
+::
+
+             Total      Daily
+    Days   increment  increment  Logs of do.
+     1         —
+                          —          —
+     2         —
+                          —          —
+     3       1·40
+                         ·60       1·78
+     4       2·00
+                         ·52       1·72
+     5       2·52
+                         ·45       1·65
+     6       2·97
+                         ·43       1·63
+     7       3·40
+                         ·32       1·51
+     8       3·72
+                         ·30       1·48
+     9       4·02
+                         ·28       1·45
+    10       4·30
+                         ·22       1·34
+    11       4·52
+                         ·21       1·32
+    12       4·73
+                         ·19       1·28
+    13       4·92
+                         ·18       1·26
+    14       5·10
+                         ·17       1·23
+    15       5·27
+                         ·13       1·11
+    16       5·40
+                         ·14       1·15
+    17       5·54
+                         ·13       1·11
+    18       5·67
+                         ·11       1·04
+    19       5·78
+                         ·10       1·00
+    20       5·88
+                         ·10       1·00
+    21       5·98
+                         ·09        ·95
+    22       6·07
+                         ·07        ·85
+    23       6·14
+                         ·07        ·84
+    24       6·21
+                         ·08        ·90
+    25       6·29
+                         ·06        ·78
+    26       6·35
+                         ·06        ·78
+    27       6·41
+                         ·05        ·70
+    28       6·46
+                         ·04        ·60
+    29       6·50
+                         ·03        ·48
+    30       6·53
+
+.. folio:: p. 142
+   :page: 142
+
+and *V*\ /\ *T* or *L*\ /\ *T*\ :sup:`2`, represents (as we have learned) the *acceleration* of growth, this being simply the “differential coefficient,” the first derivative of the former curve.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 37. Logarithms of values shewn in Fig. 36.
+
+Now, plotting this acceleration curve from the date of the first measurement made three days after the amputation of the tail (Fig. 36), we see that it has no point of inflection, but falls steadily, only more and more slowly, till at last it comes down nearly to the base-line. The velocities of growth are continually diminishing. As regards the missing portion at the beginning of the curve, we cannot be sure whether it bent round and came down to zero, or whether, as in our ordinary acceleration curves of growth from birth onwards, it started from a maximum. The former is, in this case, obviously the more probable, but we cannot be sure.
+
+As regards that large portion of the curve which we are acquainted with, we see that it resembles the curve known as a rectangular hyperbola, which is the form assumed when two variables (in this case *V* and *T*) vary inversely as one another. If we take the logarithms of the velocities (as given in the table) and plot them against time (Fig. 37), we see that they fall, approximately, into a straight line; and if this curve be plotted on the [p. 143] proper scale we shall find that the angle which it makes with the base is about 25°, of which the tangent is ·46, or in round numbers ½.
+
+Had the angle been 45° (tan 45° = 1), the curve would have been actually a rectangular hyperbola, with *V* *T* = constant. As it is, we may assume, provisionally, that it belongs to the same family of curves, so that *V*\ :sup:`m` *T*\ :sup:`n`, or *V*\ :sup:`m/n` *T*, or *V* *T*\ :sup:`n/m`, are all severally constant. In other words, the velocity varies inversely as some power of the time, or *vice versa*. And in this particular case, the equation *V* *T*\ :sup:`2` = constant, holds very nearly true; that is to say the velocity varies, or tends to vary, inversely as the square of the time. If some general law akin to this could be established as a general law, or even as a common rule, it would be of great importance.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 38. Rate of regenerative growth in larger tadpoles.
+
+But though neither in this case nor in any other can the minute increments of growth during the first few hours, or the first couple of days, after injury, be directly measured, yet the most important point is quite capable of solution. What the foregoing curve leaves us in ignorance of, is simply whether growth starts at zero, with zero velocity, and works up quickly to a maximum velocity from which it afterwards gradually falls away; or whether after a latent period, it begins, so to speak, in full force. The answer [p. 144] to this question-depends on whether, in the days following the first actual measurement, we can or cannot detect a daily *increment* in velocity, before that velocity begins its normal course of diminution. Now this preliminary ascent to a maximum, or point of inflection of the curve, though not shewn in the above-quoted experiment, has been often observed: as for instance, in another similar experiment by the author of the former, the tadpoles being in this case of larger size (average 49·1 mm.) [#fn188]_.
+
+::
+
+    Days         3     5     7    10    12    14    17    24    28    31
+    Increment  0·86  2·15  3·66  5·20  5·95  6·38  7·10  7·60  8·20  8·40
+
+Or, by graphic interpolation,
+
+::
+
+                Total        Daily
+    Days      increment       do.
+      1          ·23         ·23
+      2          ·53         ·30
+      3          ·86         ·33
+      4         1·30         ·44
+      5         2·00         ·70
+      6         2·78         ·78
+      7         3·58         ·80
+      8         4·30         ·72
+      9         4·90         ·60
+     10         5·29         ·39
+     11         5·62         ·33
+     12         5·90         ·28
+     13         6·13         ·23
+     14         6·38         ·25
+     15         6·61         ·23
+     16         6·81         ·20
+     17         7·00         ·19 etc.
+
+The acceleration curve is drawn in Fig. 39.
+
+Here we have just what we lacked in the former case, namely a visible point of inflection in the curve about the seventh day (Figs. 38, 39), whose existence is confirmed by successive observations on the 3rd, 5th, 7th and 10th days, and which justifies to some extent our extrapolation for the otherwise unknown period up to and ending with the third day; but even here there is a short space near the very beginning during which we are not quite sure of the precise slope of the curve.
+
+----
+
+We have now learned that, according to these experiments, with which many others are in substantial agreement, the rate of growth in the regenerative process is as follows. After a very short latent period, not yet actually proved but whose existence is highly probable, growth commences with a velocity which very [p. 145] rapidly increases to a maximum. The curve quickly,—almost suddenly,—changes its direction, as the velocity begins to fall; and the rate of fall, that is, the negative acceleration, proceeds at a slower and slower rate, which rate varies inversely as some power of the time, and is found in both of the above-quoted experiments to be very approximately as 1/\ *T*\ :sup:`2`. But it is obvious that the value which we have found for the latter portion of the curve (however closely it be conformed to) is only an empirical value; it has only a temporary usefulness, and must in time give place to a formula which shall represent the entire phenomenon, from start to finish.
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 39. Daily increment, or amount regenerated, corresponding to Fig. 38.
+
+While the curve of regenerative growth is apparently different from the curve of ordinary growth as usually drawn (and while this apparent difference has been commented on and treated as valid by certain writers) we are now in a position to see that it only looks different because we are able to study it, if not from the beginning, at least very nearly so: while an ordinary curve of growth, as it is usually presented to us, is one which dates, not [p. 146] from the beginning of growth, but from the comparatively late, and unimportant, and even fallacious epoch of birth. A complete curve of growth, starting from zero, has the same essential characteristics as the regeneration curve.
+
+Indeed the more we consider the phenomenon of regeneration, the more plainly does it shew itself to us as but a particular case of the general phenomenon of growth [#fn189]_, following the same lines, obeying the same laws, and merely started into activity by the special stimulus, direct or indirect, caused by the infliction of a wound. Neither more nor less than in other problems of physiology are we called upon, in the case of regeneration, to indulge in metaphysical speculation, or to dwell upon the beneficent purpose which seemingly underlies this process of healing and restoration.
+
+----
+
+It is a very general rule, though apparently not a universal one, that regeneration tends to fall somewhat short of a *complete* restoration of the lost part; a certain percentage only of the lost tissues is restored. This fact was well known to some of those old investigators, who, like the Abbé Trembley and like Voltaire, found a fascination in the study of artificial injury and the regeneration which followed it. Sir John Graham Dalyell, for instance, says, in the course of an admirable paragraph on regeneration [#fn190]_: “The reproductive faculty ... is not confined to one portion, but may extend over many; and it may ensue even in relation to the regenerated portion more than once. Nevertheless, the faculty gradually weakens, so that in general every successive regeneration is smaller and more imperfect than the organisation preceding it; and at length it is exhausted.”
+
+In certain minute animals, such as the Infusoria, in which the capacity for “regeneration” is so great that the entire animal may be restored from the merest fragment, it becomes of great interest to discover whether there be some definite size at which the fragment ceases to display this power. This question has [p. 147] been studied by Lillie [#fn191]_, who found that in Stentor, while still smaller fragments were capable of surviving for days, the smallest portions capable of regeneration were of a size equal to a sphere of about 80 µ in diameter, that is to say of a volume equal to about one twenty-seventh of the average entire animal. He arrives at the remarkable conclusion that for this, and for all other species of animals, there is a “minimal organisation mass,” that is to say a “minimal mass of definite size consisting of nucleus and cytoplasm within which the organisation of the species can just find its latent expression.” And in like manner, Boveri [#fn192]_ has shewn that the fragment of a sea-urchin’s egg capable of growing up into a new embryo, and so discharging the complete functions of an entire and uninjured ovum, reaches its limit at about one-twentieth of the original egg,—other writers having found a limit at about one-fourth. These magnitudes, small as they are, represent objects easily visible under a low power of the microscope, and so stand in a very different category to the minimal magnitudes in which life itself can be manifested, and which we have discussed in chapter II.
+
+A number of phenomena connected with the linear rate of regeneration are illustrated and epitomised in the accompanying diagram (Fig. 40), which I have constructed from certain data given by Ellis in a paper on the relation of the amount of tail *regenerated* to the amount *removed*, in Tadpoles. These data are summarised in the next Table. The tadpoles were all very much of a size, about 40 mm.; the average length of tail was very near to 26 mm., or 65 per cent. of the whole body-length; and in four series of experiments about 10, 20, 40 and 60 per cent. of the tail were severally removed. The amount regenerated in successive intervals of three days is shewn in our table. By plotting the actual amounts regenerated against these three-day intervals of time, we may interpolate values for the time taken to regenerate definite percentage amounts, 5 per cent., 10 per cent., etc. of the [p. 148]
+
+.. admonition:: 1917 Source Illustration
+
+   Fig. 40. Relation between the percentage amount of tail removed, the percentage restored, and the time required for its restoration. (From M. M. Ellis’s data.)
+
+| *The Rate of Regenerative Growth in Tadpoles’ Tails.*
+
+| (\ *After M. M. Ellis, J. Exp. Zool.* VII, *p.* 421, 1909.)
+
+::
+
+                Body    Tail   Amount   Per cent.  % amount regenerated in days
+               length  length  removed   of tail   ────────────────────────────
+    Series†     mm.     mm.      mm.     removed     3   6   9  12  15  18  32
+     O       39·575  25·895    3·2      12·36     13  31  44  44  44  44  44
+     P       40·21   26·13     5·28     20·20     10  29  40  44  44  44  44
+     R       39·86   25·70    10·4      40·50      6  20  31  40  48  48  48
+     S       40·34   26·11    14·8      56·7       0  16  33  39  45  48  48
+
+| † Each series gives the mean of 20 experiments.
+
+amount removed; and my diagram is constructed from the four sets of values thus obtained, that is to say from the four sets of experiments which differed from one another in the amount of tail amputated. To these we have to add the general result of a fifth series of experiments, which shewed that when as much as 75 per cent. of the tail was cut off, no regeneration took place at all, but the animal presently died. In our diagram, then, each [p. 149] curve indicates the time taken to regenerate *n* per cent. of the amount removed. All the curves converge towards infinity, when the amount removed (as shewn by the ordinate) approaches 75 per cent.; and all of the curves start from zero, for nothing is regenerated where nothing had been removed. Each curve approximates in form to a cubic parabola.
+
+The amount regenerated varies also with the age of the tadpole and with other factors, such as temperature; in other words, for any given age, or size, of tadpole and also for various specific temperatures, a similar diagram might be constructed.
+
+----
+
+The power of reproducing, or regenerating, a lost limb is particularly well developed in arthropod animals, and is sometimes accompanied by remarkable modification of the form of the regenerated limb. A case in point, which has attracted much attention, occurs in connection with the claws of certain Crustacea [#fn193]_.
+
+In many Crustacea we have an asymmetry of the great claws, one being larger than the other and also more or less different in form. For instance, in the common lobster, one claw, the larger of the two, is provided with a few great “crushing” teeth, while the smaller claw has more numerous teeth, small and serrated. Though Aristotle thought otherwise, it appears that the crushing-claw may be on the right or left side, indifferently; whether it be on one or the other is a problem of “chance.” It is otherwise in many other Crustacea, where the larger and more powerful claw is always left or right, as the case may be, according to the species: where, in other words, the “probability” of the large or the small claw being left or being right is tantamount to certainty [#fn194]_.
+
+The one claw is the larger because it has grown the faster; [p. 150] it has a higher “coefficient of growth,” and accordingly, as age advances, the disproportion between the two claws becomes more and more evident. Moreover, we must assume that the characteristic form of the claw is a “function” of its magnitude; the knobbiness is a phenomenon coincident with growth, and we never, under any circumstances, find the smaller claw with big crushing teeth and the big claw with little serrated ones. There are many other somewhat similar cases where size and form are manifestly correlated, and we have already seen, to some extent, that the phenomenon of growth is accompanied by certain ratios of velocity that lead inevitably to changes of form. Meanwhile, then, we must simply assume that the essential difference between the two claws is one of magnitude, with which a certain differentiation of form is inseparably associated.
+
+If we amputate a claw, or if, as often happens, the crab “casts it off,” it undergoes a process of regeneration,—it grows anew, and evidently does so with an accelerated velocity, which acceleration will cease when equilibrium of the parts is once more attained: the accelerated velocity being a case in point to illustrate that *vis revulsionis* of Haller, to which we have already referred.
+
+With the help of this principle, Przibram accounts for certain curious phenomena which accompany the process of regeneration. As his experiments and those of Morgan shew, if the large or knobby claw (\ *A*) be removed, there are certain cases, e.g. the common lobster, where it is directly regenerated. In other cases, e.g. Alpheus [#fn195]_, the other claw (\ *B*) assumes the size and form of that which was amputated, while the latter regenerates itself in the form of the other and weaker one; *A* and *B* have apparently changed places. In a third case, as in the crabs, the *A*-claw regenerates itself as a small or *B*-claw, but the *B*-claw remains for a time unaltered, though slowly and in the course of repeated moults it later on assumes the large and heavily toothed *A*-form.
+
+Much has been written on this phenomenon, but in essence it is very simple. It depends upon the respective rates of growth, upon a ratio between the rate of regeneration and the rate of growth of the uninjured limb: complicated a little, however, by [p. 151] the possibility of the uninjured limb growing all the faster for a time after the animal has been relieved of the other. From the time of amputation, say of *A*, *A* begins to grow from zero, with a high “regenerative” velocity; while *B*, starting from a definite magnitude, continues to increase, with its normal or perhaps somewhat accelerated velocity. The ratio between the two velocities of growth will determine whether, by a given time, *A* has equalled, outstripped, or still fallen short of the magnitude of *B*.
+
+That this is the gist of the whole problem is confirmed (if confirmation be necessary) by certain experiments of Wilson’s. It is known that by section of the nerve to a crab’s claw, its growth is retarded, and as the general growth of the animal proceeds the claw comes to appear stunted or dwarfed. Now in such a case as that of Alpheus, we have seen that the rate of regenerative growth in an amputated large claw fails to let it reach or overtake the magnitude of the growing little claw: which latter, in short, now appears as the big one. But if at the same time as we amputate the big claw we also sever the nerve to the lesser one, we so far slow down the latter’s growth that the other is able to make up to it, and in this case the two claws continue to grow at approximately equal rates, or in other words continue of coequal size.
+
+----
+
+The phenomenon of regeneration goes some way towards helping us to comprehend the phenomenon of “multiplication by fission,” as it is exemplified at least in its simpler cases in many worms and worm-like animals. For physical reasons which we shall have to study in another chapter, there is a natural tendency for any tube, if it have the properties of a fluid or semi-fluid substance, to break up into segments after it comes to a certain length; and nothing can prevent its doing so, except the presence of some controlling force, such for instance as may be due to the pressure of some external support, or some superficial thickening or other intrinsic rigidity of its own substance. If we add to this natural tendency towards fission of a cylindrical or tubular worm, the ordinary phenomenon of regeneration, we have all that is essentially implied in “reproduction by fission.” And in so far [p. 152] as the process rests upon a physical principle, or natural tendency, we may account for its occurrence in a great variety of animals, zoologically dissimilar; and also for its presence here and absence there, in forms which, though materially different in a physical sense, are zoologically speaking very closely allied.
+
+CONCLUSION AND SUMMARY.
+
+But the phenomena of regeneration, like all the other phenomena of growth, soon carry us far afield, and we must draw this brief discussion to a close.
+
+For the main features which appear to be common to all curves of growth we may hope to have, some day, a physical explanation. In particular we should like to know the meaning of that point of inflection, or abrupt change from an increasing to a decreasing velocity of growth which all our curves, and especially our acceleration curves, demonstrate the existence of, provided only that they include the initial stages of the whole phenomenon: just as we should also like to have a full physical or physiological explanation of the gradually diminishing velocity of growth which follows, and which (though subject to temporary interruption or abeyance) is on the whole characteristic of growth in all cases whatsoever. In short, the characteristic form of the curve of growth in length (or any other linear dimension) is a phenomenon which we are at present unable to explain, but which presents us with a definite and attractive problem for future solution. It would seem evident that the abrupt change in velocity must be due, either to a change in that pressure outwards from within, by which the “forces of growth” make themselves manifest, or to a change in the resistances against which they act, that is to say the *tension* of the surface; and this latter force we do not by any means limit to “surface-tension” proper, but may extend to the development of a more or less resistant membrane or “skin,” or even to the resistance of fibres or other histological elements, binding the boundary layers to the parts within. I take it that the sudden arrest of velocity is much more likely to be due to a sudden increase of resistance than to a sudden diminution of internal energies: in other words, I suspect that it is coincident with some notable event of histological differentiation, such as [p. 153] the rapid formation of a comparatively firm skin; and that the dwindling of velocities, or the negative acceleration, which follows, is the resultant or composite effect of waning forces of growth on the one hand, and increasing superficial resistance on the other. This is as much as to say that growth, while its own energy tends to increase, leads also, after a while, to the establishment of resistances which check its own further increase.
+
+Our knowledge of the whole complex phenomenon of growth is so scanty that it may seem rash to advance even this tentative suggestion. But yet there are one or two known facts which seem to bear upon the question, and to indicate at least the manner in which a varying resistance to expansion may affect the velocity of growth. For instance, it has been shewn by Frazee [#fn196]_ that electrical stimulation of tadpoles, with small current density and low voltage, increases the rate of regenerative growth. As just such an electrification would tend to lower the surface-tension, and accordingly decrease the external resistance, the experiment would seem to support, in some slight degree, the suggestion which I have made.
+
+Delage [#fn197]_ has lately made use of the principle of specific rate of growth, in considering the question of heredity itself. We know that the chromatin of the fertilised egg comes from the male and female parent alike, in equal or nearly equal shares; we know that the initial chromatin, so contributed, multiplies many thousand-fold, to supply the chromatin for every cell of the offspring’s body; and it has, therefore, a high “coefficient of growth.” If we admit, with Van Beneden and others, that the initial contributions of male and female chromatin continue to be transmitted to the succeeding generations of cells, we may then conceive these chromatins to retain each its own coefficient of growth; and if these differed ever so little, a gradual preponderance of one or other would make itself felt in time, and might conceivably explain the preponderating influence of one parent or the other upon the characters of the offspring. Indeed O. Hertwig is said (according to Delage’s interpretation) to have actually shewn that we can artificially modify the rate of growth of one or other chromatin, and so increase or diminish the influence of the maternal or paternal heredity. This theory of Delage’s has its fascination, but it calls for somewhat large assumptions; and in particular, it seems (like so many other theories relating to the chromosomes) to rest far too much upon material elements, rather than on the imponderable dynamic factors of the cell. [p. 154]
+
+We may summarise, as follows, the main results of the foregoing discussion:
+
+(1) Except in certain minute organisms and minute parts of organisms, whose form is due to the direct action of molecular forces, we may look upon the form of the organism as a “function of growth,” or a direct expression of a rate of growth which varies according to its different directions.
+
+(2) Rate of growth is subject to definite laws, and the velocities in different directions tend to maintain a *ratio* which is more or less constant for each specific organism; and to this regularity is due the fact that the form of the organism is in general regular and constant.
+
+(3) Nevertheless, the ratio of velocities in different directions is not absolutely constant, but tends to alter or fluctuate in a regular way; and to these progressive changes are due the changes of form which accompany “development,” and the slower changes of form which continue perceptibly in after life.
+
+(4) The rate of growth is a function of the age of the organism, it has a maximum somewhat early in life, after which epoch of maximum it slowly declines.
+
+(5) The rate of growth is directly affected by temperature, and by other physical conditions.
+
+(6) It is markedly affected, in the way of acceleration or retardation, at certain physiological epochs of life, such as birth, puberty, or metamorphosis.
+
+(7) Under certain circumstances, growth may be *negative*, the organism growing smaller: and such negative growth is a common accompaniment of metamorphosis, and a frequent accompaniment of old age.
+
+(8) The phenomenon of regeneration is associated with a large temporary increase in the rate of growth (or “\ *acceleration*” of growth) of the injured surface; in other respects, regenerative growth is similar to ordinary growth in all its essential phenomena.
+
+----
+
+In this discussion of growth, we have left out of account a vast number of processes, or phenomena, by which, in the physiological mechanism of the body, growth is effected and controlled. We have dealt with growth in its relation to magnitude, and to [p. 155] that relativity of magnitudes which constitutes form; and so we have studied it as a phenomenon which stands at the beginning of a morphological, rather than at the end of a physiological enquiry. Under these restrictions, we have treated it as far as possible, or in such fashion as our present knowledge permits, on strictly physical lines.
+
+In all its aspects, and not least in its relation to form, the growth of organisms has many analogies, some close and some perhaps more remote, among inanimate things. As the waves grow when the winds strive with the other forces which govern the movements of the surface of the sea, as the heap grows when we pour corn out of a sack, as the crystal grows when from the surrounding solution the proper molecules fall into their appropriate places: so in all these cases, very much as in the organism itself, is growth accompanied by change of form, and by a development of definite shapes and contours. And in these cases (as in all other mechanical phenomena), we are led to equate our various magnitudes with time, and so to recognise that growth is essentially a question of rate, or of velocity.
+
+The differences of form, and changes of form, which are brought about by varying rates (or “laws”) of growth, are essentially the same phenomenon whether they be, so to speak, episodes in the life-history of the individual, or manifest themselves as the normal and distinctive characteristics of what we call separate species of the race. From one form, or ratio of magnitude, to another there is but one straight and direct road of transformation, be the journey taken fast or slow; and if the transformation take place at all, it will in all likelihood proceed in the self-same way, whether it occur within the life-time of an individual or during the long ancestral history of a race. No small part of what is known as Wolff’s or von Baer’s law, that the individual organism tends to pass through the phases characteristic of its ancestors, or that the life-history of the individual tends to recapitulate the ancestral history of its race, lies wrapped up in this simple account of the relation between rate of growth and form.
+
+But enough of this discussion. Let us leave for a while the subject of the growth of the organism, and attempt to study the conformation, within and without, of the individual cell.
+
+.. folio:: p. 156
+   :page: 156
+
+Authorial Endnotes (1917 Edition)
+---------------------------------
+
+.. [#fn79] **[Note 79]** Sometimes we find one and the same diagram suffice, whether the intervals of time be great or small; and we then invoke “Wolff’s Law,” and assert that the life-history of the individual repeats, or recapitulates, the history of the race.
+
+.. [#fn80] **[Note 80]** Our subject is one of Bacon’s “Instances of the Course,” or studies wherein we “measure Nature by periods of Time.” In Bacon’s *Catalogue of Particular Histories*, one of the odd hundred histories or investigations which he foreshadowed is precisely that which we are engaged on, viz. a “History of the Growth and Increase of the Body, in the whole and in its parts.”
+
+.. [#fn81] **[Note 81]** Cf. Aristotle, *Phys.* vi, 5, 235 *a* 11, ὲπεὶ γὰρ ἅπασα κίνησις ἐν χρόνῳ, κτλ. Bacon emphasised, in like manner, the fact that “all motion or natural action is performed in time: some more quickly, some more slowly, but all in periods determined and fixed in the nature of things. Even those actions which seem to be performed suddenly, and (as we say) in the twinkling of an eye, are found to admit of degree in respect of duration.” *Nov. Org.* XLVI.
+
+.. [#fn82] **[Note 82]** Cf. (e.g.) *Elem. Physiol.* ed. 1766, VIII, p. 114, “Ducimur autem ad evolutionem potissimum, quando a perfecto animale retrorsum progredimur, et incrementorum atque mutationum seriem relegimus. Ita inveniemus perfectum illud animal fuisse imperfectius, alterius figurae et fabricae, et denique rude et informe: et tamen idem semper animal sub iis diversis phasibus fuisse, quae absque ullo saltu perpetuos parvosque per gradus cohaereant.”
+
+.. [#fn83] **[Note 83]** *Beiträge zur Entwickelungsgeschichte des Hühnchens im Ei*, p. 40, 1817. Roux ascribes the same views also to Von Baer and to R. H. Lotze (\ *Allg. Physiologie*, p. 353, 1851).
+
+.. [#fn84] **[Note 84]** Roux, *Die Entwickelungsmechanik*, p. 99, 1905.
+
+.. [#fn85] **[Note 85]** *Op. cit.* p. 302, “Magnum hoc naturae instrumentum, etiam in corpore animato evolvendo potenter operatur; etc.”
+
+.. [#fn86] **[Note 86]** *Ibid.* p. 306. “Subtiliora ista, et aliquantum hypothesi mista, tamen magnum mihi videntur speciem veri habere.”
+
+.. [#fn87] **[Note 87]** Cf. His, On the Principles of Animal Morphology, *Proc. R. S. E.* XV, 1888, p. 294: “My own attempts to introduce some elementary mechanical or physiological conceptions into embryology have not generally been agreed to by morphologists. To one it seemed ridiculous to speak of the elasticity of the germinal layers; another thought that, by such considerations, we ‘put the cart before the horse’: and one more recent author states, that we have better things to do in embryology than to discuss tensions of germinal layers and similar questions, since all explanations must of necessity be of a phylogenetic nature. This opposition to the application of the fundamental principles of science to embryological questions would scarcely be intelligible had it not a dogmatic background. No other explanation of living forms is allowed than heredity, and any which is founded on another basis must be rejected ....... To think that heredity will build organic beings without mechanical means is a piece of unscientific mysticism.”
+
+.. [#fn88] **[Note 88]** Hertwig, O., *Zeit und Streitfragen der Biologie*, II. 1897.
+
+.. [#fn89] **[Note 89]** Cf. Roux, *Gesammelte Abhandlungen*, II, p. 31, 1895.
+
+.. [#fn90] **[Note 90]** *Treatise on Comparative Embryology*, I, p. 4, 1881.
+
+.. [#fn91] **[Note 91]** Cf. Fick, *Anal. Anzeiger*, XXV, p. 190, 1904.
+
+.. [#fn92] **[Note 92]** 1st ed. p. 444; 6th ed. p. 390. The student should not fail to consult the passage in question; for there is always a risk of misunderstanding or misinterpretation when one attempts to epitomise Darwin’s carefully condensed arguments.
+
+.. [#fn93] **[Note 93]** “In omni rerum naturalium historia utile est *mensuras definiri et numeros*,” Haller, *Elem. Physiol.* II, p. 258, 1760. Cf. Hales, *Vegetable Staticks*, Introduction.
+
+.. [#fn94] **[Note 94]** Brussels, 1871. Cf. the same author’s *Physique sociale*, 1835, and *Lettres sur la théorie des probabilités*, 1846. See also, for the general subject, Boyd, R., Tables of weights of the Human Body, etc. *Phil. Trans.* vol. CLI, 1861; Roberts, C., *Manual of Anthropometry*, 1878; Daffner, F., *Das Wachsthum des Menschen* (2nd ed.), 1902, etc.
+
+.. [#fn95] **[Note 95]** Dr Johnson was not far wrong in saying that “life declines from thirty-five”; though the Autocrat of the Breakfast-table, like Cicero, declares that “the furnace is in full blast for ten years longer.”
+
+.. [#fn96] **[Note 96]** Joly, *The Abundance of Life*, 1915 (1890), p. 86.
+
+.. [#fn97] **[Note 97]** “\ *Lou pes, mèstre de tout* [Le poids, maître de tout], *mèstre sènso vergougno, Que te tirasso en bas de sa brutalo pougno*,” J. H. Fabre, *Oubreto prouvençalo*, p. 61.
+
+.. [#fn98] **[Note 98]** The continuity of the phenomenon of growth, and the natural passage from the phase of increase to that of decrease or decay, are admirably discussed by Enriques, in “La morte,” *Riv. di Scienza*, 1907, and in “Wachsthum und seine analytische Darstellung,” *Biol. Centralbl.* June, 1909. Haller (\ *Elem*. VII, p. 68) recognised *decrementum* as a phase of growth, not less important (theoretically) than *incrementum*: “\ *tristis, sed copiosa, haec est materies*.”
+
+.. [#fn99] **[Note 99]** Cf. (\ *int. al.*), Friedenthal, H., Das Wachstum des Körpergewichtes ... in verschiedenen Lebensältern, *Zeit. f. allg. Physiol.* IX, pp. 487–514, 1909.
+
+.. [#fn100] **[Note 100]** As Haller observed it to do in the chick (\ *Elem.* VIII, p. 294): “Hoc iterum incrementum miro ordine ita distribuitur, ut in principio incubationis maximum est: inde perpetuo minuatur.”
+
+.. [#fn101] **[Note 101]** There is a famous passage in Lucretius (v. 883) where he compares the course of life, or rate of growth, in the horse and his boyish master: *Principio circum tribus actis impiger annis Floret equus, puer hautquaquam*, etc.
+
+.. [#fn102] **[Note 102]** Minot, C. S., Senescence and Rejuvenation, *Journ. of Physiol.* XII, pp. 97–153, 1891; The Problem of Age, Growth and Death, *Pop. Science Monthly* (June–Dec.), 1907.
+
+.. [#fn103] **[Note 103]** Quoted in Vierordt’s *Anatomische ... Daten und Tabellen*, 1906. p. 13.
+
+.. [#fn104] **[Note 104]** *Unsere Körperform*, Leipzig, 1874.
+
+.. [#fn105] **[Note 105]** No such point of inflection appears in the curve of weight according to C. M. Jackson’s data (On the Prenatal Growth of the Human Body, etc., *Amer. Journ. of Anat.* IX, 1009, pp. 126, 156), nor in those quoted by him from Ahlfeld, Fehling and others. But it is plain that the very rapid increase of the monthly weights, approximately in the ratio of the cubes of the corresponding lengths, would tend to conceal any such breach of continuity, unless it happened to be very marked indeed. Moreover in the case of Jackson’s data (and probably also in the others) the actual age of the embryos was not determined, but was estimated from their lengths. The following is Jackson’s estimate of average weights at intervals of a lunar month: Months 0 1 2 3 4 5 6 7 8 9 10 Wt in gms. ·0 ·04 3 36 120 330 600 1000 1500 2200 3200
+
+.. [#fn106] **[Note 106]** G. Kraus (after Wallich-Martius), *Ann. du Jardin bot. de Buitenzorg*, XII, 1, 1894, p. 210. Cf. W. Ostwald, *Zeitliche Eigenschaften*, etc. p. 56.
+
+.. [#fn107] **[Note 107]** Cf. Chodat, R., et Monnier, A., Sur la courbe de croissance des végétaux, *Bull. Herb. Boissier* (2), V, pp. 615, 616, 1905.
+
+.. [#fn108] **[Note 108]** Cf. Fr. Boas, Growth of Toronto Children, *Rep. of U.S. Comm. of Education*, 1896–7, pp. 1541–1599, 1898; Boas and Clark Wissler, Statistics of Growth, *Education Rep.* 1904, pp. 25–132, 1906; H. P. Bowditch, *Rep. Mass. State Board of Health*, 1877; K. Pearson, On the Magnitude of certain coefficients of Correlation in Man, *Pr. R. S.* LXVI, 1900.
+
+.. [#fn109] **[Note 109]** *l.c.* p. 42, and other papers there quoted.
+
+.. [#fn110] **[Note 110]** See, for an admirable résumé of facts, Wolfgang Ostwald, *Ueber die Zeitliche Eigenschaften der Entwickelungsvorgänge* (71 pp.), Leipzig, 1908 (Roux’s *Vorträge*, Heft V): to which work I am much indebted. A long list of observations on the growth-rate of various animals is also given by H. Przibram, *Exp. Zoologie*, 1913, pt. IV (\ *Vitalität*), pp. 85–87.
+
+.. [#fn111] **[Note 111]** Cf. St Loup, Vitesse de croissance chez les Souris, *Bull. Soc. Zool. Fr.* XVIII, 242, 1893; Robertson, *Arch. f. Entwickelungsmech.* XXV, p. 587, 1908; Donaldson. *Boas Memorial Volume*, New York, 1906.
+
+.. [#fn112] **[Note 112]** Luciani e Lo Monaco, *Arch. Ital. de Biologie*, XXVII, p. 340, 1897.
+
+.. [#fn113] **[Note 113]** Schaper, *Arch. f. Entwickelungsmech.* XIV, p. 356, 1902. Cf. Barfurth, Versuche über die Verwandlung der Froschlarven, *Arch. f. mikr. Anat.* XXIX, 1887.
+
+.. [#fn114] **[Note 114]** Joh. Schmidt, Contributions to the Life-history of the Eel, *Rapports du Conseil Intern. pour l’exploration de la Mer*, vol. V, pp. 137–274, Copenhague, 1906.
+
+.. [#fn115] **[Note 115]** That the metamorphoses of an insect are but phases in a process of growth, was firstly clearly recognised by Swammerdam, *Biblia Naturae*, 1737, pp. 6, 579 etc.
+
+.. [#fn116] **[Note 116]** From Bose, J. C., *Plant Response*, London, 1906, p. 417.
+
+.. [#fn117] **[Note 117]** This phenomenon, of *incrementum inequale*, as opposed to *incrementum in universum*, was most carefully studied by Haller: “Incrementum inequale multis modis fit, ut aliae partes corporis aliis celerius increscant. Diximus hepar minus fieri, majorem pulmonem, minimum thymum, etc.” (\ *Elem.* VIII (2), p. 34).
+
+.. [#fn118] **[Note 118]** See (\ *inter alia*) Fischel, A., Variabilität und Wachsthum des embryonalen Körpers, *Morphol. Jahrb.* XXIV, pp. 369–404, 1896. Oppel, *Vergleichung des Entwickelungsgrades der Organe zu verschiedenen Entwickelungszeiten bei Wirbelthieren*, Jena, 1891. Faucon, A., *Pesées et Mensurations fœtales à différents âges de la grossesse*. (Thèse.) Paris, 1897. Loisel, G., Croissance comparée en poids et en longueur des fœtus mâle et femelle dans l’espèce humaine, *C. R. Soc. de Biologie*, Paris, 1903. Jackson, C. M., Pre-natal growth of the human body and the relative growth of the various organs and parts, *Am. J. of Anat.* IX, 1909; Post-natal growth and variability of the body and of the various organs in the albino rat, *ibid.* XV, 1913.
+
+.. [#fn119] **[Note 119]** *l.c.* p. 1542.
+
+.. [#fn120] **[Note 120]** Variation and Correlation in Brain-weight, *Biometrika*, IV, pp. 13–104, 1905.
+
+.. [#fn121] **[Note 121]** *Die Säugethiere*, p. 117.
+
+.. [#fn122] **[Note 122]** *Amer. J. of Anatomy*, VIII, pp. 319–353, 1908. Donaldson (\ *Journ. Comp. Neur. and Psychol.* XVIII, pp. 345–392, 1908) also gives a logarithmic formula for brain-weight (\ *y*) as compared with body-weight (\ *x*), which in the case of the white rat is *y* = ·554 − ·569 log(\ *x* − 8·7), and the agreement is very close. But the formula is admittedly empirical and as Raymond Pearl says (\ *Amer. Nat.* 1909, p. 303), “no ulterior biological significance is to be attached to it.”
+
+.. [#fn123] **[Note 123]** *Biometrika*, IV, pp. 13–104, 1904.
+
+.. [#fn124] **[Note 124]** Donaldson, H. H., A Comparison of the White Rat with Man in respect to the Growth of the entire Body, *Boas Memorial Vol.*, New York, 1906, pp. 5–26.
+
+.. [#fn125] **[Note 125]** Besides many papers quoted by Dubois on the growth and weight of the brain, and numerous papers in *Biometrika*, see also the following: Ziehen, Th., *Das Gehirn: Massverhältnisse*, in Bardeleben’s *Handb. der Anat. des Menschen*, IV, pp. 353–386, 1899. Spitzka, E. A., Brain-weight of Animals with special reference to the Weight of the Brain in the Macaque Monkey, *J. Comp. Neurol.* XIII, pp. 9–17, 1903. Warneke, P., Mitteilung neuer Gehirn und Körpergewichtsbestimmungen bei Säugern, nebst Zusammenstellung der gesammten bisher beobachteten absoluten und relativen Gehirngewichte bei den verschiedenen Species, *J. f. Psychol. u. Neurol.* XIII, pp. 355–403, 1909. Donaldson, H. H., On the regular seasonal Changes in the relative Weight of the Central Nervous System of the Leopard Frog, *Journ. of Morph.* XXII, pp. 663–694, 1911.
+
+.. [#fn126] **[Note 126]** Cf. Jenkinson, Growth, Variability and Correlation in Young Trout, *Biometrika*, VIII, pp. 444–455, 1912.
+
+.. [#fn127] **[Note 127]** Cf. chap. xvii, p. 739.
+
+.. [#fn128] **[Note 128]** “ ...I marked in the same manner as the Vine, young Honeysuckle shoots, etc....; and I found in them all a gradual scale of unequal extensions, those parts extending most which were tenderest,” *Vegetable Staticks*, Exp. cxxiii.
+
+.. [#fn129] **[Note 129]** From Sachs, *Textbook of Botany*, 1882, p. 820.
+
+.. [#fn130] **[Note 130]** Variation and Differentiation in Ceratophyllum, *Carnegie Inst. Publications*, No. 58, Washington, 1907.
+
+.. [#fn131] **[Note 131]** Cf. Lämmel, Ueber periodische Variationen in Organismen, *Biol. Centralbl.* XXII, pp. 368–376, 1903.
+
+.. [#fn132] **[Note 132]** Herein lies the easy answer to a contention frequently raised by Bergson, and to which he ascribes great importance, that “a mere variation of size is one thing, and a change of form is another.” Thus he considers “a change in the form of leaves” to constitute “a profound morphological difference.” *Creative Evolution*, p. 71.
+
+.. [#fn133] **[Note 133]** I do not say that the assumption that these two groups of earwigs were of different ages is altogether an easy one; for of course, even in an insect whose metamorphosis is so simple as the earwig’s, consisting only in the acquisition of wings or wing-cases, we usually take it for granted that growth proceeds no more after the final stage, or “adult form” is attained, and further that this adult form is attained at an approximately constant age, and constant magnitude. But even if we are not permitted to think that the earwig may have grown, or moulted, after once the elytra were produced, it seems to me far from impossible, and far from unlikely, that prior to the appearance of the elytra one more stage of growth, or one more moult took place in some cases than in others: for the number of moults is known to be variable in many species of Orthoptera. Unfortunately Bateson tells us nothing about the sizes or total lengths of his earwigs; but his figures suggest that it was bigger earwigs that had the longer tails; and that the rate of growth of the tails had had a certain definite ratio to that of the bodies, but not necessarily a simple ratio of equality.
+
+.. [#fn134] **[Note 134]** Jackson, C. M., *J. of Exp. Zool.* XIX, 1915, p. 99; cf. also Hans Aron, Unters. über die Beeinflüssung der Wachstum durch die Ernährung, *Berl. klin. Wochenbl.* LI, pp. 972–977, 1913, etc.
+
+.. [#fn135] **[Note 135]** The temperature limitations of life, and to some extent of growth, are summarised for a large number of species by Davenport, *Exper. Morphology*, cc. viii, xviii, and by Hans Przibram, *Exp. Zoologie*, IV, c. v.
+
+.. [#fn136] **[Note 136]** Réaumur: *L’art de faire éclore et élever en toute saison des oiseaux domestiques, foit par le moyen de la chaleur du fumier*, Paris, 1749.
+
+.. [#fn137] **[Note 137]** Cf. (\ *int. al.*) de Vries, H., Matériaux pour la connaissance de l’influence de la température sur les plantes, *Arch. Néerl.* V, 385–401, 1870. Köppen, Wärme und Pflanzenwachstum, *Bull. Soc. Imp. Nat. Moscou.* XLIII, pp. 41–110, 1870.
+
+.. [#fn138] **[Note 138]** Blackman, F. F., *Ann. of Botany*, XIX, p. 281, 1905.
+
+.. [#fn139] **[Note 139]** For various instances of a “temperature coefficient” in physiological processes, see Kanitz, *Zeitschr. f. Elektrochemie*, 1907, p. 707; *Biol. Centralbl.* XXVII, p. 11, 1907; Hertzog, R. O., Temperatureinfluss auf die Entwicklungsgeschwindigkeit der Organismen, *Zeitschr. f. Elektrochemie*, XI, p 820, 1905; Krogh, Quantitative Relation between Temperature and Standard Metabolism, *Int. Zeitschr. f. physik.-chem. Biologie*, I, p. 491, 1914; Pütter, A., Ueber Temperaturkoefficienten, *Zeitschr. f. allgem. Physiol.* XVI, p. 574, 1914. Also Cohen, *Physical Chemistry for Physicians and Biologists* (English edition), 1903; Pike, F. H., and Scott. E. L., The Regulation of the Physico-chemical Condition of the Organism, *American Naturalist*, Jan. 1915, and various papers quoted therein.
+
+.. [#fn140] **[Note 140]** Cf. Errera, L., *L’Optimum*, 1896 (\ *Rec. d’Oeuvres, Physiol. générale*, pp. 338–368, 1910); Sachs, *Physiologie d. Pflanzen*, 1882, p. 233; Pfeffer, *Pflanzenphysiologie*, ii, p. 78, 1904; and cf. Jost, Ueber die Reactionsgeschwindigkeit im Organismus, *Biol. Centralbl.* XXVI, pp. 225–244, 1906.
+
+.. [#fn141] **[Note 141]** After Köppen, *Bull. Soc. Nat. Moscou*, XLIII, pp. 41–110, 1871.
+
+.. [#fn142] **[Note 142]** *Botany*, p. 387.
+
+.. [#fn143] **[Note 143]** Leitch, I., Some Experiments on the Influence of Temperature on the Rate of Growth in *Pisum sativum, Ann. of Botany*, XXX, pp. 25–46, 1916. (Cf. especially Table III, p. 45.)
+
+.. [#fn144] **[Note 144]** Blackman, F. F., Presidential Address in Botany, *Brit. Ass.* Dublin, 1908.
+
+.. [#fn145] **[Note 145]** *Rec. de l’Inst. Bot. de Bruxelles*, VI, 1906.
+
+.. [#fn146] **[Note 146]** Hertwig, O., Einfluss der Temperatur auf die Entwicklung von *Rana fusca* und *R. esculenta*, *Arch. f. mikrosk. Anat.* LI, p. 319, 1898. Cf. also Bialaszewicz, K., Beiträge z. Kenntniss d. Wachsthumsvorgänge bei Amphibienembryonen, *Bull. Acad. Sci. de Cracovie*, p. 783, 1908; Abstr. in *Arch. f. Entwicklungsmech.* XXVIII, p. 160, 1909.
+
+.. [#fn147] **[Note 147]** Der Grad der Beschleunigung tierischer Entwickelung durch erhöhte Temperatur, *A. f. Entw.* Mech. XX. p. 130, 1905. More recently, Bialaszewicz has determined the coefficient for the rate of segmentation in Rana as being 2·4 per 10° C.
+
+.. [#fn148] **[Note 148]** *Das Wachstum des Menschen*, p. 329, 1902.
+
+.. [#fn149] **[Note 149]** The *diurnal* periodicity is beautifully shewn in the case of the Hop by Joh. Schmidt (\ *C. R. du Laboratoire de Carlsberg*, X, pp. 235–248, Copenhague, 1913).
+
+.. [#fn150] **[Note 150]** *Trans. Botan. Soc. Edinburgh*, XVIII, 1891, p. 456.
+
+.. [#fn151] **[Note 151]** I had not received, when this was written, Mr Douglass’s paper, On a method of estimating Rainfall by the Growth of Trees, *Bull. Amer. Geograph. Soc.* XLVI, pp. 321–335, 1914. Mr Douglass does not fail to notice the long period here described; but he lays more stress on the occurrence of shorter cycles (of 11, 21 and 33 years), well known to meteorologists. Mr Douglass is inclined (and I think rightly) to correlate the variations in growth directly with fluctuations in rainfall, that is to say with alternate periods of moisture and aridity; but he points out that the temperature curves (and also the sunspot curves) are markedly similar.
+
+.. [#fn152] **[Note 152]** It may well be that the effect is not due to light after all; but to increased absorption of heat by the soil, as a result of the long hours of exposure to the sun.
+
+.. [#fn153] **[Note 153]** On growth in relation to light, see Davenport, *Exp. Morphology*, II, ch. xvii. In some cases (as in the roots of Peas), exposure to light seems to have no effect on growth; in other cases, as in diatoms (according to Whipple’s experiments, quoted by Davenport, II, p. 423), the effect of light on growth or multiplication is well-marked, measurable, and apparently capable of expression by a logarithmic formula. The discrepancy would seem to arise from the fact that, while light-energy always tends to be absorbed by the chlorophyll of the plant, converted into chemical energy, and stored in the shape of starch or other reserve materials, the actual rate of growth depends on the rate at which these reserves are drawn on: and this is another matter, in which light-energy is no longer directly concerned.
+
+.. [#fn154] **[Note 154]** Cf. for instance, Nägeli’s classical account of the effect of change of habitat on Alpine and other plants: *Sitzungsber. Baier. Akad. Wiss.* 1865, pp. 228–284.
+
+.. [#fn155] **[Note 155]** Cf. Blackman, F. F., Presidential Address in Botany, *Brit. Ass.* Dublin, 1908. The fact was first enunciated by Baudrimont and St Ange, Recherches sur le développement du fœtus, *Mém. Acad. Sci.* XI, p. 469, 1851.
+
+.. [#fn156] **[Note 156]** Cf. Loeb, *Untersuchungen zur physiol. Morphologie der Thiere*, 1892; also Experiments on Cleavage, *J. of Morph.* VII, p. 253, 1892; Zusammenstellung der Ergebnisse einiger Arbeiten über die Dynamik des thierischen Wachsthum, *Arch. f. Entw. Mech.* XV, 1902–3, p. 669; Davenport, On the Rôle of Water in Growth, *Boston Soc. N. H.* 1897; Ida H. Hyde, *Am. J. of Physiol.* XII, 1905, p. 241, etc.
+
+.. [#fn157] **[Note 157]** *Pflüger’s Archiv*, LV, 1893.
+
+.. [#fn158] **[Note 158]** Beiträge zur Kenntniss der Wachstumsvorgänge bei Amphibienembryonen, *Bull. Acad. Sci. de Cracovie*, 1908, p. 783; cf. *Arch. f. Entw. Mech.* XXVIII, p. 160, 1909; XXXIV, p. 489, 1912.
+
+.. [#fn159] **[Note 159]** Fehling, H., *Arch. für Gynaekologie*, XI, 1877; cf. Morgan, *Experimental Zoology*, p. 240, 1907.
+
+.. [#fn160] **[Note 160]** Höber, R., Bedeutung der Theorie der Lösungen für Physiologie und Medizin, *Biol. Centralbl.* XIX, 1899; cf. pp. 272–274.
+
+.. [#fn161] **[Note 161]** Schmankewitsch has made other interesting observations on change of size and form, after some generations, in relation to change of density; e.g. in the flagellate infusorian *Anisonema acinus*, Bütschli (\ *Z. f. w. Z.* XXIX, p. 429, 1877).
+
+.. [#fn162] **[Note 162]** These “Fezzan-worms,” when first described, were supposed to be “insects’ eggs”; cf. Humboldt, *Personal Narrative*, VI, i, 8, note; Kirby and Spence, Letter X.
+
+.. [#fn163] **[Note 163]** Cf. *Introd. à l’étude de la médecine expérimentale*, 1885, p. 110.
+
+.. [#fn164] **[Note 164]** Cf. Abonyi, *Z. f. w. Z.* CXIV, p. 134, 1915. But Frédéricq has shewn that the amount of NaCl in the blood of Crustacea (\ *Carcinus moenas*) varies, and all but corresponds, with the density of the water in which the creature has been kept (\ *Arch. de Zool. Exp. et Gén.* (2), III, p. xxxv, 1885); and other results of Frédéricq’s, and various data given or quoted by Bottazzi (Osmotischer Druck und elektrische Leitungsfähigkeit der Flüssigkeiten der Organismen, in Asher-Spiro’s *Ergebn. d. Physiologie*, VII, pp. 160–402, 1908) suggest that the case of the brine-shrimps must be looked upon as an extreme or exceptional one.
+
+.. [#fn165] **[Note 165]** Cf. Schmankewitsch, *Z. f. w. Zool.* XXV, 1875, XXIX, 1877, etc.; transl. in appendix to Packard’s *Monogr. of N. American Phyllopoda*, 1883, pp. 466–514; Daday de Deés, *Ann. Sci. Nat.* (\ *Zool.*), (9), XI, 1910; Samter und Heymons, *Abh. d. K. pr. Akad. Wiss.* 1902; Bateson, *Mat. for the Study of Variation*, 1894, pp. 96–101; Anikin, *Mitth. Kais. Univ. Tomsk*, XIV: *Zool. Centralbl.* VI, pp. 756–760, 1908; Abonyi, *Z. f. w. Z.* CXIV, pp. 96–168, 1915 (with copious bibliography), etc.
+
+.. [#fn166] **[Note 166]** According to the empirical canon of physiology, that (as Frédéricq expresses it) “L’être vivant est agencé de telle manière que chaque influence perturbatrice provoque d’elle-même la mise en activité de l’appareil compensateur qui doit neutraliser et réparer le dommage.”
+
+.. [#fn167] **[Note 167]** Such phenomena come precisely under the head of what Bacon called *Instances of Magic*: “By which I mean those wherein the material or efficient cause is scanty and small as compared with the work or effect produced; so that even when they are common, they seem like miracles, some at first sight, others even after attentive consideration. These magical effects are brought about in three ways ... [of which one is] by excitation or invitation in another body, as in the magnet which excites numberless needles without losing any of its virtue, *or in yeast and such-like*.” *Nov. Org.*, cap. li.
+
+.. [#fn168] **[Note 168]** Monnier, A., Les matières minérales, et la loi d’accroissement des Végétaux, *Publ. de l’Inst. de Bot. de l’Univ. de Genève* (7), III, 1905. Cf. Robertson, On the Normal Rate of Growth of an Individual, and its Biochemical Significance, *Arch. f. Entw. Mech.* XXV, pp. 581–614, XXVI, pp. 108–118, 1908; Wolfgang Ostwald, *Die zeitlichen Eigenschaften der Entwickelungsvorgänge*, 1908; Hatai, S., Interpretation of Growth-curves from a Dynamical Standpoint, *Anat. Record*, V, p. 373, 1911.
+
+.. [#fn169] **[Note 169]** *Biochem. Zeitschr.* II, 1906, p. 34.
+
+.. [#fn170] **[Note 170]** Even a crystal may be said, in a sense, to display “autocatalysis”: for the bigger its surface becomes, the more rapidly does the mass go on increasing.
+
+.. [#fn171] **[Note 171]** Cf. Loeb, The Stimulation of Growth, *Science*, May 14, 1915.
+
+.. [#fn172] **[Note 172]** *B. coli-communis*, according to Buchner, tends to double in 22 minutes; in 24 hours, therefore, a single individual would be multiplied by something like 10\ :sup:`28`; *Sitzungsber. München. Ges. Morphol. u. Physiol.* III, pp. 65–71, 1888. Cf. Marshall Ward, Biology of *Bacillus ramosus*, etc. *Pr. R. S.* LVIII, 265–468, 1895. The comparatively large infusorian Stylonichia, according to Maupas, would multiply in a month by 10\ :sup:`43`.
+
+.. [#fn173] **[Note 173]** Cf. Enriques, Wachsthum und seine analytisehe Darstellung, *Biol. Centralbl.* 1909, p. 337.
+
+.. [#fn174] **[Note 174]** Cf. (\ *int. al.*) Mellor, *Chemical Statics and Dynamics*, 1904, p. 291.
+
+.. [#fn175] **[Note 175]** Cf. Robertson, *l.c.*
+
+.. [#fn176] **[Note 176]** See, for a brief resumé of this subject, Morgan’s *Experimental Zoology*, chap. xvi.
+
+.. [#fn177] **[Note 177]** *Amer. J. of Physiol.*, X, 1904.
+
+.. [#fn178] **[Note 178]** *C.R.* CXXI, CXXII, 1895–96.
+
+.. [#fn179] **[Note 179]** Cf. Loeb, *Science*, May 14, 1915.
+
+.. [#fn180] **[Note 180]** Cf. Baumann u. Roos, Vorkommen von Iod im Thierkörper, *Zeitschr. für Physiol. Chem.* XXI, XXII, 1895, 6.
+
+.. [#fn181] **[Note 181]** Le Néo-Vitalisme, *Rev. Scientifique*, Mars 1911, p. 22 (of reprint).
+
+.. [#fn182] **[Note 182]** *La vie et la mort*, p. 43, 1902.
+
+.. [#fn183] **[Note 183]** Cf. Dendy, *Evolutionary Biology*, 1912, p. 408; *Brit. Ass. Report* (Portsmouth), 1911, p. 278.
+
+.. [#fn184] **[Note 184]** Lucret. v, 877. “Lucretius nowhere seems to recognise the possibility of improvement or change of species by ‘natural selection’; the animals remain as they were at the first, except that the weaker and more useless kinds have been crushed out. Hence he stands in marked contrast with modern evolutionists.” Kelsey’s note, *ad loc.*
+
+.. [#fn185] **[Note 185]** Even after we have so narrowed the scope and sphere of natural selection, it is still hard to understand; for the causes of *extinction* are often wellnigh as hard to comprehend as are those of the *origin* of species. If we assert (as has been lightly done) that Smilodon perished owing to its gigantic tusks, that Teleosaurus was handicapped by its exaggerated snout, or Stegosaurus weighed down by its intolerable load of armour, we may be reminded of other kindred forms to show that similar conditions did not necessarily lead to extermination, or that rapid extinction ensued apart from any such visible or apparent disadvantages. Cf. Lucas, F. A., On Momentum in Variation, *Amer. Nat.* xli, p. 46, 1907.
+
+.. [#fn186] **[Note 186]** See Professor T. H. Morgan’s *Regeneration* (316 pp.), 1901 for a full account and copious bibliography. The early experiments on regeneration, by Vallisneri, Réaumur, Bonnet, Trembley, Baster, and others, are epitomised by Haller, *Elem. Physiologiae*, VIII, p. 156 *seq.*
+
+.. [#fn187] **[Note 187]** *Journ. Experim. Zool.* VII, p. 397, 1909.
+
+.. [#fn188] **[Note 188]** *Op. cit.* p. 406, Exp. IV.
+
+.. [#fn189] **[Note 189]** The experiments of Loeb on the growth of Tubularia in various saline solutions, referred to on p. 125, might as well or better have been referred to under the heading of regeneration, as they were performed on cut pieces of the zoophyte. (Cf. Morgan, *op. cit.* p. 35.)
+
+.. [#fn190] **[Note 190]** *Powers of the Creator*, I, p. 7, 1851. See also *Rare and Remarkable Animals*, II, pp. 17–19, 90, 1847.
+
+.. [#fn191] **[Note 191]** Lillie, F. R., The smallest Parts of Stentor capable of Regeneration, *Journ. of Morphology*, XII, p. 239, 1897.
+
+.. [#fn192] **[Note 192]** Boveri, Entwicklungsfähigkeit kernloser Seeigeleier, etc., *Arch. f. Entw. Mech.* II, 1895. See also Morgan, Studies of the partial larvae of Sphaerechinus, *ibid.* 1895; J. Loeb, On the Limits of Divisibility of Living Matter, *Biol. Lectures*, 1894, etc.
+
+.. [#fn193] **[Note 193]** Cf. Przibram, H., Scheerenumkehr bei dekapoden Crustaceen, *Arch. f. Entw. Mech.* XIX, 181–247, 1905; XXV, 266–344, 1907. Emmel, *ibid.* XXII, 542, 1906; Regeneration of lost parts in Lobster, *Rep. Comm. Inland Fisheries, Rhode Island*, XXXV, XXXVI, 1905–6; *Science* (n.s.), XXVI, 83–87, 1907. Zeleny, Compensatory Regulation, *J. Exp. Zool.* II, 1–102, 347–369, 1905; etc.
+
+.. [#fn194] **[Note 194]** Lobsters are occasionally found with two symmetrical claws: which are then usually serrated, sometimes (but very rarely) both blunt-toothed. Cf. Calman, *P.Z.S.* 1906, pp. 633, 634, and *reff.*
+
+.. [#fn195] **[Note 195]** Wilson, E. B., Reversal of Symmetry in *Alpheus heterochelis*, *Biol. Bull.* IV, p. 197, 1903.
+
+.. [#fn196] **[Note 196]** *J. Exp. Zool.* VII, p. 457, 1909.
+
+.. [#fn197] **[Note 197]** *Biologica*, III, p. 161, June. 1913.

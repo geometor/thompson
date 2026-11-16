@@ -79,7 +79,7 @@ Module Contents
    Convert Gutenberg inline markup (`_italics_`, `^{sup}`, `_{sub}`, `{page}`, `[fn]`) to clean RST.
 
 
-.. py:function:: render_chapter_slice_1917(lines: list[str], chapter_key: str, notes_map: dict[int, str], used_notes: list[int], injected_plates: set[int]) -> str
+.. py:function:: render_chapter_slice_1917(lines: list[str], chapter_key: str, notes_map: dict[int, str], used_notes: list[int], injected_plates: set[int], include_heading: bool = True) -> str
 
    Render a verbatim chapter slice of the 1917 Cambridge edition into Sphinx RST.
 

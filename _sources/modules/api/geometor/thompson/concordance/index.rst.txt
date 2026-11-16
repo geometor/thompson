@@ -152,7 +152,7 @@ Module Contents
 
    .. py:method:: by_unit(unit_slug: str) -> list[ConcordanceEntry]
 
-      Return all concordance entries belonging to `unit_slug` (e.g. `'unit-3-equiangular-spiral'`).
+      Return all concordance entries belonging to `unit_slug` (e.g. `'ch_01'`).
 
 
 
