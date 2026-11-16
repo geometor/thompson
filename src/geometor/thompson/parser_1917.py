@@ -217,6 +217,7 @@ def render_chapter_slice_1917(
     notes_map: dict[int, str],
     used_notes: list[int],
     injected_plates: set[int],
+    include_heading: bool = True,
 ) -> str:
     """Render a verbatim chapter slice of the 1917 Cambridge edition into Sphinx RST."""
     start_1, end_1, heading_title, page_span = CHAPTER_STARTS_1917[chapter_key]
@@ -225,12 +226,17 @@ def render_chapter_slice_1917(
     out: list[str] = [
         f".. _thompson-1917-{chapter_key}:",
         "",
-        heading_title,
-        "-" * len(heading_title),
-        "",
-        f".. rubric:: 1917 Cambridge First Edition ({page_span})",
-        "",
     ]
+    if include_heading:
+        out.extend(
+            [
+                heading_title,
+                "-" * len(heading_title),
+                "",
+                f".. rubric:: 1917 Cambridge First Edition ({page_span})",
+                "",
+            ]
+        )
 
     # Split into blank-line-separated paragraphs/blocks
     raw_block = "\n".join(raw_lines)

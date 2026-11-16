@@ -33,35 +33,45 @@ def _build_unit_en(
     notes_map: dict[int, str],
     injected_plates: set[int],
 ) -> str:
-    """Build `<slug>/<slug>-en.rst` for a unit."""
+    """Build `<slug>/index.rst` for a chapter."""
     parts: list[str] = [
         ":layout: book",
+        f":canonical_id: {unit.canonical_id}",
+        f":breadcrumb_title: {unit.canonical_id}",
+        f":order: {unit.order}",
+        f":folio: {unit.folio}",
+        ":tracks: English: index | Summary: summary | Notes: notes",
         "",
+        f".. _growth-and-form-{unit.slug}:",
         f".. _growth-and-form-{unit.slug}-en:",
-        "",
-        unit.title,
-        "=" * len(unit.title),
-        "",
-        f".. rubric:: {unit.rubric}",
-        "",
-        ".. contents:: In This Unit",
-        "   :local:",
-        "   :depth: 2",
-        "   :backlinks: none",
-        "",
+        f".. _growth-and-form-ch-{unit.order}:",
     ]
+    if unit.legacy_anchor:
+        parts.append(f".. _{unit.legacy_anchor}:")
+    parts.extend(
+        [
+            "",
+            unit.title,
+            "=" * len(unit.title),
+            "",
+            f".. rubric:: {unit.rubric}",
+            "",
+        ]
+    )
     used_notes: list[int] = []
     if unit.custom_en_body:
         parts.append(unit.custom_en_body.strip())
         parts.append("")
     else:
         for ch_key in unit.chapters_1917:
+            include_heading = unit.slug == "ch_01" or ch_key == "epilogue"
             ch_rst = render_chapter_slice_1917(
                 lines_1917,
                 ch_key,
                 notes_map,
                 used_notes,
                 injected_plates,
+                include_heading=include_heading,
             )
             parts.append(ch_rst.strip())
             parts.append("")
@@ -73,13 +83,21 @@ def _build_unit_en(
 
 
 def _build_unit_summary(unit: UnitSpec) -> str:
-    """Build `<slug>/<slug>-summary.rst` for a unit."""
+    """Build `<slug>/summary.rst` for a chapter."""
     heading = f"{unit.title} — Summary"
-    return "\n".join(
+    lines = [
+        ":layout: book",
+        f":canonical_id: {unit.canonical_id} (Summary)",
+        ":breadcrumb_title: Summary",
+        f":order: {unit.order}",
+        ":tracks: English: index | Summary: summary | Notes: notes",
+        "",
+        f".. _growth-and-form-{unit.slug}-summary:",
+    ]
+    if unit.legacy_anchor:
+        lines.append(f".. _{unit.legacy_anchor.replace('-en', '-summary')}:")
+    lines.extend(
         [
-            ":layout: book",
-            "",
-            f".. _growth-and-form-{unit.slug}-summary:",
             "",
             heading,
             "=" * len(heading),
@@ -90,30 +108,41 @@ def _build_unit_summary(unit: UnitSpec) -> str:
             "",
         ]
     )
+    return "\n".join(lines)
 
 
 def _build_unit_notes(unit: UnitSpec, apparatus: ThompsonApparatus) -> str:
-    """Build `<slug>/<slug>-notes.rst` for a unit, appending unit concordance links."""
+    """Build `<slug>/notes.rst` for a chapter, appending chapter concordance links."""
     heading = f"{unit.title} — Notes & Concordance"
     lines: list[str] = [
         ":layout: book",
+        f":canonical_id: {unit.canonical_id} (Notes)",
+        ":breadcrumb_title: Notes",
+        f":order: {unit.order}",
+        ":tracks: English: index | Summary: summary | Notes: notes",
         "",
         f".. _growth-and-form-{unit.slug}-notes:",
-        "",
-        heading,
-        "=" * len(heading),
-        "",
-        f".. rubric:: Scholarly Apparatus & GEOMETOR Cross-References — {unit.short_title}",
-        "",
-        unit.notes_body.strip(),
-        "",
     ]
+    if unit.legacy_anchor:
+        lines.append(f".. _{unit.legacy_anchor.replace('-en', '-notes')}:")
+    lines.extend(
+        [
+            "",
+            heading,
+            "=" * len(heading),
+            "",
+            f".. rubric:: Scholarly Apparatus & GEOMETOR Cross-References — {unit.canonical_id}",
+            "",
+            unit.notes_body.strip(),
+            "",
+        ]
+    )
     entries = apparatus.by_unit(unit.slug)
     if entries:
         lines.extend(
             [
-                "Structured Concordance Loci in This Unit",
-                "----------------------------------------",
+                "Structured Concordance Loci in This Chapter",
+                "-------------------------------------------",
                 "",
             ]
         )
@@ -275,7 +304,7 @@ def _build_concordance_rst(apparatus: ThompsonApparatus) -> str:
                 f"{entry.topic}",
                 "~" * len(entry.topic),
                 "",
-                f"| **Unit & Locus:** :ref:`{entry.chapter} <growth-and-form-{entry.unit}-en>` ({entry.pages_1917})",
+                f"| **Chapter & Locus:** :ref:`{entry.chapter} <growth-and-form-{entry.unit}-en>` ({entry.pages_1917})",
                 f"| **Summary:** {entry.summary}",
                 "",
             ]
@@ -299,25 +328,27 @@ def _build_codex_index_rst() -> str:
         ":layout: book",
         ":navigation: header",
         ":order: 1",
+        ":type: book",
         ":nav_title: On Growth and Form",
+        ":breadcrumb_title: On Growth and Form",
         ":book_title: On Growth and Form",
         ":book_subtitle: Sir D'Arcy Wentworth Thompson (Cambridge, 1917)",
         ":author: Sir D'Arcy Wentworth Thompson",
         ":year: 1917",
+        ":excerpt: Sir D'Arcy Wentworth Thompson's classic mathematical and physical analysis of biological morphology, scaling laws, surface tension, cellular foams, equiangular spirals, phyllotaxis, bone architecture, and coordinate transformations.",
         "",
         ".. _growth-and-form-index:",
         "",
         "On Growth and Form",
         "==================",
         "",
-        ".. rubric:: *D'Arcy Wentworth Thompson* (Cambridge University Press, First Edition, 1917) & *Jay Hambidge's Dynamic Symmetry* (Yale University Press, 1919–1920)",
+        ".. rubric:: *Sir D'Arcy Wentworth Thompson* — Cambridge University Press (First Edition, 1917)",
         "",
         ".. container:: title-page",
         "",
         "   | **Author:** :person:`Sir D'Arcy Wentworth Thompson <thompson>`",
         "   | **First Edition (Cambridge, 1917):** *On Growth and Form*, by D'Arcy Wentworth Thompson, Cambridge: at the University Press, 1917 (xv + 793 pp., 17 chapters, 408 figures).",
-        "   | **Dynamic Symmetry Companion (1919–1920):** *The Diagonal* (Vol. I, Nos. 1–12) & *Dynamic Symmetry: The Greek Vase*, by Jay Hambidge, New Haven: Yale University Press, 1919–1920.",
-        "   | **Digital Scriptorium Codex:** Synchronized 3-track edition (*English · Summary · Notes*) with 11 theme-adaptive ``.euclid-graphic`` SVG plates curated within the GEOMETOR canon.",
+        "   | **Digital Scriptorium Codex:** Synchronized 3-track edition (*English · Summary · Notes*) with 10 theme-adaptive ``.euclid-graphic`` SVG plates curated within the GEOMETOR canon.",
         "",
         ".. epigraph::",
         "",
@@ -330,67 +361,37 @@ def _build_codex_index_rst() -> str:
         "Table of Contents",
         "-----------------",
         "",
+        ".. collection::",
+        "   :sort: order",
+        "",
     ]
     for unit in UNITS:
-        lines.extend(
-            [
-                f"**{unit.title}** (*{unit.rubric}*)",
-                (
-                    f"   :ref:`1917/1920 Text <growth-and-form-{unit.slug}-en>` · "
-                    f":ref:`Summary <growth-and-form-{unit.slug}-summary>` · "
-                    f":ref:`Notes & Concordance <growth-and-form-{unit.slug}-notes>`"
-                ),
-                "",
-            ]
-        )
+        lines.append(f"   {unit.slug}/index")
 
     lines.extend(
         [
+            "",
             "----",
             "",
             "Scholarly Apparatus",
             "-------------------",
             "",
-            "* :ref:`Thompson–Hambidge–GEOMETOR Master Concordance <concordance>` — Cross-mapping across ``euclid``, ``elements``, ``aristotle``, ``aquinas``, ``pacioli``, ``pappus``, ``divine``, ``etc``, ``wildberger``, ``phyllotaxis``, and ``hilbert``.",
-            "* :ref:`Systematic Bibliography <bibliography>` — Primary 1917/1920 editions, classical geometers, and morphological monographs.",
+            "* :ref:`Thompson & GEOMETOR Master Concordance <concordance>` — Cross-mapping across ``euclid``, ``elements``, ``aristotle``, ``aquinas``, ``pacioli``, ``pappus``, ``divine``, ``etc``, ``wildberger``, ``phyllotaxis``, ``hilbert``, and ``hambidge``.",
+            "* :ref:`Systematic Bibliography <bibliography>` — Primary 1917 Cambridge First Edition, classical geometers, and morphological monographs.",
             "* :ref:`People <persons>` — Naturalists, mathematicians, engineers, and philosophers.",
-            "* :ref:`Morphological & Geometric Glossary <glossary>` — Technical vocabulary of capillarity, gnomons, phyllotaxis, graphic statics, transformations, and Dynamic Symmetry.",
+            "* :ref:`Morphological & Geometric Glossary <glossary>` — Technical vocabulary of capillarity, gnomons, phyllotaxis, graphic statics, and transformations.",
             "",
             ".. toctree::",
-            "   :maxdepth: 1",
+            "   :maxdepth: 2",
             "   :hidden:",
-            "   :caption: On Growth and Form (1917) & Dynamic Symmetry (1920)",
+            "   :caption: On Growth and Form (1917)",
             "",
         ]
     )
     for unit in UNITS:
-        lines.append(f"   {unit.slug}/{unit.slug}-en")
-
-    lines.extend(
-        [
-            "",
-            ".. toctree::",
-            "   :maxdepth: 1",
-            "   :hidden:",
-            "   :caption: Analytical Summaries",
-            "",
-        ]
-    )
-    for unit in UNITS:
-        lines.append(f"   {unit.slug}/{unit.slug}-summary")
-
-    lines.extend(
-        [
-            "",
-            ".. toctree::",
-            "   :maxdepth: 1",
-            "   :hidden:",
-            "   :caption: Scholarly Notes & Concordance",
-            "",
-        ]
-    )
-    for unit in UNITS:
-        lines.append(f"   {unit.slug}/{unit.slug}-notes")
+        lines.append(f"   {unit.slug}/index")
+        lines.append(f"   {unit.slug}/summary")
+        lines.append(f"   {unit.slug}/notes")
 
     lines.extend(
         [
@@ -411,7 +412,7 @@ def _build_codex_index_rst() -> str:
 
 
 def compile_codex(repo_root: Path | None = None) -> list[Path]:
-    """Compile all 26 `:layout: book` RST files under `docsrc/growth_and_form/`."""
+    """Compile all 56 `:layout: book` RST files under `docsrc/growth_and_form/`."""
     root = (repo_root or DEFAULT_REPO_ROOT).resolve()
     apparatus = load_apparatus(root)
     lines_1917 = load_thompson_1917_lines(root)
@@ -426,13 +427,13 @@ def compile_codex(repo_root: Path | None = None) -> list[Path]:
         unit_dir = codex_dir / unit.slug
         written.append(
             _write_rst(
-                unit_dir / f"{unit.slug}-en.rst",
+                unit_dir / "index.rst",
                 _build_unit_en(unit, lines_1917, notes_map, injected_plates),
             )
         )
-        written.append(_write_rst(unit_dir / f"{unit.slug}-summary.rst", _build_unit_summary(unit)))
+        written.append(_write_rst(unit_dir / "summary.rst", _build_unit_summary(unit)))
         written.append(
-            _write_rst(unit_dir / f"{unit.slug}-notes.rst", _build_unit_notes(unit, apparatus))
+            _write_rst(unit_dir / "notes.rst", _build_unit_notes(unit, apparatus))
         )
 
     written.append(_write_rst(codex_dir / "concordance.rst", _build_concordance_rst(apparatus)))

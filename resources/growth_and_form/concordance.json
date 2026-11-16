@@ -1,18 +1,16 @@
 {
   "metadata": {
-    "title": "Thompson–Hambidge–GEOMETOR Morphological & Dynamic Symmetry Concordance",
-    "description": "Structured cross-repository concordance mapping D'Arcy Wentworth Thompson's On Growth and Form (Cambridge University Press, 1st ed., 1917) and Jay Hambidge's The Elements of Dynamic Symmetry (Yale University Press, 1919–1920) across the GEOMETOR Digital Scriptorium and symbolic geometry ecosystem.",
+    "title": "Sir D'Arcy Wentworth Thompson & GEOMETOR Master Concordance",
+    "description": "Structured cross-repository concordance mapping Sir D'Arcy Wentworth Thompson's On Growth and Form (Cambridge University Press, 1st ed., 1917) across the GEOMETOR Digital Scriptorium and symbolic geometry ecosystem.",
     "editions_aligned": {
-      "thompson_1917_cup": "On Growth and Form, First Edition (Cambridge: University Press, 1917, xv + 793 pp., 17 chapters)",
-      "hambidge_1920_diagonal": "The Diagonal, Vol. I, Nos. 1–12 ('The Elements of Dynamic Symmetry', New Haven: Yale University Press, 1919–1920)",
-      "hambidge_1920_vase": "Dynamic Symmetry: The Greek Vase (New Haven: Yale University Press, 1920)"
+      "thompson_1917_cup": "On Growth and Form, First Edition (Cambridge: University Press, 1917, xv + 793 pp., 17 chapters)"
     },
-    "edition_boundary_note": "Strictly anchored to the 1917 1st Edition (17 chapters) and 1919–1920 Yale editions; Thompson's 1942 2nd Edition and Bonner's 1961 abridgement are excluded."
+    "edition_boundary_note": "Strictly anchored to the 1917 1st Edition (17 chapters); Thompson's 1942 2nd Edition and Bonner's 1961 abridgement are strictly excluded."
   },
   "entries": [
     {
       "id": "epigraph-aquinas-newton",
-      "unit": "unit-1-magnitude",
+      "unit": "ch_01",
       "chapter": "Prefatory Note & Ch. I",
       "pages_1917": "pp. v–vi, 1–15",
       "topic": "Mathematical Morphology, Efficient Cause, and Physical Law",
@@ -36,9 +34,9 @@
     },
     {
       "id": "similitude-square-cube",
-      "unit": "unit-1-magnitude",
-      "chapter": "Ch. II (On Magnitude) & Bridge Chs. III–IV",
-      "pages_1917": "pp. 16–49 (bridge pp. 50–200)",
+      "unit": "ch_02",
+      "chapter": "Ch. II (On Magnitude)",
+      "pages_1917": "pp. 16–49",
       "topic": "Principle of Similitude, Galileo's Square-Cube Law, and Scale Regimes",
       "hambidge_parallels": [
         "The Diagonal (1919–1920), Lesson I — invariance of proportional shape versus absolute linear scale"
@@ -59,10 +57,46 @@
       "summary": "Demonstrates why gravity governs terrestrial vertebrates (L³), surface tension and viscosity govern protists and cells (L² and L¹), and Brownian agitation rules bacteria."
     },
     {
+      "id": "growth-rate-curves",
+      "unit": "ch_03",
+      "chapter": "Ch. III (The Rate of Growth)",
+      "pages_1917": "pp. 50–155",
+      "topic": "Growth Velocity Curves, Sigmoid Trajectories, and Differential Growth Gradients",
+      "hambidge_parallels": [
+        "The Diagonal (1919–1920) — proportional growth ratios and dynamic progression curves"
+      ],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book V (Theory of Abstract Proportions)",
+          "relation": "Eudoxian proportional ratios govern differential growth velocities dx/dt and dy/dt across distinct anatomical dimensions."
+        }
+      ],
+      "invariants": ["dL/dt", "dx/dt ≠ dy/dt", "Sigmoid autocatalytic curve"],
+      "summary": "Analyzes growth velocity curves, Quetelet's stature data, and unequal directional growth rates as the ontogenetic driver of morphological deformation."
+    },
+    {
+      "id": "cell-internal-mitosis-field",
+      "unit": "ch_04",
+      "chapter": "Ch. IV (Internal Form and Structure of the Cell)",
+      "pages_1917": "pp. 156–200",
+      "topic": "Mitotic Spindle, Centrosomes, Karyokinetic Asters, and Colloidal Force Lines",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "aristotle",
+          "locus": "De Anima & Generation of Animals",
+          "relation": "Physical tension fields in protoplasm replace speculative entelechies in accounting for cellular division configurations."
+        }
+      ],
+      "invariants": ["Dynamic lines of force", "Colloidal sol-gel tension"],
+      "summary": "Models mitotic asters and spindle fibers as physical tension lines and dynamic potential fields within protoplasmic colloids."
+    },
+    {
       "id": "delaunay-surfaces-cells",
-      "unit": "unit-2-cells-tissues",
-      "chapter": "Chs. V–VI (Forms of Cells & Adsorption)",
-      "pages_1917": "pp. 201–292",
+      "unit": "ch_05",
+      "chapter": "Ch. V (The Forms of Cells)",
+      "pages_1917": "pp. 201–276",
       "topic": "Capillarity, Laplace–Young Law, and Plateau–Delaunay Surfaces of Revolution",
       "hambidge_parallels": [],
       "sister_refs": [
@@ -76,10 +110,27 @@
       "summary": "Classifies solitary unicellular outlines—Amoeba, Lagena, Ciliates, Flagellates—through the six axisymmetric surfaces of constant mean curvature."
     },
     {
+      "id": "adsorption-gibbs-thomson",
+      "unit": "ch_06",
+      "chapter": "Ch. VI (A Note on Adsorption)",
+      "pages_1917": "pp. 277–292",
+      "topic": "Gibbs–Thomson Interfacial Concentration and Cell Wall Deposition",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "etc",
+          "locus": "Minimal boundary potentials and interfacial equilibria",
+          "relation": "Spontaneous solute concentration at fluid interfaces supplies the physical precursor to pellicle and spicular deposition."
+        }
+      ],
+      "invariants": ["Gibbs adsorption isotherm", "Δγ / Δc < 0"],
+      "summary": "Applies Gibbs–Thomson surface thermodynamics to explain how cell membranes, pellicles, and localized mineralizations form at interfaces."
+    },
+    {
       "id": "plateau-fermat-120",
-      "unit": "unit-2-cells-tissues",
-      "chapter": "Chs. VII–VIII (Forms of Tissues, or Cell-Aggregates)",
-      "pages_1917": "pp. 293–326, 346–410",
+      "unit": "ch_07",
+      "chapter": "Ch. VII (Forms of Tissues, or Cell-Aggregates)",
+      "pages_1917": "pp. 293–326",
       "topic": "Plateau's 120° Triple Junction, Steiner Networks, and Hexagonal Epithelia",
       "hambidge_parallels": [
         "Dynamic Symmetry: The Greek Vase (1920), Ch. I — hexagonal crystal/honeycomb tiling as the archetype of √3 Static Symmetry"
@@ -106,7 +157,7 @@
     },
     {
       "id": "maraldi-honeycomb-kelvin",
-      "unit": "unit-2-cells-tissues",
+      "unit": "ch_07",
       "chapter": "Ch. VII (The Bee's Cell & Parenchyma)",
       "pages_1917": "pp. 327–345",
       "topic": "Maraldi's Tetrahedral Angle (109° 28′ 16″), Rhombic Dodecahedron, and Kelvin's Tetrakaidecahedron",
@@ -129,10 +180,27 @@
       "summary": "Unifies Kepler, Maraldi, Réaumur, König, Maclaurin, Boscovich, Plateau, and Kelvin: both the bee's pyramidal cell cap and three-dimensional soap froth obey the tetrahedral spread s = 8/9."
     },
     {
+      "id": "tissues-cleavage-sachs-errera",
+      "unit": "ch_08",
+      "chapter": "Ch. VIII (The Forms of Tissues, continued)",
+      "pages_1917": "pp. 346–410",
+      "topic": "Sachs's Orthogonal Law, Errera's Minimal-Area Partitions, and Embryonic Cleavage",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book I, Def. 10 (Right Angles & Perpendicularity)",
+          "relation": "Sachs's law of orthogonal partition (90° intersections) governs dividing cellular blastomeres as minimal area partitions."
+        }
+      ],
+      "invariants": ["Orthogonal trajectories", "Minimal partition area"],
+      "summary": "Demonstrates that embryonic cell cleavage planes obey physical minimal-surface laws (Errera) and rectangular intersection (Sachs)."
+    },
+    {
       "id": "radiolaria-platonic-skeletons",
-      "unit": "unit-2-cells-tissues",
-      "chapter": "Chs. IX–X (Spicules, Radiolaria & Geodetics)",
-      "pages_1917": "pp. 411–492",
+      "unit": "ch_09",
+      "chapter": "Ch. IX (On Concretions, Spicules, and Spicular Skeletons)",
+      "pages_1917": "pp. 411–487",
       "topic": "Sponge Spicules, Haeckel's Polyhedral Radiolaria, Euler's Formula, and Cell Geodetics",
       "hambidge_parallels": [
         "Dynamic Symmetry: The Greek Vase (1920) — icosahedral/dodecahedral √5 proportions in nature"
@@ -150,13 +218,30 @@
         }
       ],
       "invariants": ["V - E + F = 2", "∑ (6 - k) F_k = 12 (3-valent spherical net)"],
-      "summary": "Proves via Euler's theorem that no spherical radiolarian mesh can consist solely of hexagons, and explains tetrahedral/octahedral/icosahedral baskets via symmetrical泡-film partitions."
+      "summary": "Proves via Euler's theorem that no spherical radiolarian mesh can consist solely of hexagons, and explains tetrahedral/octahedral/icosahedral baskets via symmetrical soap-film partitions."
+    },
+    {
+      "id": "geodetics-helical-vessels",
+      "unit": "ch_10",
+      "chapter": "Ch. X (A Parenthetic Note on Geodetics)",
+      "pages_1917": "pp. 488–492",
+      "topic": "Cylindrical Geodesics, Elastic Bending Energy, and Plant Thickenings",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book XI (Geometry of Cylinders and Helices)",
+          "relation": "Helical bands in xylem vessels and Spirogyra chloroplasts minimize elastic strain energy along cylindrical geodesics."
+        }
+      ],
+      "invariants": ["Geodesic curvature κ_g = 0", "Helical pitch angle"],
+      "summary": "Formulates plant vessel spiral thickenings and Spirogyra ribbons as shortest paths (geodesics) minimizing elastic bending energy."
     },
     {
       "id": "equiangular-spiral-gnomon",
-      "unit": "unit-3-equiangular-spiral",
-      "chapter": "Chs. XI–XIII (The Logarithmic Spiral, Foraminifera & Horns)",
-      "pages_1917": "pp. 493–634",
+      "unit": "ch_11",
+      "chapter": "Ch. XI (The Logarithmic Spiral)",
+      "pages_1917": "pp. 493–586",
       "topic": "Spira Mirabilis, Hero's Theory of the Gnomon, Golden Triangles, and Turbinated Shells",
       "hambidge_parallels": [
         "The Diagonal (1919–1920), Lesson I & Whirling Squares — direct citation of logarithmic shell growth and square gnomons of the φ rectangle"
@@ -182,8 +267,42 @@
       "summary": "Reveals why Nautilus, ammonites, gastropods, foraminifera, claws, and horns all obey the equiangular spiral: accretion of dead shell or horn at a growing margin without changing shape is mathematically equivalent to gnomonic self-similarity."
     },
     {
+      "id": "foraminifera-spiral-shells",
+      "unit": "ch_12",
+      "chapter": "Ch. XII (The Spiral Shells of the Foraminifera)",
+      "pages_1917": "pp. 587–611",
+      "topic": "Pulsatile Chamber Accretion and Geometric Progressions in Foraminifera",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book IX, Prop. 35 (Sum of Geometric Progression)",
+          "relation": "Pulsatile extrusion of successive chambers in Nodosaria, Textularia, and Rotalia forms discrete geometric sequences."
+        }
+      ],
+      "invariants": ["Discrete gnomonic ratio", "Geometric volume ratio"],
+      "summary": "Shows how discrete fluid droplet extrusions generate linear, alternating, and equiangular chambered foraminiferal tests."
+    },
+    {
+      "id": "horns-teeth-tusks-torsion",
+      "unit": "ch_13",
+      "chapter": "Ch. XIII (The Shapes of Horns, and of Teeth or Tusks)",
+      "pages_1917": "pp. 612–634",
+      "topic": "Differential Accretion, Conical Envelopes, and 3D Spatial Torsion",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "euclid",
+          "locus": "Book XII (Pyramids, Cones, and Space Curves)",
+          "relation": "Moseley's equations of horn curves combine transverse taper with longitudinal curvature and spatial torsion."
+        }
+      ],
+      "invariants": ["Spatial torsion τ", "Differential marginal growth"],
+      "summary": "Extends gnomonic accretion to 3D horns, teeth, and tusks where unequal growth rates across the generative margin induce curvature and torsion."
+    },
+    {
       "id": "phyllotaxis-fibonacci-tait",
-      "unit": "unit-4-phyllotaxis",
+      "unit": "ch_14",
       "chapter": "Ch. XIV (On Leaf-Arrangement, or Phyllotaxis)",
       "pages_1917": "pp. 635–651",
       "topic": "Schimper–Braun Fractions, Cylindrical Parastichy Lattices, and Golden Divergence",
@@ -206,10 +325,27 @@
       "summary": "Demystifies botanical Fibonacci numbers through Bravais's cylindrical lattice, P. G. Tait's overlapping parastichy theorem, A. H. Church's equipotential spirals, and Hofmeister's mechanical apex rule."
     },
     {
+      "id": "egg-shapes-peristalsis",
+      "unit": "ch_15",
+      "chapter": "Ch. XV (On the Shapes of Eggs, and of Certain Other Hollow Structures)",
+      "pages_1917": "pp. 652–669",
+      "topic": "Oviduct Peristalsis, Axisymmetric Membrane Statics, and Bird Egg Geometries",
+      "hambidge_parallels": [],
+      "sister_refs": [
+        {
+          "repo": "pappus",
+          "locus": "Synagoge Book V (Equilibrium of Fluids and Elastic Membranes)",
+          "relation": "Laplace's membrane equilibrium equation governs the conical and pyriform shapes assumed by flexible eggshells under hydrostatic pressure."
+        }
+      ],
+      "invariants": ["T_n / R_n + T_t / R_t = P_n", "Peristaltic pressure gradient"],
+      "summary": "Derives bird-egg shapes from peristaltic muscle pressures acting on pliable membranes, refuting cliff-ledge teleology."
+    },
+    {
       "id": "eggs-femur-mechanical-efficiency",
-      "unit": "unit-5-efficiency",
-      "chapter": "Chs. XV–XVI (Shapes of Eggs & Form and Mechanical Efficiency)",
-      "pages_1917": "pp. 652–718",
+      "unit": "ch_16",
+      "chapter": "Ch. XVI (On Form and Mechanical Efficiency)",
+      "pages_1917": "pp. 670–718",
       "topic": "Peristaltic Egg Mechanics, Culmann's Crane, Meyer's Femur Trabeculae, and Fidler's Cantilever Backbones",
       "hambidge_parallels": [],
       "sister_refs": [
@@ -224,8 +360,8 @@
     },
     {
       "id": "coordinate-transformations",
-      "unit": "unit-6-transformations",
-      "chapter": "Ch. XVII (On the Theory of Transformations) & Epilogue",
+      "unit": "ch_17",
+      "chapter": "Ch. XVII (On the Theory of Transformations, or the Comparison of Related Forms)",
       "pages_1917": "pp. 719–779",
       "topic": "Dürer's Grids, Cartesian Deformation Meshes, and Comparative Phylogeny",
       "hambidge_parallels": [
@@ -245,36 +381,6 @@
       ],
       "invariants": ["(x, y) ↦ (x + y cot ω, y sin ω)", "Conformal & coaxial circle families"],
       "summary": "Culminates On Growth and Form: related species differ not by piecemeal mosaic mutations of isolated parts, but by single global coordinate transformations of the organism as an integral whole."
-    },
-    {
-      "id": "hambidge-root-rectangles-whirling-squares",
-      "unit": "unit-7-dynamic-symmetry",
-      "chapter": "Companion Concordance: Jay Hambidge (1919–1920)",
-      "pages_1917": "Diagonal Vol. I pp. 1–25 & Greek Vase Chs. I–III (cf. Thompson pp. 509–513, 635–651)",
-      "topic": "Root Rectangles (√1–√5), Commensurability in Square, Reciprocal Orthogonality, and Whirling Squares",
-      "hambidge_parallels": [
-        "The Diagonal, Vol. I, No. 1 (Nov. 1919), pp. 1–7 ('Dynamic Symmetry of the Plant'), pp. 18–21 ('The Elements of Dynamic Symmetry: Root Rectangles & Instruments')",
-        "Dynamic Symmetry: The Greek Vase (1920), Chs. I–III ('Static and Dynamic Symmetry', 'Phyllotaxis and Shells', 'Root-Five and Whirling-Square Rectangles')"
-      ],
-      "sister_refs": [
-        {
-          "repo": "euclid",
-          "locus": "Book I, Prop. 47; Book II, Prop. 11; Book X, Def. 2 (δυνάμει σύμμετροι)",
-          "relation": "Hambidge explicitly grounds Dynamic Symmetry in Euclid X Def. 2: sides 1, √2, √3, 2, √5 are linearly incommensurable yet commensurable in square."
-        },
-        {
-          "repo": "wildberger",
-          "locus": "Consecutive Integer Quadrances Q = 1, 2, 3, 4, 5 & Perpendicular Spread s = 1",
-          "relation": "Unfolding root rectangles via compass diagonals increments side quadrance by 1 at each step (Q_{n+1} = Q_n + 1), while reciprocal diagonals intersect at spread s = 1 (90°)."
-        },
-        {
-          "repo": "divine",
-          "locus": "√5 Rectangle Decomposition: √5 = φ + 1/φ = 2φ - 1",
-          "relation": "Demonstrates Hambidge's core harmonic identity bridging the √5 rectangle to two overlapping whirling-square φ rectangles."
-        }
-      ],
-      "invariants": ["Q_n = n (n = 1, 2, 3, 4, 5)", "√5 = φ + φ⁻¹", "1 / φ = φ - 1 = 0.618034..."],
-      "summary": "Synthesizes Thompson's gnomonic shell geometry and Church's sunflower phyllotaxis with Jay Hambidge's 1919–1920 Yale geometric canon of root rectangles and whirling squares."
     }
   ]
 }

@@ -79,5 +79,5 @@ Query the morphological apparatus directly from Python:
 
    # Inspect cross-repository concordance loci
    apparatus = load_apparatus()
-   for entry in apparatus.by_unit("unit-3-equiangular-spiral"):
+   for entry in apparatus.by_unit("ch_11"):
        print(f"{entry.topic}: {entry.chapter} (1917 pp. {entry.pages_1917})")

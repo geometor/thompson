@@ -24,7 +24,6 @@ EXPECTED_SVGS = (
     "fig_plateau_fermat_hex.svg",
     "fig_maraldi_honeycomb.svg",
     "fig_kelvin_tetrakaidecahedron.svg",
-    "fig_hambidge_root_rectangles.svg",
     "fig_golden_gnomon_spiral.svg",
     "fig_nautilus_chambered_spiral.svg",
     "fig_phyllotaxis_parastichy.svg",
@@ -43,15 +42,13 @@ def test_version_and_exports() -> None:
 
 
 def test_sources_manifest_sha256_and_1917_copyright_boundary() -> None:
-    """Verify SHA-256 digests and strict 1917 Cambridge / 1920 Yale public-domain attestation."""
+    """Verify SHA-256 digests and strict 1917 Cambridge public-domain attestation."""
     results = verify_sources_manifest(REPO_ROOT)
-    assert len(results) == 3
+    assert len(results) == 1
     assert all(item["verified"] is True for item in results)
     years = {item["id"]: item["year"] for item in results}
     assert years == {
         "thompson-1917-cup": 1917,
-        "hambidge-1920-diagonal": 1920,
-        "hambidge-1920-vase": 1920,
     }
 
     apparatus = load_apparatus(REPO_ROOT)
@@ -70,7 +67,7 @@ def test_apparatus_counts_and_sister_repo_coverage() -> None:
     assert len(apparatus.persons) >= 35
     assert len(apparatus.citations) >= 32
     assert len(apparatus.glossary) >= 32
-    assert len(apparatus.entries) >= 11
+    assert len(apparatus.entries) >= 10
 
     for unit in UNITS:
         assert len(apparatus.by_unit(unit.slug)) >= 1, f"Missing concordance entry for {unit.slug}"
@@ -103,7 +100,7 @@ def test_apparatus_counts_and_sister_repo_coverage() -> None:
 
 
 def test_codex_rst_tracks_chapters_and_no_embedded_python() -> None:
-    """Verify all 26 :layout: book RST files, all 17 chapters, and zero embedded Python directives."""
+    """Verify all 56 :layout: book RST files, all 17 chapters, and zero embedded Python directives."""
     expected_files = [
         CODEX_DIR / "index.rst",
         CODEX_DIR / "concordance.rst",
@@ -112,10 +109,10 @@ def test_codex_rst_tracks_chapters_and_no_embedded_python() -> None:
         CODEX_DIR / "glossary.rst",
     ]
     for unit in UNITS:
-        for track in ("en", "summary", "notes"):
-            expected_files.append(CODEX_DIR / unit.slug / f"{unit.slug}-{track}.rst")
+        for track in ("index.rst", "summary.rst", "notes.rst"):
+            expected_files.append(CODEX_DIR / unit.slug / track)
 
-    assert len(expected_files) == 26
+    assert len(expected_files) == 56
     combined_en = []
     for rst_path in expected_files:
         assert rst_path.is_file(), f"Missing codex file: {rst_path}"
@@ -124,21 +121,20 @@ def test_codex_rst_tracks_chapters_and_no_embedded_python() -> None:
         assert ".. py_file::" not in text
         assert "code-block:: python" not in text
         assert ".. literalinclude::" not in text
-        if rst_path.name.endswith("-en.rst"):
+        if rst_path.name == "index.rst" and rst_path.parent != CODEX_DIR:
             combined_en.append(text)
 
     full_en_corpus = "\n".join(combined_en)
-    # All 17 chapters + Prefatory Note + Epigraphs + Epilogue + Hambidge sections must be present
+    # All 17 chapters + Prefatory Note + Epigraphs + Epilogue must be present
     assert ".. _thompson-1917-prefatory:" in full_en_corpus
     assert ".. _thompson-1917-epigraphs:" in full_en_corpus
     assert ".. _thompson-1917-epilogue:" in full_en_corpus
     for ch_num in range(1, 18):
         assert f".. _thompson-1917-ch-{ch_num}:" in full_en_corpus
-    assert ".. _hambidge-1920-root-rectangles:" in full_en_corpus
 
 
 def test_euclid_graphic_svg_contract_and_codex_embedding() -> None:
-    """Verify all 11 standalone .euclid-graphic SVGs parse cleanly and are wired via .. picture::."""
+    """Verify all 10 standalone .euclid-graphic SVGs parse cleanly and are wired via .. picture::."""
     all_codex_rst = "\n".join(
         p.read_text(encoding="utf-8") for p in CODEX_DIR.rglob("*.rst")
     )
@@ -194,7 +190,7 @@ def test_cli_commands(capsys) -> None:
 
     assert cli_main(["--root", str(REPO_ROOT), "summary"]) == 0
     out_summary = capsys.readouterr().out
-    assert '"concordance_entries": 11' in out_summary
+    assert '"concordance_entries": 18' in out_summary
 
     assert cli_main(["--root", str(REPO_ROOT), "concordance", "--repo", "wildberger"]) == 0
     out_conc = capsys.readouterr().out

@@ -1,14 +1,10 @@
 {
   "work": {
     "title": "On Growth and Form",
-    "companion_title": "The Elements of Dynamic Symmetry (The Diagonal & Dynamic Symmetry: The Greek Vase)",
-    "author": "D'Arcy Wentworth Thompson",
-    "companion_author": "Jay Hambidge",
+    "author": "Sir D'Arcy Wentworth Thompson",
     "edition": "First Edition (Cambridge University Press, 1917)",
-    "companion_edition": "Yale University Press First Printings (1919–1920)",
     "original_year": 1917,
-    "companion_years": "1919–1920",
-    "copyright_attestation": "100% Public Domain worldwide and in the United States. This Digital Scriptorium edition derives exclusively from D'Arcy Wentworth Thompson's 1917 Cambridge University Press First Edition (xv + 793 pp., 17 chapters, LCCN 18001383) and Jay Hambidge's 1919–1920 Yale University Press publications (The Diagonal, Vol. I, Nos. 1–12, and Dynamic Symmetry: The Greek Vase, 1920). Thompson's expanded 1942 Second Edition (whose copyright persists until 2037 in the US and only entered UK/EU public domain in 2019) and J. T. Bonner's 1961 abridged edition are strictly excluded—zero prose, pagination, or reorganized chapter headings are drawn from post-1920 editions."
+    "copyright_attestation": "100% Public Domain worldwide and in the United States. This Digital Scriptorium edition derives exclusively from D'Arcy Wentworth Thompson's 1917 Cambridge University Press First Edition (xv + 793 pp., 17 chapters, LCCN 18001383). Thompson's expanded 1942 Second Edition (whose copyright persists until 2037 in the US and only entered UK/EU public domain in 2019) and J. T. Bonner's 1961 abridged edition are strictly excluded—zero prose, pagination, or reorganized chapter headings are drawn from post-1920 editions."
   },
   "sources": [
     {
@@ -28,42 +24,6 @@
       "bytes": 1723255,
       "lines": 32108,
       "notes": "Complete human-proofread transcription of the 1917 Cambridge First Edition (Prefatory Note, Chapters I–XVII, Epilogue, Authorial Endnotes, and Index), preserving inline 1917 printed folio markers {1}–{779} and 408 figure captions verified against 300 DPI scans of ongrowthform1917thom.pdf."
-    },
-    {
-      "id": "hambidge-1920-diagonal",
-      "language": "en",
-      "filename": "resources/growth_and_form/sources/ia_diagonal1191unse_hambidge_1920.txt",
-      "title": "The Diagonal: An Illustrated Monthly Magazine Devoted to the Explanation of the Rediscovered Principles of Greek Design, Their Appearance in Nature and Their Application to the Needs of Modern Art (Vol. I, Nos. 1–12)",
-      "author": "Jay Hambidge (ed.)",
-      "publisher": "Yale University Press, New Haven, Connecticut",
-      "year": 1920,
-      "archive_provider": "Internet Archive (Getty Research Institute digitization)",
-      "archive_id": "diagonal1191unse",
-      "url": "https://archive.org/download/diagonal1191unse/diagonal1191unse_djvu.txt",
-      "scan_url": "https://archive.org/details/diagonal1191unse",
-      "rights": "Public Domain in the United States and worldwide (published Nov. 1919 – Oct. 1920; author died 1924).",
-      "sha256": "ad4d6930599438401c5ce377dfbc03d0099e41326594eed3c253175424495a07",
-      "bytes": 590450,
-      "lines": 14369,
-      "notes": "Original 1919–1920 Yale University Press serial publication containing Jay Hambidge's 'The Elements of Dynamic Symmetry' lessons (later collected posthumously in book form in 1926), including sunflower phyllotaxis (after A. H. Church), root rectangles (sqrt(1) to sqrt(5)), reciprocal rectangles, and the whirling-square golden rectangle."
-    },
-    {
-      "id": "hambidge-1920-vase",
-      "language": "en",
-      "filename": "resources/growth_and_form/sources/ia_dynamicsymmetry00hamb_yale_1920.txt",
-      "title": "Dynamic Symmetry: The Greek Vase",
-      "author": "Jay Hambidge",
-      "publisher": "Yale University Press, New Haven & New York (London: Humphrey Milford, Oxford University Press)",
-      "year": 1920,
-      "archive_provider": "Internet Archive (University of Toronto digitization)",
-      "archive_id": "dynamicsymmetry00hamb",
-      "url": "https://archive.org/download/dynamicsymmetry00hamb/dynamicsymmetry00hamb_djvu.txt",
-      "scan_url": "https://archive.org/details/dynamicsymmetry00hamb",
-      "rights": "Public Domain in the United States and worldwide (published 1920; author died 1924).",
-      "sha256": "23a471123bb91d03d00dc304409ee4ec95d56e68c9563d4065f1dabbf7ead0ab",
-      "bytes": 309918,
-      "lines": 6573,
-      "notes": "First book-length monograph by Jay Hambidge (Yale University Press, 1920), establishing static vs. dynamic symmetry, leaf-distribution and shell spirals, Euclidean commensurability in square (Book X), and root-five / whirling-square harmonic analysis."
     }
   ]
 }

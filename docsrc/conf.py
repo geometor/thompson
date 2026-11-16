@@ -24,9 +24,11 @@ repo_name = "thompson"
 
 setup_globals(org, org_name, repo, repo_name)
 
-project = "GEOMETOR • thompson"
-author = "D'Arcy Wentworth Thompson · Jay Hambidge · Digital Edition GEOMETOR"
-copyright = "1917 Cambridge University Press · 1920 Yale University Press · Digital Codex GEOMETOR"
+site_title = "Sir D'Arcy Wentworth Thompson"
+project = site_title
+html_title = f"{site_title} • {org_name}"
+author = "Sir D'Arcy Wentworth Thompson · Digital Edition GEOMETOR"
+copyright = "1917 Cambridge University Press · Digital Codex GEOMETOR"
 
 html_static_path = ["_static"]
 
@@ -55,6 +57,7 @@ for _sister_repo in (
     "wildberger",
     "phyllotaxis",
     "hilbert",
+    "hambidge",
 ):
     _local_inv = (_WORKSPACE_ROOT / _sister_repo / "docs" / "objects.inv").resolve()
     if _local_inv.is_file():

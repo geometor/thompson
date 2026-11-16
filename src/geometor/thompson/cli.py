@@ -32,7 +32,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
-    sub.add_parser("compile", help="Compile all 26 Book Codex RST files into docsrc/growth_and_form/.")
+    sub.add_parser("compile", help="Compile all 56 Book Codex RST files into docsrc/growth_and_form/.")
     sub.add_parser("verify", help="Verify SHA-256 digests and byte lengths of 1917/1920 primary sources.")
     sub.add_parser("summary", help="Print an overview of apparatus counts and tracked editions.")
 

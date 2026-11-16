@@ -77,8 +77,17 @@ class ThompsonApparatus:
     sources_manifest: dict[str, Any]
 
     def by_unit(self, unit_slug: str) -> list[ConcordanceEntry]:
-        """Return all concordance entries belonging to `unit_slug` (e.g. `'unit-3-equiangular-spiral'`)."""
-        return [entry for entry in self.entries if entry.unit == unit_slug]
+        """Return all concordance entries belonging to `unit_slug` (e.g. `'ch_01'`)."""
+        legacy_map = {
+            "unit-1-magnitude": {"ch_01", "ch_02", "ch_03", "ch_04"},
+            "unit-2-cells-tissues": {"ch_05", "ch_06", "ch_07", "ch_08", "ch_09", "ch_10"},
+            "unit-3-equiangular-spiral": {"ch_11", "ch_12", "ch_13"},
+            "unit-4-phyllotaxis": {"ch_14"},
+            "unit-5-efficiency": {"ch_15", "ch_16"},
+            "unit-6-transformations": {"ch_17"},
+        }
+        target_slugs = legacy_map.get(unit_slug, {unit_slug})
+        return [entry for entry in self.entries if entry.unit in target_slugs]
 
     def by_repo(self, repo_name: str) -> list[ConcordanceEntry]:
         """Return concordance entries cross-referencing `repo_name` (e.g. `'euclid'`, `'wildberger'`)."""
