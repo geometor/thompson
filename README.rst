@@ -20,6 +20,19 @@ Books in This Archive
 
 - `On Growth and Form <https://geometor.github.io/thompson/growth_and_form/>`_ — Sir D'Arcy Wentworth Thompson (Cambridge, 1917), presenting the unabridged first edition across seven synchronized codex units covering magnitude, cells, tissues, equiangular spirals, phyllotaxis, skeleton efficiency, and the theory of transformations.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-thompson`` Python package (``import geometor.thompson``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``compile_codex.py`` — Compile the 3-track synchronized Book Codex (``docsrc/growth_and_form/``) for ``geometor-thompson``.
+- ``concordance.py`` — Structured loader, query engine, and SHA-256 validator for the Thompson–Hambidge Codex.
+- ``parser_1917.py`` — Deterministic parser for the 1917 Cambridge First Edition of On Growth and Form.
+- ``units_data.py`` — Structured chapter specifications and scholarly apparatus for On Growth and Form (1917).
+- ``cli.py`` — Command-line interface for ``geometor-thompson``.
+
+See the `API Reference <https://geometor.github.io/thompson/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
