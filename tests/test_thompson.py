@@ -105,7 +105,7 @@ def test_codex_rst_tracks_chapters_and_no_embedded_python() -> None:
         CODEX_DIR / "index.rst",
         CODEX_DIR / "concordance.rst",
         CODEX_DIR / "bibliography.rst",
-        CODEX_DIR / "persons.rst",
+        CODEX_DIR / "people" / "index.rst",
         CODEX_DIR / "glossary.rst",
     ]
     for unit in UNITS:
