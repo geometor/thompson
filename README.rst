@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`On Growth and Form <https://geometor.github.io/thompson/growth_and_form/>`_** — Sir D'Arcy Wentworth Thompson (Cambridge, 1917), presenting the unabridged first edition across seven synchronized codex units covering magnitude, cells, tissues, equiangular spirals, phyllotaxis, skeleton efficiency, and the theory of transformations.
+- `On Growth and Form <https://geometor.github.io/thompson/growth_and_form/>`_ — Sir D'Arcy Wentworth Thompson (Cambridge, 1917), presenting the unabridged first edition across seven synchronized codex units covering magnitude, cells, tissues, equiangular spirals, phyllotaxis, skeleton efficiency, and the theory of transformations.
 
 Repository Contents
 -------------------
