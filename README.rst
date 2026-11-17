@@ -3,6 +3,11 @@ GEOMETOR • thompson
 
 **Visit the Online Archive:** https://geometor.github.io/thompson/
 
+.. image:: docsrc/_static/figures/fig_culmann_femur_trajectories.svg
+   :alt: GEOMETOR • thompson featured geometric construction
+   :target: https://geometor.github.io/thompson/
+   :align: center
+
 **Sir D'Arcy Wentworth Thompson • On Growth and Form • semantic digital archive**
 
 Mission
