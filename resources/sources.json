@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/thompson",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "thompson-1917-pg55264",
+      "title": "On Growth and Form (1st ed., 1917)",
+      "author": "D'Arcy Wentworth Thompson",
+      "year": "1917",
+      "era": "Project Gutenberg",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://www.gutenberg.org/ebooks/55264",
+      "local_path": "resources/gutenberg_55264_thompson_1917.txt",
+      "pages": null,
+      "publisher": "Cambridge University Press / Project Gutenberg #55264",
+      "rights": "Public Domain (1917)",
+      "excerpt": "1917 Cambridge 1st edition text via Project Gutenberg #55264."
+    }
+  ]
+}
