@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "geometor-thompson"
 authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
 description = "Scholarly Book Codex for D'Arcy Wentworth Thompson's On Growth and Form (Cambridge 1st Ed., 1917) with a Dynamic Symmetry & Gnomonic Morphology Concordance to Jay Hambidge (1920)."
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 dynamic = ["version"]
 dependencies = []
