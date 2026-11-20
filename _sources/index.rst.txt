@@ -8,6 +8,10 @@
 Sir D'Arcy Wentworth Thompson
 =============================
 
+.. image:: _static/medallion.svg
+   :alt: Sir D'Arcy Wentworth Thompson Medallion
+   :class: repo-medallion-hero
+
 The works of :person:`Sir D'Arcy Wentworth Thompson <thompson>` (1860–1948), Scottish pioneer of mathematical biology, illuminated the physical forces, logarithmic spirals, and geometric transformations governing organic configuration. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, this monumental treatise is liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. reference-directory::
