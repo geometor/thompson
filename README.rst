@@ -3,6 +3,12 @@ GEOMETOR • thompson
 
 **Visit the Online Archive:** https://geometor.github.io/thompson/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • thompson Medallion
+   :target: https://geometor.github.io/thompson/
+   :width: 180px
+   :align: center
+
 .. image:: docsrc/_static/figures/fig_culmann_femur_trajectories.svg
    :alt: GEOMETOR • thompson featured geometric construction
    :target: https://geometor.github.io/thompson/
